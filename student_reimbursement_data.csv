@@ -1,0 +1,1001 @@
+Annual_Income,Earning_Members,Parent_Type,House_Type,Rent_Amount,Parent_Occupation,Job_Type,Loan_Burden,Medical_Expenditure,Any_Disability,Children_Studying,Annual_College_Fee,Hostel_or_DayScholar,Transport_Cost,Land_Owned,Agriculture_Income,Urban_Rural,First_Generation_Learner,Reimbursement_%
+121958,3,Single Father,Own,55267,Private Job,Temporary,37034,73870,Yes,2,853810,DayScholar,35454,0.2,399871,Rural,no,100
+671155,3,Both Alive,Rent,82379,Unemployed,Permanent,171389,24162,Yes,3,47310,Hostel,23572,1.35,219182,Rural,no,100
+131932,1,Both Alive,Own,23952,Daily Wage,Contract,55468,6008,No,0,636115,DayScholar,38546,6.95,312067,Urban,yes,50
+365838,1,Single Mother,Rent,53798,Foreign,Contract,150166,7987,No,1,209899,DayScholar,15150,1.2,78563,Rural,no,50
+259178,1,Single Father,Own,98696,Business,Contract,188868,62532,No,0,438472,DayScholar,16799,2.31,135102,Urban,yes,50
+644167,2,Both Alive,Rent,50939,Daily Wage,Temporary,10589,96502,Yes,4,217500,DayScholar,9663,3.51,89779,Rural,yes,100
+110268,1,Single Father,Rent,29516,Govt Job,Self-employed,57221,3332,Yes,1,109862,Hostel,36948,7.58,164361,Urban,no,100
+732180,3,Both Alive,Rent,56526,Business,Permanent,1657,66323,Yes,0,1030498,Hostel,37030,5.82,412955,Urban,yes,100
+54886,3,Both Alive,Rent,10449,Daily Wage,Contract,98300,38990,Yes,3,311033,DayScholar,27007,6.89,99704,Rural,yes,100
+137337,1,Single Father,Own,50290,Agriculture,Permanent,117229,9873,Yes,3,1372148,Hostel,35283,5.67,261757,Urban,no,100
+999890,1,Both Alive,Rent,86661,Business,Temporary,39531,82542,No,1,382646,DayScholar,25671,6.84,391301,Rural,yes,0
+521430,4,Single Father,Own,72954,Business,Contract,52227,85761,Yes,4,440423,DayScholar,25385,0.03,110234,Urban,yes,100
+954698,3,Both Alive,Own,22746,Private Job,Temporary,3164,36444,Yes,3,584543,DayScholar,11236,9.31,323831,Urban,no,100
+87498,2,Single Mother,Own,67990,Agriculture,Self-employed,93078,35340,No,3,377968,DayScholar,22024,1.11,36491,Rural,yes,100
+899159,4,Single Father,Rent,58810,Govt Job,Temporary,41247,5033,Yes,4,1281179,DayScholar,46872,4.06,226621,Rural,yes,100
+912756,1,Both Alive,Own,83297,Foreign,Temporary,150673,73324,Yes,0,801841,DayScholar,39384,7.71,334259,Urban,no,100
+175203,1,Both Alive,Own,15223,Unemployed,Self-employed,50599,15689,Yes,3,1101014,Hostel,17376,4.35,380079,Urban,yes,100
+191335,3,Single Mother,Own,72237,Daily Wage,Permanent,135624,87134,No,2,251482,Hostel,37138,9.47,345922,Rural,yes,50
+278167,1,Single Father,Rent,2597,Private Job,Self-employed,140489,95239,Yes,3,775598,DayScholar,18157,4.68,397997,Rural,no,100
+41090,2,Both Alive,Rent,65677,Daily Wage,Self-employed,189651,66,No,0,795372,Hostel,19945,8.75,20448,Rural,yes,100
+329365,3,Single Mother,Own,2659,Govt Job,Temporary,68207,45246,No,0,804301,DayScholar,36584,8.11,313694,Urban,yes,50
+64820,1,Both Alive,Rent,86516,Govt Job,Permanent,72055,7533,Yes,1,504476,Hostel,23017,9.81,49294,Rural,no,100
+787201,3,Single Father,Rent,74567,Business,Contract,102266,80639,Yes,2,722222,Hostel,1756,9.27,283590,Rural,no,100
+321879,1,Both Alive,Own,15037,Unemployed,Self-employed,78270,70152,Yes,0,491153,Hostel,35141,8.98,338723,Urban,yes,100
+718315,1,Both Alive,Own,46738,Govt Job,Permanent,111426,59658,Yes,4,1870966,DayScholar,2576,7.32,216461,Rural,yes,100
+327069,1,Both Alive,Rent,71678,Daily Wage,Self-employed,134794,38498,No,2,1265950,Hostel,25467,3.67,376823,Rural,no,50
+776997,2,Both Alive,Own,12109,Agriculture,Self-employed,70442,11772,Yes,2,1995848,DayScholar,36952,1.06,85615,Rural,yes,100
+199041,2,Single Mother,Rent,22010,Agriculture,Self-employed,95632,89385,No,4,1810266,DayScholar,31205,6.89,17101,Rural,yes,50
+791743,3,Single Mother,Rent,8787,Business,Self-employed,171103,49036,No,3,1740081,DayScholar,35165,9.79,459394,Urban,yes,50
+103355,1,Single Father,Rent,8472,Foreign,Temporary,21438,58531,No,4,347766,Hostel,12674,7.27,290160,Rural,no,50
+235796,1,Single Mother,Rent,23383,Daily Wage,Permanent,58819,12940,No,4,1560531,Hostel,43094,9.29,150004,Rural,yes,50
+214176,2,Single Mother,Rent,61709,Daily Wage,Permanent,43856,16932,No,3,1609306,Hostel,43314,8.04,437869,Rural,yes,50
+184779,1,Single Father,Rent,69785,Govt Job,Permanent,164648,95305,Yes,3,91948,DayScholar,22353,1.63,90481,Rural,no,100
+347449,2,Single Mother,Own,34518,Unemployed,Self-employed,41938,56827,No,3,264657,DayScholar,29849,2.49,52802,Rural,no,50
+421909,1,Single Mother,Own,53909,Daily Wage,Temporary,180100,61431,No,3,1346316,Hostel,4535,3.42,269693,Rural,no,50
+989436,3,Single Father,Rent,18351,Private Job,Self-employed,59807,24648,Yes,3,1658655,DayScholar,47367,1.68,210005,Urban,yes,100
+258795,1,Single Father,Rent,69624,Foreign,Self-employed,49877,32966,Yes,4,1625270,Hostel,41936,5.82,156434,Urban,yes,100
+486232,1,Single Father,Rent,53330,Govt Job,Permanent,43461,27777,No,1,1099100,Hostel,17118,9.75,47842,Urban,no,50
+917040,4,Both Alive,Own,15282,Private Job,Self-employed,93474,32567,No,1,164404,Hostel,632,7.61,46539,Rural,yes,0
+500186,2,Both Alive,Rent,84866,Business,Contract,171541,17174,Yes,0,120160,Hostel,13280,4.23,33717,Rural,yes,100
+156730,1,Single Father,Own,21778,Agriculture,Self-employed,83136,42598,No,1,1205412,DayScholar,14746,0.05,447812,Rural,yes,50
+870910,1,Single Father,Rent,24264,Business,Contract,20435,59199,Yes,1,1741499,Hostel,37036,3.13,246281,Urban,yes,100
+384681,4,Single Father,Rent,59675,Agriculture,Self-employed,145263,13798,Yes,4,490891,Hostel,19285,5.27,416232,Rural,no,100
+149503,4,Both Alive,Own,5075,Business,Temporary,84726,65364,No,3,1226018,Hostel,18047,3.24,186272,Urban,no,50
+654811,2,Both Alive,Own,75948,Daily Wage,Temporary,158458,17558,Yes,3,1850070,Hostel,48089,1.11,473484,Rural,yes,100
+527035,4,Single Mother,Rent,48454,Private Job,Permanent,162793,61084,No,4,578933,Hostel,10207,4.43,453503,Rural,no,50
+648143,3,Single Mother,Rent,28365,Agriculture,Self-employed,54786,44237,No,1,394903,Hostel,5591,2.53,115042,Urban,yes,0
+452366,4,Single Father,Rent,72766,Govt Job,Contract,13704,65497,No,4,1327964,Hostel,27757,9.09,127922,Urban,yes,50
+65725,3,Both Alive,Own,48200,Private Job,Contract,56635,178,Yes,0,1982452,DayScholar,16226,1.02,92447,Urban,no,100
+129981,2,Both Alive,Own,11002,Govt Job,Self-employed,133195,86006,No,3,1819345,DayScholar,29732,0.49,345546,Urban,no,50
+84654,2,Both Alive,Own,13947,Private Job,Contract,90710,17118,Yes,2,791608,DayScholar,27206,0.05,304751,Urban,yes,100
+953277,2,Single Father,Own,79222,Private Job,Temporary,62993,22616,No,0,1144077,DayScholar,20256,3.28,158693,Urban,yes,0
+905778,2,Single Mother,Own,94840,Business,Contract,112752,798,No,0,1176026,Hostel,33822,6.6,12823,Rural,yes,50
+591723,2,Single Father,Own,78610,Agriculture,Permanent,156488,7601,Yes,4,1778407,DayScholar,41340,7.3,29986,Urban,yes,100
+319030,3,Single Mother,Rent,52142,Agriculture,Temporary,132886,25363,No,1,1824469,DayScholar,46347,4.53,121682,Rural,no,50
+328947,3,Single Mother,Rent,56307,Unemployed,Temporary,78537,2795,No,3,1337676,DayScholar,43351,6.84,64325,Rural,no,50
+555839,2,Single Father,Own,4493,Private Job,Temporary,50258,97462,Yes,2,967977,Hostel,40775,3.6,390069,Rural,yes,100
+902648,4,Single Mother,Rent,50085,Daily Wage,Self-employed,147580,45264,Yes,0,941398,DayScholar,48671,6.68,250476,Rural,yes,100
+273538,1,Single Mother,Rent,34228,Daily Wage,Self-employed,85166,72833,Yes,2,1550710,DayScholar,9784,0.41,57771,Rural,no,100
+331236,2,Both Alive,Own,79676,Govt Job,Temporary,113710,3084,No,1,1259234,Hostel,37029,3.91,54973,Urban,yes,50
+528178,4,Single Mother,Rent,51875,Govt Job,Self-employed,35699,95865,Yes,1,1599573,DayScholar,35157,7.91,145762,Urban,no,100
+565894,1,Single Father,Own,31655,Business,Contract,46335,76646,Yes,2,746618,Hostel,19937,8.03,301251,Urban,yes,100
+489492,2,Single Father,Own,43472,Private Job,Self-employed,46806,731,No,3,390572,DayScholar,46707,7.16,57888,Rural,no,50
+256840,2,Single Mother,Rent,49437,Govt Job,Self-employed,77853,1129,Yes,1,1335930,Hostel,11219,2.04,10956,Urban,yes,100
+473254,3,Both Alive,Own,49416,Govt Job,Temporary,194840,28022,No,2,898513,DayScholar,9399,2.47,86839,Rural,yes,50
+349457,1,Both Alive,Own,59711,Foreign,Permanent,35739,1605,No,0,179746,DayScholar,33312,9.96,449443,Rural,yes,50
+665987,1,Single Mother,Own,6816,Private Job,Permanent,34785,77506,Yes,2,1577043,DayScholar,27657,1.03,167605,Rural,no,100
+270936,4,Single Mother,Own,77175,Business,Permanent,163052,44130,No,2,110025,Hostel,20047,1.81,488426,Rural,no,50
+239931,3,Single Father,Own,64307,Govt Job,Contract,85016,29265,Yes,4,1469525,DayScholar,35007,1.3,449450,Urban,yes,100
+239629,3,Single Mother,Own,46733,Business,Self-employed,132681,32330,Yes,1,1209728,Hostel,10559,3.28,101131,Urban,yes,100
+205041,3,Both Alive,Own,95028,Agriculture,Permanent,66253,68469,Yes,3,1553992,Hostel,20157,2.1,329738,Urban,yes,100
+698361,3,Single Mother,Own,11240,Business,Temporary,91128,15187,Yes,3,194484,Hostel,35395,4.98,187973,Urban,yes,100
+731912,1,Single Father,Rent,98234,Daily Wage,Permanent,159213,25791,No,4,1969484,Hostel,6618,4.76,11519,Urban,no,50
+417113,1,Single Father,Rent,92493,Daily Wage,Permanent,161081,90436,No,3,200043,DayScholar,44891,9.02,162187,Rural,no,50
+68148,2,Single Father,Rent,98344,Business,Self-employed,127581,70610,Yes,2,856278,DayScholar,6780,0.35,459482,Urban,no,100
+777089,2,Single Father,Own,71363,Daily Wage,Self-employed,110966,91962,Yes,4,1124056,DayScholar,27050,3.2,1832,Rural,yes,100
+648531,3,Single Father,Own,32762,Agriculture,Self-employed,137854,39867,No,0,777128,Hostel,8015,5.97,434584,Rural,yes,50
+251995,3,Single Mother,Rent,8259,Private Job,Contract,99352,893,Yes,1,325104,DayScholar,3130,6.05,481641,Rural,no,100
+906606,3,Single Mother,Rent,50139,Daily Wage,Contract,157005,99694,No,1,244622,Hostel,28083,4.8,113922,Urban,yes,50
+678843,2,Single Mother,Rent,14849,Daily Wage,Permanent,77154,19773,Yes,1,444368,Hostel,16480,8.16,105474,Rural,no,100
+910790,4,Single Mother,Own,81768,Business,Self-employed,139379,4239,No,2,1479042,Hostel,47599,0.63,69715,Rural,no,50
+572843,4,Single Father,Rent,89709,Agriculture,Permanent,108297,20863,No,0,1930773,DayScholar,35476,8.15,333979,Urban,no,50
+256508,2,Both Alive,Rent,54869,Unemployed,Temporary,38346,51415,No,4,1700129,DayScholar,38165,4.95,73366,Rural,no,50
+803591,2,Single Mother,Own,63095,Unemployed,Temporary,112138,68968,Yes,4,1893145,Hostel,11528,1.34,37570,Rural,yes,100
+896942,2,Both Alive,Rent,70910,Unemployed,Self-employed,50772,60430,Yes,1,747371,DayScholar,49608,8.86,481193,Rural,no,100
+106530,2,Single Mother,Own,86710,Unemployed,Self-employed,40149,1515,Yes,0,1177498,DayScholar,5914,6.49,137687,Urban,yes,100
+604365,2,Single Mother,Own,23567,Private Job,Temporary,86700,97206,Yes,0,526576,Hostel,37136,1.64,465514,Rural,no,100
+822352,2,Both Alive,Own,35292,Business,Self-employed,158598,14605,Yes,0,1704144,Hostel,11179,0.34,38311,Rural,no,100
+460337,3,Single Father,Rent,74813,Business,Contract,96758,56240,No,3,1498204,DayScholar,20472,1.41,352389,Urban,no,50
+724839,3,Single Mother,Rent,97136,Foreign,Contract,128447,5586,No,3,1364596,Hostel,12076,6.09,103187,Urban,no,50
+805889,3,Single Mother,Own,51631,Agriculture,Self-employed,199549,31186,No,1,890979,Hostel,24783,1.79,285578,Rural,yes,50
+459773,3,Single Mother,Rent,9885,Unemployed,Temporary,5695,26928,No,0,739024,DayScholar,46716,2.26,86879,Urban,yes,50
+208261,2,Both Alive,Rent,59659,Private Job,Permanent,39169,98264,No,0,846659,DayScholar,13824,0.25,15739,Urban,yes,50
+764469,4,Single Father,Rent,54306,Agriculture,Self-employed,47947,83087,No,4,1746386,Hostel,4299,7.23,66202,Urban,yes,0
+341097,1,Both Alive,Rent,66314,Unemployed,Self-employed,178296,87029,No,4,1143009,DayScholar,46888,8.1,98580,Urban,no,50
+315139,2,Both Alive,Own,65087,Private Job,Permanent,45865,20711,Yes,1,83704,Hostel,8118,7.97,224491,Urban,yes,100
+171829,1,Single Father,Rent,29165,Agriculture,Self-employed,156625,54962,No,0,541149,Hostel,10756,1.28,79599,Urban,yes,50
+271836,4,Both Alive,Own,58929,Business,Permanent,104501,20039,Yes,1,248366,DayScholar,7953,9.03,164721,Urban,no,100
+438974,3,Single Father,Own,67028,Business,Temporary,60410,36561,No,4,334058,Hostel,37552,6.72,231436,Rural,yes,50
+989913,4,Single Mother,Rent,95998,Govt Job,Contract,103754,75483,No,4,1122464,Hostel,15185,8.98,440661,Urban,yes,50
+202283,2,Single Father,Own,49812,Daily Wage,Temporary,90895,97871,Yes,3,875718,Hostel,41792,4.47,116770,Urban,yes,100
+196769,3,Single Mother,Rent,50500,Unemployed,Contract,155888,81395,No,1,595581,DayScholar,14674,4.37,301614,Urban,yes,50
+561353,2,Both Alive,Rent,79151,Foreign,Permanent,186098,88658,Yes,1,223596,DayScholar,44476,7.85,337109,Rural,no,100
+223165,3,Both Alive,Own,58643,Agriculture,Contract,50705,1577,No,0,78515,DayScholar,33927,0.93,387476,Urban,no,50
+623587,1,Single Mother,Own,44900,Foreign,Temporary,192994,28350,Yes,0,426740,Hostel,386,5.21,179693,Urban,yes,100
+950110,1,Both Alive,Own,42946,Govt Job,Contract,115700,33798,No,3,279209,Hostel,26617,8.36,391825,Rural,no,50
+535822,1,Single Father,Own,7851,Daily Wage,Permanent,73914,97434,Yes,2,1751620,DayScholar,7192,8.3,426142,Urban,yes,100
+487879,4,Single Mother,Rent,16288,Agriculture,Contract,1881,81417,Yes,2,1671584,DayScholar,10745,9.56,261051,Rural,yes,100
+564685,2,Both Alive,Rent,72692,Private Job,Self-employed,170639,10785,No,2,1223013,DayScholar,30020,6.98,114300,Rural,yes,50
+782038,4,Single Mother,Rent,67580,Unemployed,Temporary,47365,72227,No,1,1903884,Hostel,42678,2.08,300141,Urban,no,0
+353531,1,Single Father,Own,7368,Daily Wage,Self-employed,79211,61957,Yes,1,951208,DayScholar,21159,0.2,191012,Rural,no,100
+263160,2,Single Father,Own,85436,Business,Permanent,156078,65431,No,4,198929,Hostel,3409,4.79,171796,Urban,no,50
+579879,1,Both Alive,Own,96136,Govt Job,Contract,41198,17297,Yes,1,1195270,DayScholar,49841,5.14,359949,Urban,no,100
+220884,4,Single Father,Rent,46403,Daily Wage,Self-employed,153903,71894,No,1,880229,Hostel,25745,2.4,162776,Rural,no,50
+23247,4,Single Mother,Own,91170,Unemployed,Self-employed,100649,63772,Yes,1,251540,Hostel,45948,1.25,384346,Rural,no,100
+24300,4,Single Father,Rent,9168,Daily Wage,Contract,147531,19581,No,3,1027507,DayScholar,29455,5.86,421607,Urban,yes,100
+467281,1,Single Mother,Own,86497,Unemployed,Contract,163515,55192,Yes,1,1674005,Hostel,38910,7.64,456507,Urban,no,100
+607086,2,Single Mother,Rent,49879,Business,Temporary,173388,1462,No,0,1022211,DayScholar,38735,9.93,482939,Rural,yes,50
+533556,2,Single Father,Rent,59871,Agriculture,Self-employed,195558,64173,Yes,0,256476,Hostel,29166,7.58,241942,Urban,yes,100
+348951,1,Both Alive,Own,89388,Private Job,Self-employed,136949,15511,Yes,4,1039237,Hostel,39973,7.94,2526,Urban,no,100
+274329,2,Single Father,Own,98646,Business,Permanent,39553,76106,No,3,1006836,DayScholar,28072,6.16,417902,Urban,yes,50
+719064,1,Single Mother,Rent,32174,Private Job,Temporary,135994,48665,No,0,1423110,Hostel,48774,9.86,335483,Rural,yes,50
+742139,2,Single Mother,Rent,99751,Agriculture,Permanent,122778,44414,Yes,3,1417576,DayScholar,12109,6.4,491420,Urban,yes,100
+432315,3,Single Father,Own,92491,Daily Wage,Self-employed,117018,81010,Yes,3,1911209,DayScholar,45802,8.6,268718,Urban,no,100
+926075,3,Both Alive,Own,6581,Private Job,Permanent,135758,72573,Yes,4,435910,DayScholar,2484,9.46,270877,Urban,no,100
+516588,4,Both Alive,Rent,71853,Govt Job,Self-employed,32766,93665,Yes,3,1934774,Hostel,34622,9.3,312434,Rural,yes,100
+236584,3,Single Mother,Own,64046,Govt Job,Self-employed,32006,13386,No,1,32995,Hostel,44399,3.81,334937,Rural,no,50
+562332,3,Single Mother,Rent,49678,Unemployed,Permanent,31422,54460,Yes,3,888752,Hostel,2597,0.79,36051,Rural,yes,100
+837646,3,Both Alive,Rent,26649,Business,Permanent,116590,6221,Yes,4,1663005,DayScholar,40597,1.72,15909,Urban,no,100
+978732,1,Single Father,Own,88668,Agriculture,Contract,12205,23474,Yes,4,1722355,DayScholar,40954,0.59,482898,Rural,yes,100
+376896,3,Single Mother,Own,82325,Unemployed,Contract,154599,21045,No,4,451168,Hostel,3983,1.05,77338,Urban,yes,50
+48984,3,Single Mother,Own,14567,Business,Contract,149515,91319,Yes,0,1050532,Hostel,39452,1.85,335576,Rural,no,100
+302918,4,Both Alive,Own,80404,Business,Self-employed,147596,4922,No,1,699197,DayScholar,43151,3.41,290277,Urban,no,50
+264712,3,Single Father,Own,89906,Unemployed,Permanent,116477,22706,No,0,1129375,Hostel,17040,5.44,182643,Rural,no,50
+120151,3,Both Alive,Rent,96019,Foreign,Temporary,28202,42771,No,2,1762813,DayScholar,44772,7.12,79062,Urban,no,50
+455808,2,Single Father,Rent,61944,Business,Self-employed,196624,52335,No,1,509471,Hostel,30554,2.11,181980,Urban,no,50
+985067,4,Single Father,Own,78002,Foreign,Temporary,177214,98015,No,3,1890695,DayScholar,27916,6.73,404494,Rural,yes,50
+133767,4,Single Father,Own,28803,Govt Job,Permanent,61692,52949,No,4,765027,Hostel,44871,7.04,373690,Urban,yes,50
+648663,4,Single Mother,Own,18230,Govt Job,Self-employed,20855,70714,No,2,1095852,Hostel,26372,5.59,51458,Rural,yes,0
+703550,4,Both Alive,Rent,17862,Business,Temporary,191444,95558,Yes,1,1617387,DayScholar,39080,9.04,457481,Rural,no,100
+136330,4,Both Alive,Own,43355,Govt Job,Temporary,25095,15240,Yes,0,1255703,DayScholar,40706,1.11,449998,Urban,no,100
+480754,4,Single Father,Own,31259,Agriculture,Contract,169796,91756,No,4,326759,DayScholar,42722,1.77,317559,Urban,yes,50
+301648,1,Single Mother,Rent,99075,Foreign,Contract,49241,2716,Yes,0,499858,Hostel,29048,4.29,222159,Rural,yes,100
+688519,3,Single Mother,Rent,87445,Foreign,Contract,103119,16574,Yes,1,1561832,DayScholar,19669,1.27,316304,Rural,yes,100
+13986,4,Both Alive,Own,30795,Business,Self-employed,52003,83255,No,1,20514,DayScholar,9777,5.66,316543,Rural,yes,100
+586146,3,Single Mother,Own,8770,Govt Job,Permanent,199451,73717,Yes,2,57456,Hostel,36331,3.98,287442,Urban,no,100
+129312,3,Single Mother,Own,11093,Private Job,Permanent,94837,44066,No,3,17233,DayScholar,20968,2.85,231946,Rural,yes,50
+12666,1,Single Father,Rent,46571,Unemployed,Contract,94283,61826,Yes,0,1321822,DayScholar,37809,1.7,153263,Urban,no,100
+300804,4,Single Mother,Own,193,Unemployed,Contract,147044,20213,No,2,1124709,DayScholar,11292,3.35,450180,Urban,yes,50
+134633,2,Single Father,Own,17569,Foreign,Contract,123805,71916,No,4,843147,Hostel,40794,6.08,164164,Rural,no,50
+288998,1,Both Alive,Own,11190,Business,Temporary,93846,66151,Yes,3,1536985,Hostel,13923,5.76,89407,Rural,no,100
+850937,2,Single Mother,Rent,62824,Business,Contract,22927,50906,Yes,2,906977,Hostel,27703,1.64,206329,Urban,no,100
+628776,3,Both Alive,Rent,42752,Agriculture,Temporary,120589,463,No,0,638373,DayScholar,18657,1.25,497165,Urban,no,50
+707611,3,Both Alive,Own,32327,Daily Wage,Permanent,115657,31973,No,1,643389,Hostel,3629,0.27,62513,Urban,yes,50
+284806,1,Single Mother,Own,42070,Daily Wage,Self-employed,66630,74694,No,4,1458048,DayScholar,2114,0.12,313241,Urban,yes,50
+794824,1,Single Mother,Rent,85925,Foreign,Self-employed,104428,20651,Yes,0,1167260,DayScholar,34445,8.8,423495,Rural,yes,100
+30535,2,Both Alive,Rent,40197,Unemployed,Self-employed,122035,68694,Yes,3,1385520,DayScholar,35862,0.45,145476,Urban,no,100
+996107,4,Single Mother,Rent,2261,Agriculture,Self-employed,183419,20008,Yes,3,1580692,Hostel,25574,7.31,463238,Rural,yes,100
+375713,2,Single Father,Rent,93905,Agriculture,Temporary,126244,70474,Yes,1,629225,Hostel,32349,8.72,35198,Rural,yes,100
+838688,1,Single Father,Rent,26512,Agriculture,Temporary,69518,38185,No,1,1624412,DayScholar,22257,0.98,225295,Rural,yes,0
+351279,2,Single Mother,Rent,6716,Foreign,Contract,176355,87924,No,4,1267848,DayScholar,35052,4.36,312141,Urban,no,50
+913910,1,Both Alive,Rent,86795,Daily Wage,Temporary,81326,74417,No,4,1494159,Hostel,37820,9.62,471908,Urban,no,0
+821654,2,Single Mother,Rent,28933,Unemployed,Contract,143277,71139,No,1,1973853,Hostel,17973,8.34,393783,Rural,no,50
+601661,1,Single Mother,Rent,4378,Agriculture,Contract,120243,34980,Yes,1,1696679,Hostel,25737,4.9,454248,Rural,yes,100
+997079,1,Both Alive,Own,40583,Unemployed,Self-employed,12748,22504,No,3,1279570,DayScholar,12047,7.63,264323,Rural,yes,0
+647972,1,Both Alive,Own,85371,Govt Job,Temporary,152169,54970,No,1,997886,Hostel,22113,8.33,2019,Rural,yes,50
+489570,4,Single Father,Own,29033,Business,Temporary,134164,16766,Yes,2,137602,Hostel,694,3.48,81455,Urban,no,100
+456551,2,Both Alive,Rent,24000,Business,Contract,53311,93922,Yes,0,1709134,Hostel,15588,8.92,216311,Rural,yes,100
+273109,2,Single Father,Own,75868,Unemployed,Contract,22692,11695,No,1,1971328,DayScholar,45823,4.7,149776,Urban,no,50
+24538,2,Both Alive,Rent,42604,Private Job,Permanent,124954,17796,Yes,4,822002,Hostel,48848,5.28,149102,Urban,no,100
+894498,1,Single Mother,Rent,68336,Private Job,Permanent,154934,42543,No,2,1482047,DayScholar,20067,10.0,389027,Urban,no,50
+201664,2,Single Father,Own,95074,Foreign,Contract,130035,14559,Yes,4,1604046,DayScholar,6704,8.43,331589,Urban,no,100
+491234,2,Single Father,Rent,95655,Foreign,Permanent,79507,33139,Yes,2,1360093,DayScholar,40136,3.62,335695,Rural,yes,100
+899684,1,Single Father,Own,73869,Business,Permanent,80152,8802,No,1,1363739,Hostel,1971,0.1,3420,Urban,yes,0
+139182,3,Single Mother,Own,5410,Govt Job,Contract,4926,73843,Yes,0,203691,Hostel,47361,6.26,322019,Rural,no,100
+472525,1,Single Mother,Own,83375,Daily Wage,Contract,3969,40205,No,4,288187,Hostel,40823,7.04,178725,Urban,yes,50
+158338,2,Single Mother,Rent,56044,Daily Wage,Temporary,35733,98750,Yes,2,1497324,DayScholar,11441,6.51,16740,Rural,no,100
+184064,1,Single Mother,Own,63315,Foreign,Contract,69855,34159,Yes,3,242362,Hostel,31476,9.68,327407,Rural,yes,100
+214020,3,Single Mother,Rent,96055,Govt Job,Contract,41743,11516,Yes,1,207008,DayScholar,14677,8.63,105789,Rural,yes,100
+623094,1,Single Father,Own,71344,Foreign,Self-employed,130193,50492,Yes,0,291383,Hostel,27818,4.49,489080,Rural,no,100
+924414,2,Single Mother,Own,6796,Daily Wage,Temporary,170948,29086,Yes,1,1200064,Hostel,1868,0.63,457775,Rural,no,100
+897421,3,Single Father,Own,86716,Unemployed,Temporary,107445,30480,No,3,1717348,Hostel,18055,4.76,19465,Urban,no,50
+615270,4,Single Mother,Rent,54245,Foreign,Temporary,20323,52091,Yes,0,878408,Hostel,1728,6.89,444648,Rural,no,100
+645914,2,Both Alive,Rent,43056,Agriculture,Self-employed,16428,47766,No,3,558694,DayScholar,7632,6.08,4131,Urban,yes,0
+119176,3,Single Father,Rent,17709,Unemployed,Contract,34578,38737,Yes,1,1322595,DayScholar,12043,5.38,10652,Rural,no,100
+917710,3,Both Alive,Own,58557,Foreign,Temporary,86486,9265,No,2,1571023,DayScholar,6403,4.69,458189,Urban,yes,0
+218126,4,Single Father,Own,17543,Business,Temporary,64140,70990,Yes,1,505288,DayScholar,15732,2.94,218115,Urban,no,100
+218969,1,Both Alive,Rent,37418,Foreign,Permanent,107325,91717,No,1,1457544,Hostel,18526,2.77,440363,Urban,yes,50
+122409,1,Single Mother,Rent,94611,Business,Temporary,83829,15386,No,1,489969,DayScholar,9340,5.0,309815,Rural,no,50
+547707,2,Single Mother,Rent,96038,Govt Job,Contract,6364,37425,Yes,4,219097,DayScholar,38952,1.61,245289,Urban,yes,100
+968140,4,Single Mother,Rent,16724,Daily Wage,Contract,128867,43254,Yes,3,404569,DayScholar,22394,3.41,89342,Rural,yes,100
+253618,1,Single Father,Rent,3828,Unemployed,Permanent,166421,89863,Yes,3,692346,Hostel,33021,3.24,281315,Rural,yes,100
+769598,4,Both Alive,Rent,17087,Unemployed,Temporary,131763,53634,No,3,1014411,DayScholar,4102,5.87,217201,Urban,no,50
+50015,1,Single Mother,Own,12605,Private Job,Temporary,95598,86717,No,4,1032405,DayScholar,36310,0.67,259820,Urban,no,100
+772838,3,Both Alive,Rent,31337,Private Job,Temporary,197539,47662,Yes,2,811123,Hostel,19159,8.3,186764,Rural,no,100
+122096,1,Both Alive,Own,5482,Daily Wage,Self-employed,176968,86988,Yes,1,210919,Hostel,6212,5.62,58541,Rural,no,100
+631347,4,Single Mother,Own,65333,Private Job,Temporary,57062,99287,No,2,844507,DayScholar,31824,6.71,9470,Rural,yes,0
+185340,3,Single Mother,Rent,92541,Unemployed,Contract,144933,87527,No,4,1069370,DayScholar,37405,7.03,192416,Rural,yes,50
+110687,3,Both Alive,Rent,88296,Foreign,Contract,88302,75452,Yes,3,209542,Hostel,11525,2.91,44308,Rural,yes,100
+874371,3,Single Mother,Own,50952,Govt Job,Self-employed,63928,10143,No,1,1730342,DayScholar,28760,4.7,443855,Rural,no,0
+411357,4,Single Mother,Rent,5463,Govt Job,Self-employed,41347,91391,Yes,0,1396650,Hostel,44239,9.56,414542,Urban,yes,100
+735716,2,Single Mother,Rent,70448,Daily Wage,Temporary,3121,15581,Yes,0,1829833,DayScholar,45268,7.67,135669,Rural,yes,100
+105878,2,Single Father,Own,4648,Private Job,Permanent,83793,67443,Yes,2,1100284,DayScholar,27457,9.7,102840,Rural,no,100
+727270,2,Both Alive,Own,33623,Foreign,Self-employed,28164,29424,No,3,1960500,DayScholar,48015,7.46,161860,Urban,no,0
+973548,4,Both Alive,Own,59156,Govt Job,Self-employed,25491,88844,No,0,903061,DayScholar,10532,1.76,458236,Urban,yes,0
+198286,3,Single Father,Rent,35634,Govt Job,Temporary,59222,41984,No,2,1996880,DayScholar,13518,0.65,49477,Urban,no,50
+773290,2,Both Alive,Own,44602,Agriculture,Temporary,154237,41505,No,4,1233045,Hostel,6476,5.78,108261,Rural,no,50
+774684,4,Single Mother,Rent,49334,Agriculture,Self-employed,3748,62699,Yes,2,657601,Hostel,19743,3.58,102466,Urban,no,100
+164899,2,Both Alive,Own,68648,Unemployed,Permanent,26553,26957,No,2,817784,DayScholar,1004,2.75,295215,Urban,no,50
+973324,1,Single Mother,Own,22054,Govt Job,Self-employed,116547,25464,Yes,2,1946983,DayScholar,43054,8.07,463819,Rural,yes,100
+324767,2,Single Father,Own,70028,Daily Wage,Temporary,60380,23649,Yes,1,1414568,DayScholar,37485,3.67,455139,Rural,yes,100
+999238,2,Single Mother,Rent,22207,Business,Temporary,44331,42065,Yes,2,770956,Hostel,3271,3.17,70560,Rural,yes,100
+861882,3,Both Alive,Rent,80650,Business,Self-employed,120617,92661,No,2,1467230,Hostel,45482,8.5,466467,Rural,yes,50
+879858,4,Both Alive,Own,99821,Foreign,Permanent,39560,34758,Yes,1,1016425,Hostel,209,8.46,255392,Urban,yes,100
+379989,3,Both Alive,Own,81554,Govt Job,Self-employed,53865,5596,Yes,1,841431,Hostel,25463,3.56,261278,Rural,no,100
+415515,3,Single Father,Own,21386,Govt Job,Self-employed,177758,16374,No,4,1601346,Hostel,5539,8.32,450708,Urban,yes,50
+43585,3,Single Father,Rent,83276,Unemployed,Temporary,75910,3775,Yes,3,173543,Hostel,49305,8.51,424986,Rural,yes,100
+371369,3,Both Alive,Own,59518,Govt Job,Permanent,135747,27388,No,0,1892287,Hostel,19977,4.24,338906,Urban,no,50
+64044,3,Single Mother,Rent,52781,Daily Wage,Contract,197778,21029,No,0,381557,Hostel,8606,0.66,166471,Rural,no,100
+960061,2,Single Father,Own,52780,Agriculture,Permanent,77986,83981,No,2,509964,DayScholar,44384,0.02,472164,Rural,no,0
+442296,3,Both Alive,Own,61440,Govt Job,Self-employed,10068,53639,Yes,4,64213,Hostel,34052,5.23,244413,Rural,yes,100
+109556,3,Both Alive,Own,44199,Govt Job,Self-employed,54460,14645,No,2,910341,Hostel,3148,3.44,188511,Urban,no,50
+526981,4,Single Father,Own,61035,Unemployed,Self-employed,100766,31105,No,0,809458,Hostel,33536,9.97,437631,Urban,no,50
+881691,1,Single Father,Own,8210,Private Job,Permanent,46418,13668,No,1,1297273,Hostel,5607,7.72,405785,Urban,no,0
+767595,2,Single Father,Own,44363,Unemployed,Temporary,26206,15960,No,3,357328,DayScholar,19586,7.61,2369,Rural,yes,0
+200235,2,Single Mother,Rent,78279,Unemployed,Self-employed,128180,11357,Yes,4,15435,Hostel,29250,9.55,372107,Urban,no,100
+25939,2,Single Mother,Own,60348,Daily Wage,Self-employed,287,64604,No,1,149565,DayScholar,18594,8.88,228629,Rural,no,100
+966429,3,Both Alive,Rent,55284,Foreign,Permanent,22337,51796,Yes,3,1261875,DayScholar,7399,3.18,262672,Rural,yes,100
+960445,3,Single Father,Own,72124,Govt Job,Contract,151738,15804,No,4,855753,DayScholar,25117,1.66,108806,Rural,no,50
+152906,3,Single Mother,Own,68847,Unemployed,Contract,132233,14626,Yes,4,930267,Hostel,33126,7.46,161386,Urban,yes,100
+542335,4,Single Father,Rent,22432,Unemployed,Temporary,100667,28132,No,0,1341109,Hostel,33617,3.78,102979,Rural,yes,50
+288249,1,Both Alive,Own,64089,Private Job,Temporary,90071,7951,Yes,1,41498,Hostel,7498,4.73,411263,Urban,no,100
+75766,3,Single Mother,Rent,55398,Unemployed,Self-employed,98064,6449,No,4,1908763,DayScholar,37290,6.3,281892,Rural,yes,100
+408923,1,Single Mother,Rent,99291,Business,Permanent,169823,19065,Yes,4,897977,DayScholar,45541,9.08,35109,Rural,no,100
+415192,4,Single Mother,Own,3321,Foreign,Self-employed,106511,9130,Yes,3,570113,DayScholar,9628,4.19,13919,Rural,no,100
+568550,2,Both Alive,Rent,81348,Govt Job,Temporary,145830,89360,Yes,0,1337654,DayScholar,329,7.83,309642,Urban,no,100
+387261,3,Single Father,Rent,37383,Govt Job,Permanent,196852,62287,No,2,539862,Hostel,38619,2.68,317952,Urban,no,50
+810208,1,Single Mother,Own,78682,Private Job,Permanent,3178,51702,Yes,0,1713562,Hostel,7032,6.98,211864,Rural,yes,100
+685440,1,Both Alive,Rent,79190,Daily Wage,Temporary,31831,36993,Yes,2,1752115,Hostel,48094,0.02,70441,Urban,no,100
+652664,3,Single Father,Own,52893,Govt Job,Contract,133248,31875,Yes,1,929091,DayScholar,38034,8.72,375987,Urban,no,100
+984346,2,Both Alive,Own,35820,Business,Contract,103306,6054,Yes,1,52782,DayScholar,37122,0.3,336564,Rural,no,100
+454589,2,Single Father,Own,66262,Govt Job,Permanent,164726,99809,No,4,1031728,Hostel,20622,7.13,422122,Rural,yes,50
+137848,2,Both Alive,Own,3760,Business,Self-employed,157699,48517,Yes,1,457628,Hostel,28584,0.46,369591,Urban,yes,100
+617075,4,Single Father,Rent,22190,Foreign,Contract,183622,76368,Yes,4,1119137,DayScholar,47850,2.66,464702,Rural,no,100
+127948,1,Single Mother,Own,67411,Foreign,Self-employed,112025,29670,Yes,0,480440,Hostel,4722,4.97,66896,Rural,yes,100
+579304,1,Single Father,Own,23377,Agriculture,Contract,175982,49112,No,1,931913,Hostel,17772,4.2,103431,Urban,yes,50
+402690,1,Both Alive,Rent,46737,Agriculture,Contract,90417,88388,Yes,0,1972167,DayScholar,20569,1.92,415162,Urban,no,100
+499046,4,Both Alive,Own,69569,Business,Self-employed,189323,89156,Yes,0,474535,DayScholar,41679,3.34,47020,Rural,no,100
+451269,1,Single Father,Own,38211,Daily Wage,Temporary,166494,28307,Yes,1,1550808,DayScholar,3235,7.28,205338,Urban,no,100
+21959,4,Single Mother,Rent,82909,Govt Job,Contract,11984,67087,Yes,0,561039,Hostel,4576,6.69,284305,Urban,no,100
+660890,2,Single Mother,Rent,3744,Unemployed,Contract,89312,47922,No,1,1358894,DayScholar,26707,0.72,27738,Rural,no,0
+750216,3,Single Father,Rent,24995,Govt Job,Self-employed,192458,63080,Yes,1,1967686,Hostel,33868,7.47,134997,Rural,yes,100
+905533,1,Single Father,Rent,16977,Agriculture,Temporary,83291,93348,Yes,1,66572,Hostel,41632,0.53,401679,Rural,no,100
+790180,1,Both Alive,Rent,97938,Unemployed,Contract,7135,79335,No,2,1906424,DayScholar,41476,5.43,57153,Rural,no,0
+228576,2,Single Mother,Rent,34542,Business,Contract,320,26312,No,0,1463833,Hostel,30285,2.6,214020,Urban,no,50
+537833,3,Single Father,Rent,10651,Unemployed,Temporary,152756,66985,No,3,426443,DayScholar,24154,5.88,61009,Urban,no,50
+914091,4,Single Mother,Own,99239,Govt Job,Contract,186985,57608,Yes,1,1880209,DayScholar,20054,2.61,350082,Rural,no,100
+983703,3,Single Father,Rent,78931,Govt Job,Temporary,88774,89962,No,0,46069,Hostel,17165,9.85,361690,Rural,yes,0
+165838,2,Single Father,Rent,95344,Daily Wage,Temporary,152961,40277,Yes,4,747550,Hostel,14439,3.1,484469,Rural,no,100
+335674,2,Single Mother,Rent,16715,Private Job,Self-employed,98071,31551,No,1,822802,DayScholar,44518,2.42,172624,Rural,yes,50
+879989,3,Single Father,Own,44409,Unemployed,Permanent,179971,89813,Yes,1,1808954,DayScholar,22515,2.78,318415,Urban,no,100
+61087,4,Single Father,Own,24306,Agriculture,Temporary,141842,56597,No,3,1970350,DayScholar,26962,8.96,271941,Urban,no,100
+593128,4,Both Alive,Rent,19086,Agriculture,Self-employed,170393,45212,Yes,2,792533,DayScholar,42549,6.36,348274,Rural,no,100
+118451,1,Single Father,Rent,14376,Private Job,Permanent,109863,9637,No,2,939090,DayScholar,37763,7.31,71942,Rural,yes,50
+447600,4,Single Father,Rent,61350,Govt Job,Contract,41777,43258,Yes,1,715591,DayScholar,44754,9.18,118065,Urban,no,100
+837437,3,Single Father,Own,71425,Daily Wage,Permanent,46250,35693,Yes,0,397902,Hostel,45278,9.12,276109,Urban,no,100
+439792,2,Both Alive,Own,36636,Daily Wage,Temporary,73034,9824,Yes,4,1981402,Hostel,19464,7.39,275877,Urban,no,100
+39353,1,Single Mother,Rent,86120,Agriculture,Temporary,104940,26950,Yes,4,1910302,Hostel,42036,1.98,446439,Urban,no,100
+193075,1,Both Alive,Own,51649,Daily Wage,Temporary,40130,23488,Yes,0,1662332,Hostel,30413,8.43,389326,Rural,no,100
+214283,2,Both Alive,Rent,34610,Foreign,Temporary,180418,215,Yes,1,694659,DayScholar,33270,2.04,157998,Urban,no,100
+314877,4,Single Mother,Own,10058,Private Job,Temporary,133609,11523,Yes,4,1149291,Hostel,42299,7.43,159855,Urban,no,100
+65318,2,Both Alive,Own,74637,Govt Job,Self-employed,15216,75900,Yes,2,1129369,Hostel,20269,6.86,83360,Urban,yes,100
+765313,4,Single Mother,Rent,78033,Foreign,Temporary,84149,68689,No,0,449717,DayScholar,31541,7.59,167466,Rural,no,0
+482690,2,Both Alive,Rent,70194,Private Job,Self-employed,3009,23834,Yes,3,722494,Hostel,8009,5.33,370522,Rural,no,100
+416880,3,Single Mother,Rent,76917,Business,Contract,89904,34474,Yes,1,645960,DayScholar,17007,6.39,195868,Urban,no,100
+591460,4,Single Father,Rent,64200,Unemployed,Temporary,160399,43066,No,0,412993,DayScholar,26462,9.53,290431,Urban,yes,50
+740976,3,Both Alive,Own,46619,Agriculture,Temporary,145281,99871,Yes,4,1200897,DayScholar,11542,1.01,82104,Rural,yes,100
+781239,1,Both Alive,Own,17154,Daily Wage,Permanent,179515,10400,No,1,1703766,DayScholar,17434,3.09,161508,Rural,no,50
+93264,2,Both Alive,Own,19539,Business,Contract,15029,10345,Yes,2,1079966,DayScholar,29765,6.11,349060,Urban,yes,100
+770746,1,Both Alive,Rent,60058,Daily Wage,Temporary,198685,33896,No,1,1078945,Hostel,23769,9.64,221404,Rural,no,50
+813168,1,Single Father,Own,62068,Foreign,Temporary,188069,85430,No,1,153953,Hostel,22465,0.96,466783,Urban,no,50
+225281,1,Both Alive,Rent,77313,Govt Job,Contract,102171,28899,Yes,2,1330307,Hostel,21868,0.23,480699,Rural,yes,100
+637147,1,Single Father,Own,99932,Govt Job,Self-employed,114456,28229,No,2,234872,DayScholar,20156,0.56,265332,Urban,no,50
+898613,2,Single Father,Rent,30373,Govt Job,Temporary,62559,5583,Yes,1,477543,Hostel,20300,0.52,91205,Urban,yes,100
+394070,1,Single Father,Rent,33154,Daily Wage,Permanent,64892,4897,Yes,2,903441,Hostel,13435,9.08,232321,Rural,yes,100
+352228,2,Single Father,Own,6031,Business,Temporary,70409,71537,Yes,0,491127,Hostel,4114,7.21,359493,Urban,yes,100
+431839,2,Single Mother,Rent,93533,Govt Job,Permanent,139707,4567,Yes,2,491363,Hostel,46336,6.77,137837,Rural,no,100
+269536,3,Single Mother,Rent,71975,Business,Permanent,33065,74807,No,2,772922,DayScholar,36135,5.23,444842,Rural,no,50
+317824,4,Both Alive,Own,22785,Daily Wage,Temporary,120544,77239,Yes,1,935337,Hostel,8095,7.82,219779,Rural,no,100
+257426,4,Single Mother,Rent,78928,Foreign,Temporary,107340,13329,No,0,1569366,DayScholar,37909,1.56,141879,Urban,no,50
+177789,2,Single Mother,Rent,28669,Business,Permanent,33783,71792,No,3,1105589,DayScholar,3951,3.92,10204,Urban,no,50
+513153,3,Both Alive,Rent,94475,Foreign,Contract,34152,228,Yes,3,651629,Hostel,21468,4.9,223674,Urban,no,100
+742452,2,Both Alive,Own,2282,Daily Wage,Contract,58741,90282,Yes,4,924217,DayScholar,27073,1.1,189016,Rural,no,100
+837291,2,Both Alive,Own,34624,Daily Wage,Temporary,107049,82214,Yes,2,1777556,DayScholar,47655,4.2,304264,Urban,yes,100
+125657,2,Single Mother,Rent,48438,Agriculture,Self-employed,182574,37052,Yes,2,1205402,DayScholar,34341,3.17,102903,Urban,no,100
+235167,3,Single Mother,Own,89900,Daily Wage,Contract,29092,57769,No,0,641872,DayScholar,46127,0.36,415874,Urban,no,50
+681669,4,Both Alive,Rent,67534,Daily Wage,Temporary,148725,46032,Yes,3,88113,DayScholar,2768,1.37,299225,Urban,no,100
+480671,3,Single Father,Rent,31705,Private Job,Contract,171541,88721,No,4,499847,DayScholar,38070,7.64,256687,Rural,yes,50
+719094,1,Both Alive,Rent,38244,Govt Job,Self-employed,86483,33686,Yes,0,1931792,DayScholar,46514,0.18,34986,Urban,yes,100
+70467,3,Single Father,Rent,74964,Agriculture,Temporary,121585,76981,Yes,2,1093858,Hostel,33979,9.34,341466,Rural,yes,100
+183734,3,Single Father,Rent,37437,Unemployed,Self-employed,59754,98802,Yes,3,177809,Hostel,25351,0.86,356963,Rural,no,100
+622794,3,Both Alive,Own,77872,Agriculture,Temporary,161050,63261,Yes,4,1569764,DayScholar,15445,7.99,392159,Rural,yes,100
+109751,3,Both Alive,Rent,74878,Agriculture,Self-employed,87592,2809,No,1,1549219,DayScholar,48583,8.99,50304,Rural,yes,50
+381050,4,Both Alive,Own,72982,Unemployed,Contract,94543,41785,No,3,296268,Hostel,1160,9.41,327736,Urban,no,50
+930192,1,Single Mother,Own,50583,Private Job,Contract,43169,36547,Yes,4,1915110,Hostel,22361,8.67,320692,Urban,no,100
+811774,4,Single Father,Rent,38392,Foreign,Self-employed,179359,42818,No,0,405412,Hostel,7041,2.88,360591,Urban,no,50
+692517,4,Single Mother,Rent,7461,Daily Wage,Self-employed,54745,71927,No,1,1906535,Hostel,18767,3.33,39986,Rural,yes,0
+461079,3,Single Mother,Own,10516,Govt Job,Self-employed,110168,65681,Yes,4,402515,DayScholar,10846,4.27,336239,Urban,no,100
+368452,2,Both Alive,Own,79285,Business,Temporary,113985,79465,Yes,4,1975950,DayScholar,38644,1.39,91594,Rural,no,100
+969587,2,Single Mother,Own,17514,Unemployed,Contract,5543,89862,No,2,106651,Hostel,19924,0.22,350425,Urban,no,0
+106081,4,Both Alive,Rent,36268,Foreign,Temporary,187464,95527,No,3,1305125,Hostel,45657,8.69,66151,Urban,no,50
+983237,4,Single Father,Own,90486,Unemployed,Contract,21067,37333,No,2,95395,Hostel,13882,5.54,335742,Urban,no,0
+613333,3,Both Alive,Rent,36788,Daily Wage,Permanent,51033,16576,No,1,545633,Hostel,14738,6.09,290358,Rural,no,0
+558986,4,Single Mother,Rent,75749,Private Job,Temporary,45256,39405,Yes,4,920976,DayScholar,21019,9.27,300889,Urban,yes,100
+110078,3,Single Mother,Rent,61049,Unemployed,Contract,153263,94000,Yes,2,1879085,Hostel,1095,6.65,173620,Rural,no,100
+867055,2,Both Alive,Own,62493,Daily Wage,Contract,86803,73779,No,3,1451149,Hostel,38669,6.91,141753,Rural,yes,0
+22671,2,Both Alive,Rent,36027,Daily Wage,Temporary,118843,31601,Yes,1,1780336,Hostel,40983,7.87,138056,Rural,yes,100
+418400,1,Single Mother,Rent,93547,Private Job,Temporary,28992,67946,No,0,1594919,DayScholar,45679,1.16,158651,Urban,no,50
+355528,2,Single Father,Rent,42849,Agriculture,Contract,48803,67356,No,2,375837,DayScholar,14123,3.6,352954,Urban,yes,50
+959611,4,Single Father,Rent,17858,Agriculture,Temporary,109975,52116,Yes,1,1143859,DayScholar,28132,9.68,234347,Rural,yes,100
+610490,2,Both Alive,Rent,84162,Govt Job,Self-employed,194549,62894,No,0,1103060,Hostel,1079,9.23,186005,Rural,yes,50
+51663,3,Single Father,Own,79003,Govt Job,Temporary,144282,34635,No,2,611802,Hostel,29657,8.84,420615,Rural,no,100
+15708,2,Single Mother,Rent,52395,Agriculture,Temporary,26270,7465,Yes,1,1148711,Hostel,45278,4.52,162553,Rural,yes,100
+878338,1,Both Alive,Rent,39758,Foreign,Temporary,193080,56754,Yes,1,307915,DayScholar,32375,8.57,944,Rural,yes,100
+311955,2,Single Mother,Own,54312,Business,Contract,136269,97975,No,2,1564270,DayScholar,24754,0.48,93993,Urban,yes,50
+133883,3,Single Mother,Rent,68670,Daily Wage,Self-employed,7452,92850,No,1,198726,Hostel,31153,1.49,271258,Urban,yes,50
+318394,3,Single Father,Own,82279,Business,Permanent,41486,85119,Yes,4,1498332,Hostel,18344,4.14,301990,Urban,no,100
+112547,4,Both Alive,Rent,15434,Daily Wage,Permanent,14859,92691,No,2,224223,DayScholar,34241,4.83,214738,Rural,no,50
+989586,2,Both Alive,Own,64047,Agriculture,Self-employed,158308,38871,No,1,906716,Hostel,37656,2.64,208920,Rural,yes,50
+910681,3,Single Father,Own,47775,Govt Job,Self-employed,162971,62874,Yes,0,1175975,Hostel,4979,3.56,256805,Urban,no,100
+559042,1,Single Mother,Rent,75769,Foreign,Self-employed,32083,77733,Yes,0,1949893,Hostel,1212,1.63,294740,Urban,no,100
+751102,4,Single Mother,Rent,66677,Govt Job,Contract,67708,29511,Yes,4,525609,DayScholar,9001,4.89,104087,Rural,yes,100
+762002,1,Single Mother,Rent,83555,Business,Permanent,111462,80960,Yes,2,1023071,Hostel,13248,7.94,468503,Rural,no,100
+142483,2,Single Mother,Own,85920,Govt Job,Self-employed,147735,48821,Yes,1,1239221,Hostel,33187,6.61,269051,Rural,no,100
+658271,2,Both Alive,Own,45734,Agriculture,Contract,93076,65776,Yes,1,708093,Hostel,15608,1.08,255035,Urban,yes,100
+984774,2,Both Alive,Own,88503,Foreign,Permanent,19053,70167,No,0,1187920,Hostel,36427,4.88,159186,Rural,yes,0
+214835,4,Single Father,Rent,40603,Business,Temporary,142157,75135,No,4,1201408,DayScholar,31368,6.98,287153,Rural,no,50
+401896,3,Single Father,Own,76708,Foreign,Contract,161636,44462,Yes,0,1696090,DayScholar,5283,5.3,346990,Rural,no,100
+84896,4,Both Alive,Own,81926,Daily Wage,Permanent,89745,61382,Yes,0,633538,DayScholar,25854,3.92,312385,Urban,no,100
+477095,1,Both Alive,Rent,68803,Govt Job,Contract,190167,90194,No,4,297906,Hostel,10715,6.22,166797,Rural,no,50
+71295,4,Single Mother,Own,39332,Foreign,Permanent,69517,32574,No,2,1240634,DayScholar,16165,9.69,281140,Urban,yes,100
+743974,1,Single Mother,Own,91703,Private Job,Permanent,152225,41910,No,1,1748268,Hostel,34108,0.95,399263,Rural,yes,50
+887121,4,Single Father,Rent,21312,Govt Job,Temporary,136319,73531,Yes,2,1229748,DayScholar,26797,3.9,497769,Rural,yes,100
+273255,3,Both Alive,Own,93376,Daily Wage,Contract,141625,25186,Yes,3,1194592,Hostel,47573,4.07,290911,Urban,yes,100
+299648,1,Single Father,Rent,84526,Foreign,Self-employed,151883,94781,No,3,58825,DayScholar,10584,5.77,278491,Rural,yes,50
+657162,2,Both Alive,Rent,44179,Business,Temporary,137207,22813,Yes,3,23877,DayScholar,14780,1.52,102063,Urban,no,100
+8155,2,Single Mother,Rent,71442,Daily Wage,Temporary,136645,78812,Yes,4,433206,DayScholar,37905,1.77,24102,Rural,no,100
+466872,4,Single Father,Rent,40379,Private Job,Permanent,79267,85525,Yes,0,139065,Hostel,21573,2.85,4263,Urban,yes,100
+825816,2,Single Father,Rent,17297,Foreign,Self-employed,138261,78282,No,2,642731,Hostel,33359,9.56,370729,Rural,yes,50
+374705,1,Both Alive,Own,2011,Unemployed,Contract,80077,18557,No,1,371756,Hostel,526,7.34,67438,Urban,yes,50
+571542,2,Single Mother,Own,44014,Unemployed,Self-employed,174718,28060,Yes,3,127674,DayScholar,7855,6.62,96359,Urban,no,100
+808350,3,Single Father,Rent,11738,Agriculture,Self-employed,76623,58866,Yes,2,1173650,Hostel,43463,8.17,423756,Rural,no,100
+610269,3,Single Mother,Rent,94333,Govt Job,Self-employed,131004,72104,Yes,3,527257,Hostel,34060,1.28,130251,Urban,no,100
+978217,4,Single Father,Own,47498,Business,Self-employed,53687,84577,Yes,3,406474,Hostel,29482,8.59,494087,Rural,yes,100
+554594,1,Single Mother,Rent,11120,Agriculture,Self-employed,68312,6080,Yes,1,1310457,Hostel,16571,5.95,468942,Urban,yes,100
+147718,3,Both Alive,Rent,8767,Foreign,Permanent,107615,13854,No,4,41629,Hostel,31740,3.35,456985,Rural,yes,50
+308987,3,Single Father,Rent,22852,Unemployed,Permanent,130976,67695,Yes,0,965083,Hostel,19142,8.16,171915,Rural,yes,100
+645263,1,Single Father,Own,79239,Unemployed,Temporary,27564,27025,Yes,4,1212606,DayScholar,25104,8.03,27690,Rural,yes,100
+358745,2,Single Mother,Own,929,Unemployed,Permanent,28835,52982,Yes,2,1491257,DayScholar,8625,8.46,2994,Rural,no,100
+107512,2,Single Mother,Rent,77487,Foreign,Temporary,192659,41081,No,4,812207,Hostel,39199,1.16,103533,Urban,yes,50
+147443,4,Single Father,Rent,91575,Unemployed,Temporary,7697,4368,No,2,1528367,DayScholar,15926,9.69,67546,Rural,no,50
+470587,2,Both Alive,Own,95040,Daily Wage,Contract,80165,99621,Yes,2,1546425,DayScholar,31218,9.6,400593,Rural,no,100
+373616,1,Single Mother,Own,17438,Foreign,Self-employed,148118,27094,No,0,699567,Hostel,44472,3.57,340716,Rural,no,50
+657409,3,Single Mother,Rent,48515,Business,Permanent,57823,46040,No,1,1474345,Hostel,26380,0.66,26467,Rural,no,0
+686976,2,Single Mother,Rent,5744,Agriculture,Contract,184442,66766,No,0,1037442,DayScholar,20566,1.67,246590,Rural,no,50
+365871,4,Single Father,Own,83820,Business,Permanent,9615,83053,No,4,272199,Hostel,33205,9.93,131120,Urban,yes,50
+375037,2,Single Father,Own,42417,Private Job,Temporary,136132,23991,No,2,783372,DayScholar,43548,5.63,168050,Rural,yes,50
+807364,1,Single Father,Own,7069,Unemployed,Permanent,130499,1301,No,3,1147273,DayScholar,29717,3.57,309750,Urban,yes,50
+117796,4,Single Father,Rent,42359,Private Job,Self-employed,76436,28610,Yes,3,698233,DayScholar,49984,2.88,474790,Urban,no,100
+291999,2,Both Alive,Own,19799,Govt Job,Temporary,191591,81463,No,2,1160081,Hostel,41756,2.57,360256,Rural,no,50
+192506,4,Both Alive,Rent,98746,Govt Job,Temporary,120562,34678,No,0,1401440,DayScholar,25135,6.64,73414,Rural,no,50
+990198,1,Single Father,Own,93762,Private Job,Contract,71117,24466,Yes,1,1780141,Hostel,28164,4.19,355289,Urban,no,100
+698376,3,Both Alive,Own,70188,Foreign,Self-employed,192230,80440,Yes,0,1923207,Hostel,8953,9.65,180294,Urban,no,100
+269544,1,Single Mother,Own,89859,Business,Temporary,34782,40875,Yes,2,1214966,Hostel,38562,6.84,48115,Urban,no,100
+380002,1,Single Mother,Own,7597,Private Job,Self-employed,78533,26081,Yes,2,43734,Hostel,3574,7.92,351750,Rural,yes,100
+698002,1,Single Mother,Rent,47093,Govt Job,Permanent,189327,24354,No,1,223299,Hostel,20169,2.93,40647,Urban,no,50
+539439,1,Single Father,Rent,37226,Private Job,Self-employed,72684,93297,No,4,683882,DayScholar,21604,0.79,54607,Urban,no,0
+968911,3,Single Mother,Own,72127,Foreign,Temporary,187990,18300,No,4,152728,Hostel,24134,4.88,450626,Rural,yes,50
+590978,3,Both Alive,Rent,91369,Private Job,Contract,79558,64384,No,1,681253,Hostel,49069,3.15,21996,Urban,no,0
+528787,4,Single Father,Own,77362,Business,Temporary,81422,95027,Yes,4,1563185,Hostel,23202,2.02,448137,Rural,yes,100
+530583,2,Both Alive,Own,26417,Agriculture,Self-employed,156328,60892,No,3,812925,Hostel,684,9.53,83697,Urban,yes,50
+907317,3,Single Mother,Own,18693,Foreign,Self-employed,161077,35525,No,4,406848,Hostel,37001,4.44,308166,Rural,yes,50
+388215,3,Single Mother,Own,79674,Govt Job,Temporary,6638,26532,Yes,4,630160,DayScholar,49729,1.75,302292,Urban,no,100
+321184,2,Single Mother,Rent,53161,Business,Self-employed,37419,6464,No,4,1016152,Hostel,45765,1.99,67764,Rural,yes,50
+798615,3,Single Father,Own,2169,Private Job,Permanent,33377,16562,No,3,333923,Hostel,8007,2.81,354045,Rural,yes,0
+422515,1,Both Alive,Own,84092,Private Job,Temporary,106244,55514,No,4,703812,DayScholar,49379,9.99,352868,Urban,no,50
+668234,1,Single Father,Rent,22052,Agriculture,Contract,174188,74219,No,3,1727202,Hostel,35096,2.68,386910,Rural,yes,50
+378480,2,Single Father,Own,71849,Govt Job,Temporary,167706,32634,Yes,1,1441907,DayScholar,41787,3.29,239190,Urban,no,100
+32711,4,Single Mother,Own,73851,Govt Job,Permanent,23382,60,Yes,0,1175179,DayScholar,49582,6.59,8888,Rural,no,100
+791971,4,Single Father,Own,8036,Daily Wage,Permanent,187135,9269,Yes,1,1906615,DayScholar,9255,2.94,219738,Rural,yes,100
+501157,2,Single Father,Rent,31778,Govt Job,Permanent,153466,63143,Yes,0,1599804,DayScholar,32262,2.16,432375,Rural,no,100
+184423,2,Single Mother,Own,27734,Agriculture,Permanent,67789,23065,Yes,1,1737939,Hostel,18093,1.59,435413,Rural,no,100
+978771,1,Single Father,Rent,23173,Unemployed,Permanent,110634,2895,No,0,662168,Hostel,5782,3.13,477542,Rural,yes,50
+516349,4,Single Mother,Own,30403,Daily Wage,Contract,131936,80859,No,0,632696,DayScholar,1234,1.06,221432,Rural,yes,50
+703714,3,Single Mother,Own,66321,Daily Wage,Self-employed,99572,12352,Yes,2,831247,DayScholar,37973,0.19,361085,Rural,yes,100
+912495,1,Single Mother,Rent,71675,Private Job,Permanent,171294,49737,Yes,0,1744805,Hostel,34188,8.05,417690,Urban,yes,100
+657917,2,Single Mother,Own,6344,Private Job,Permanent,144738,96426,Yes,0,59297,DayScholar,31996,1.38,279477,Urban,no,100
+824792,4,Single Father,Own,18800,Govt Job,Temporary,123664,32016,No,2,70107,DayScholar,29204,7.76,36355,Rural,yes,50
+737378,3,Single Mother,Rent,25372,Daily Wage,Contract,152027,61304,Yes,4,354937,DayScholar,17152,7.98,230487,Rural,yes,100
+133272,3,Single Mother,Rent,61516,Private Job,Contract,110674,11962,No,4,419898,Hostel,42364,5.38,129686,Rural,yes,50
+767836,1,Single Father,Rent,20538,Agriculture,Self-employed,103533,33302,No,2,1602486,DayScholar,25019,3.1,467119,Urban,no,50
+986001,4,Single Father,Rent,63918,Private Job,Contract,81845,85382,No,3,302552,Hostel,19488,1.45,459474,Rural,no,0
+702335,4,Both Alive,Rent,14973,Foreign,Temporary,69590,4011,No,0,674197,Hostel,37123,7.37,162217,Urban,no,0
+807789,2,Single Father,Own,71155,Foreign,Temporary,127775,19782,Yes,0,1205055,Hostel,19689,6.01,249602,Rural,no,100
+643409,4,Single Father,Rent,59500,Private Job,Self-employed,66471,67691,No,2,1218957,DayScholar,28506,6.55,249434,Rural,no,0
+77505,4,Both Alive,Own,36575,Daily Wage,Temporary,43298,39725,No,2,1151766,DayScholar,17715,0.09,365314,Rural,yes,100
+2869,1,Single Father,Own,42261,Unemployed,Permanent,194180,9196,Yes,3,1470687,Hostel,41029,9.28,337819,Rural,no,100
+781474,4,Single Father,Own,27716,Unemployed,Permanent,48924,43459,No,4,786644,Hostel,13765,0.66,180926,Rural,no,0
+454351,3,Single Father,Rent,3236,Daily Wage,Temporary,147781,87245,No,1,1276560,Hostel,21942,3.67,67664,Urban,no,50
+312252,1,Single Father,Rent,15848,Business,Self-employed,9726,78863,No,4,534658,DayScholar,38712,4.03,86153,Rural,yes,50
+636584,1,Both Alive,Own,2352,Unemployed,Contract,191896,32769,Yes,0,1434932,DayScholar,39894,0.01,93616,Urban,yes,100
+618467,2,Single Father,Rent,1932,Foreign,Self-employed,40542,24700,No,2,796918,Hostel,49632,4.97,297429,Urban,no,0
+90272,4,Single Father,Rent,76449,Agriculture,Contract,151317,80356,No,3,1868770,Hostel,38031,7.53,256349,Rural,yes,100
+38467,2,Both Alive,Rent,8556,Daily Wage,Temporary,34753,76427,Yes,4,560901,DayScholar,20478,8.23,410749,Rural,no,100
+809760,3,Single Mother,Rent,86836,Govt Job,Temporary,79788,5269,Yes,3,1826740,Hostel,22551,8.79,425840,Rural,yes,100
+877844,1,Both Alive,Own,5498,Foreign,Permanent,21316,43880,No,4,13196,DayScholar,48068,4.88,46996,Urban,yes,0
+480047,1,Single Mother,Own,76118,Agriculture,Contract,84698,8320,No,0,1559648,DayScholar,28072,6.31,309091,Urban,no,50
+659347,1,Both Alive,Rent,50098,Agriculture,Self-employed,15960,49589,Yes,1,1570767,Hostel,35561,0.8,421172,Urban,yes,100
+58871,3,Both Alive,Own,64386,Daily Wage,Temporary,30791,76276,No,3,1284585,Hostel,2892,4.88,313174,Rural,no,100
+939903,3,Single Father,Rent,9569,Agriculture,Self-employed,25216,35897,Yes,3,1945573,DayScholar,33966,1.55,451813,Urban,no,100
+128391,2,Single Mother,Rent,56882,Daily Wage,Permanent,163539,58565,No,1,1921357,DayScholar,24395,3.7,304587,Urban,no,50
+439430,2,Single Father,Own,70393,Unemployed,Contract,64427,30930,Yes,3,861271,DayScholar,18756,3.29,128344,Urban,yes,100
+610704,2,Single Mother,Own,340,Private Job,Contract,112470,57233,No,3,1493708,DayScholar,22174,4.24,229685,Rural,yes,50
+856703,4,Both Alive,Own,43949,Foreign,Temporary,193119,82821,Yes,4,1591436,DayScholar,34651,5.72,327608,Urban,no,100
+830496,1,Both Alive,Rent,82302,Business,Contract,73290,14380,Yes,4,516528,Hostel,797,9.03,128019,Urban,no,100
+256687,1,Single Mother,Own,62443,Private Job,Temporary,47014,76896,Yes,1,1480017,DayScholar,8209,3.94,135024,Rural,yes,100
+725451,2,Single Father,Rent,91668,Foreign,Permanent,135150,70934,Yes,0,580141,DayScholar,41003,9.81,450096,Rural,no,100
+107450,1,Single Father,Own,74027,Daily Wage,Contract,50519,55830,Yes,3,697635,DayScholar,49306,7.59,183273,Rural,yes,100
+171890,2,Single Father,Own,138,Foreign,Temporary,4042,5529,No,0,868811,Hostel,21346,5.11,120454,Urban,yes,50
+438741,4,Single Father,Rent,358,Unemployed,Self-employed,49052,94598,No,1,1977185,Hostel,48025,6.44,124444,Urban,yes,50
+281974,4,Both Alive,Rent,75250,Daily Wage,Temporary,14389,82987,Yes,1,1174650,DayScholar,28024,1.02,374319,Urban,no,100
+934933,3,Both Alive,Rent,85376,Private Job,Contract,95961,49178,No,4,1511688,DayScholar,29414,8.45,304604,Rural,no,0
+400109,4,Both Alive,Rent,99931,Govt Job,Permanent,68111,6937,No,3,577497,Hostel,40818,5.82,153868,Urban,yes,50
+116381,2,Both Alive,Rent,30654,Govt Job,Contract,105058,39886,No,2,1548967,Hostel,5947,9.86,162818,Rural,no,50
+473125,4,Both Alive,Rent,25879,Foreign,Contract,93715,49699,No,1,969991,Hostel,9617,6.36,480001,Rural,no,50
+571621,3,Single Father,Rent,81532,Govt Job,Temporary,50733,76396,No,3,1469843,Hostel,20704,8.34,15,Urban,yes,0
+134508,1,Single Father,Rent,55778,Daily Wage,Self-employed,34754,90678,No,0,1677108,DayScholar,28702,8.0,311901,Urban,yes,50
+729650,2,Single Father,Own,37772,Agriculture,Contract,149696,25279,Yes,4,766355,Hostel,1892,3.45,157029,Urban,no,100
+862645,1,Single Father,Rent,58478,Daily Wage,Self-employed,85886,38106,No,0,1312092,DayScholar,29754,2.6,81541,Rural,yes,0
+399111,3,Both Alive,Rent,64353,Agriculture,Temporary,157753,79737,No,1,1791336,DayScholar,3424,4.3,21292,Rural,no,50
+150810,3,Both Alive,Own,26762,Private Job,Self-employed,89524,40544,No,1,634588,Hostel,42218,4.67,384838,Urban,yes,50
+292890,3,Both Alive,Rent,13283,Business,Temporary,81006,8997,Yes,0,1780897,Hostel,13418,2.4,162948,Rural,yes,100
+573665,1,Single Mother,Own,63922,Agriculture,Permanent,24704,85711,No,1,1511948,Hostel,29886,8.95,191799,Urban,no,0
+965908,1,Single Father,Own,39420,Govt Job,Self-employed,94913,40860,No,3,1435402,Hostel,34783,5.43,47046,Urban,no,0
+840477,1,Single Father,Rent,55568,Daily Wage,Self-employed,94108,3225,No,1,67175,DayScholar,23057,9.78,14817,Urban,no,0
+360032,1,Both Alive,Own,85090,Private Job,Permanent,7493,59470,Yes,4,1982929,DayScholar,4833,8.1,484222,Rural,no,100
+957294,3,Single Father,Rent,20219,Govt Job,Self-employed,69639,63656,No,3,1160127,DayScholar,9894,5.56,9759,Rural,no,0
+369599,3,Single Father,Own,57169,Private Job,Permanent,54383,51880,Yes,2,815408,Hostel,48710,9.47,179504,Urban,yes,100
+660960,2,Both Alive,Own,74965,Business,Contract,134066,61078,No,1,402761,DayScholar,41833,5.05,268556,Urban,yes,50
+750020,2,Single Mother,Own,46840,Unemployed,Temporary,47234,88646,Yes,1,1944802,Hostel,565,8.87,450973,Rural,no,100
+879611,1,Single Mother,Rent,44695,Daily Wage,Permanent,178363,76290,Yes,4,1829848,DayScholar,40180,3.58,282648,Urban,yes,100
+171836,4,Single Mother,Rent,84754,Foreign,Self-employed,128674,56633,Yes,4,1569067,Hostel,18402,3.79,370644,Rural,no,100
+729903,4,Both Alive,Own,77988,Daily Wage,Permanent,5594,26655,No,0,591154,DayScholar,42845,4.18,270651,Urban,yes,0
+45714,3,Single Father,Own,58342,Business,Self-employed,7371,43601,Yes,0,127752,DayScholar,10315,5.47,21050,Rural,yes,100
+974339,3,Both Alive,Rent,18951,Daily Wage,Contract,47315,3114,Yes,0,1892086,Hostel,12834,5.53,398036,Urban,no,100
+627234,3,Both Alive,Rent,1307,Foreign,Permanent,127251,26502,Yes,4,263564,DayScholar,2314,4.96,401051,Rural,no,100
+896048,2,Single Father,Own,80388,Agriculture,Contract,79526,49768,Yes,0,303257,DayScholar,37180,3.06,486383,Urban,no,100
+630271,2,Single Mother,Own,90768,Private Job,Temporary,147698,48128,No,0,1829456,Hostel,3883,9.27,100153,Rural,yes,50
+466960,3,Single Mother,Rent,35428,Foreign,Self-employed,86005,20028,No,2,1598265,Hostel,44152,5.89,275731,Rural,no,50
+711851,3,Both Alive,Rent,92021,Govt Job,Self-employed,105573,55565,No,0,1988964,Hostel,10051,4.08,231329,Rural,no,50
+124123,3,Single Mother,Rent,75774,Business,Contract,138202,83123,No,1,1274008,Hostel,40984,6.51,57732,Rural,no,50
+936093,4,Both Alive,Rent,38975,Agriculture,Temporary,137900,35333,Yes,4,1489355,Hostel,11695,7.68,51921,Urban,no,100
+305628,2,Both Alive,Rent,1140,Govt Job,Permanent,57514,3174,No,3,175486,DayScholar,23123,9.61,438715,Rural,no,50
+82989,4,Single Father,Own,24842,Govt Job,Permanent,183736,35398,Yes,2,681502,Hostel,7902,5.0,117734,Rural,no,100
+298356,4,Single Father,Rent,26421,Business,Self-employed,148955,35929,No,4,1040114,DayScholar,45955,1.12,392248,Urban,yes,50
+829957,3,Single Father,Own,1708,Agriculture,Contract,174131,4321,No,4,780488,DayScholar,17573,4.41,137912,Rural,yes,50
+178274,3,Both Alive,Rent,3630,Unemployed,Contract,174004,95971,No,1,1392212,Hostel,29374,4.79,496586,Urban,yes,50
+687995,1,Single Father,Own,19595,Govt Job,Permanent,192341,55421,Yes,0,1269112,DayScholar,12288,8.97,458293,Rural,yes,100
+325352,1,Single Mother,Rent,76021,Govt Job,Temporary,75986,72635,No,1,1789193,DayScholar,46978,3.95,31440,Rural,no,50
+820260,4,Single Mother,Rent,28308,Agriculture,Temporary,85959,23760,No,0,1135269,Hostel,6884,9.53,35183,Rural,no,0
+411927,2,Both Alive,Own,44789,Daily Wage,Permanent,2035,11360,No,0,1093711,DayScholar,10559,4.85,358316,Rural,yes,50
+789852,3,Both Alive,Own,55690,Govt Job,Permanent,109767,10313,Yes,4,475448,Hostel,18125,9.74,133461,Rural,yes,100
+883184,3,Single Father,Rent,26086,Private Job,Contract,171817,85998,No,0,1872870,Hostel,3688,0.08,448292,Rural,yes,50
+131373,4,Both Alive,Rent,16859,Agriculture,Temporary,17241,5801,No,2,146262,Hostel,23869,8.99,114515,Urban,no,50
+438452,1,Both Alive,Rent,7684,Govt Job,Permanent,52975,14130,Yes,2,1653063,DayScholar,46882,9.31,385327,Urban,no,100
+115294,2,Single Mother,Rent,91088,Business,Permanent,154226,14271,Yes,2,1950374,DayScholar,38137,9.61,328443,Rural,no,100
+459451,1,Single Mother,Rent,1207,Foreign,Self-employed,156697,16075,No,4,14331,DayScholar,44706,0.13,220533,Rural,yes,50
+971744,1,Single Father,Own,46099,Private Job,Permanent,176022,18984,No,1,1575976,DayScholar,4023,1.72,485301,Urban,yes,50
+648307,1,Both Alive,Own,67496,Foreign,Permanent,56396,88095,No,3,1241834,Hostel,48750,6.54,115503,Urban,yes,0
+65726,1,Both Alive,Rent,66093,Foreign,Temporary,118920,60942,Yes,0,1889656,DayScholar,17100,0.25,39023,Rural,yes,100
+141564,3,Single Mother,Own,29689,Govt Job,Contract,144403,12861,Yes,3,1349269,Hostel,36735,0.64,181101,Rural,yes,100
+377812,3,Both Alive,Own,48651,Private Job,Temporary,194999,98970,Yes,1,222854,DayScholar,7423,2.21,302085,Rural,no,100
+268246,1,Single Mother,Own,13893,Private Job,Contract,86226,82203,No,1,560049,DayScholar,39218,5.12,482209,Rural,no,50
+705696,2,Single Father,Rent,97808,Daily Wage,Self-employed,84719,71376,Yes,4,799694,DayScholar,12213,5.46,447166,Rural,no,100
+118015,4,Single Mother,Own,66418,Foreign,Permanent,63014,61247,No,2,1563416,DayScholar,35983,0.34,383821,Rural,no,50
+740674,2,Both Alive,Rent,60011,Private Job,Self-employed,39346,69101,Yes,2,978763,DayScholar,33158,1.7,218031,Urban,no,100
+254079,2,Single Father,Own,38635,Daily Wage,Contract,70411,20977,Yes,1,869004,Hostel,28460,5.0,76054,Rural,yes,100
+550929,2,Single Mother,Rent,56115,Agriculture,Temporary,185550,50617,Yes,4,790080,DayScholar,31017,5.94,327507,Rural,no,100
+689944,1,Single Mother,Own,95071,Daily Wage,Temporary,143326,57473,No,4,194544,DayScholar,33000,1.48,61742,Urban,yes,50
+688105,3,Single Father,Rent,78405,Business,Self-employed,186806,86654,No,0,360002,DayScholar,26502,3.99,491112,Urban,no,50
+513758,2,Single Father,Rent,72702,Unemployed,Contract,159693,88177,No,2,1143243,DayScholar,30990,9.04,45215,Urban,yes,50
+940597,1,Single Mother,Own,78518,Govt Job,Self-employed,76441,72902,No,1,14677,Hostel,19515,9.99,310001,Urban,yes,0
+983609,2,Both Alive,Rent,72805,Agriculture,Self-employed,46121,92172,Yes,3,214580,DayScholar,29991,9.87,317620,Rural,yes,100
+365890,2,Single Mother,Rent,58954,Unemployed,Permanent,60197,15630,No,2,140334,Hostel,7634,8.82,159245,Urban,yes,50
+445101,1,Single Father,Rent,28064,Unemployed,Self-employed,84577,20056,Yes,0,1532657,DayScholar,11498,3.95,402611,Urban,yes,100
+36631,3,Single Mother,Rent,79063,Agriculture,Permanent,94634,7382,No,4,1554360,Hostel,10916,6.87,321912,Rural,yes,100
+766577,3,Single Father,Rent,2454,Business,Permanent,173503,55739,No,1,373581,Hostel,29377,4.17,241443,Urban,no,50
+72991,4,Single Father,Rent,20878,Daily Wage,Temporary,100211,81685,Yes,2,978121,Hostel,33001,6.49,477959,Urban,yes,100
+4014,1,Both Alive,Rent,51098,Govt Job,Permanent,135909,48639,Yes,3,421811,Hostel,1391,3.09,103591,Rural,yes,100
+273237,4,Single Father,Rent,62154,Daily Wage,Permanent,180066,59838,No,0,1539251,Hostel,43852,6.06,249045,Rural,no,50
+18070,4,Single Father,Own,12991,Private Job,Temporary,143687,46041,No,0,1643012,DayScholar,42215,5.24,46229,Rural,yes,100
+822209,4,Both Alive,Own,68344,Daily Wage,Self-employed,1466,992,Yes,2,1891934,Hostel,14184,0.24,419855,Rural,no,100
+56958,3,Single Father,Rent,36593,Agriculture,Contract,30771,72394,Yes,3,609559,DayScholar,27114,7.91,373850,Rural,no,100
+82074,1,Both Alive,Rent,36304,Govt Job,Contract,83886,67657,Yes,0,568745,Hostel,11882,0.12,62583,Rural,yes,100
+535017,4,Both Alive,Own,30386,Daily Wage,Contract,65911,27160,Yes,1,576819,Hostel,47606,2.93,255931,Rural,yes,100
+755073,1,Single Father,Own,55220,Govt Job,Self-employed,151818,45156,Yes,0,214335,DayScholar,17273,0.06,159996,Urban,no,100
+176089,1,Single Father,Own,69338,Govt Job,Permanent,88422,51375,No,3,476516,Hostel,40670,3.76,126011,Urban,yes,50
+197392,3,Single Mother,Rent,94289,Private Job,Contract,191811,86442,No,4,1710891,Hostel,45647,0.63,466185,Rural,no,50
+158823,4,Both Alive,Own,21083,Private Job,Self-employed,73369,19572,No,4,204243,Hostel,17129,9.14,292248,Urban,yes,50
+630152,4,Single Mother,Rent,18354,Agriculture,Permanent,1893,4136,No,2,1571021,Hostel,42679,4.16,240660,Rural,no,0
+393002,1,Single Father,Rent,22190,Business,Temporary,30573,61868,Yes,3,267231,DayScholar,427,4.59,299738,Urban,yes,100
+733429,2,Single Mother,Own,6142,Unemployed,Contract,96907,82263,Yes,0,783589,Hostel,31416,3.5,265808,Rural,yes,100
+498863,3,Both Alive,Rent,28398,Govt Job,Permanent,171946,32167,Yes,0,1628635,Hostel,731,6.28,272672,Urban,no,100
+367654,3,Single Mother,Rent,51971,Business,Contract,99956,15479,No,4,627423,DayScholar,799,7.84,159262,Rural,no,50
+579036,3,Both Alive,Rent,41862,Unemployed,Contract,118580,31376,Yes,4,600642,DayScholar,28873,6.48,197105,Urban,no,100
+530089,3,Single Father,Rent,98668,Unemployed,Contract,164439,4823,Yes,1,647031,Hostel,7025,7.48,454377,Rural,no,100
+150262,4,Single Father,Own,53410,Agriculture,Permanent,152271,70456,No,4,778741,Hostel,14481,9.06,204249,Urban,yes,50
+442905,4,Both Alive,Own,19503,Unemployed,Self-employed,91404,19585,No,1,1616756,DayScholar,25411,8.64,128404,Urban,no,50
+235362,2,Single Father,Rent,48456,Unemployed,Permanent,57724,17272,No,0,1260844,Hostel,31358,6.74,463395,Rural,no,50
+444209,3,Single Father,Rent,82035,Govt Job,Contract,86133,26619,Yes,1,926094,DayScholar,40392,2.15,201664,Urban,yes,100
+553880,3,Single Father,Own,8016,Govt Job,Permanent,167477,75069,Yes,1,105057,Hostel,14961,6.38,295043,Urban,yes,100
+797079,1,Single Father,Rent,2384,Foreign,Temporary,15989,39895,No,2,1096985,DayScholar,21767,5.06,333123,Urban,no,0
+664076,4,Both Alive,Own,62320,Business,Self-employed,28931,3720,No,4,256889,DayScholar,41000,7.17,17241,Urban,yes,0
+219963,3,Single Mother,Rent,15072,Daily Wage,Permanent,9290,19267,Yes,1,437686,DayScholar,36135,8.33,308355,Urban,no,100
+480761,2,Single Mother,Rent,80018,Private Job,Temporary,169439,15696,No,0,159457,Hostel,21392,7.43,63472,Rural,yes,50
+248710,2,Single Father,Own,40510,Daily Wage,Self-employed,121136,29968,Yes,3,1475088,Hostel,13262,8.47,205320,Rural,no,100
+220984,4,Single Mother,Own,48933,Business,Temporary,79878,53364,No,1,1963574,Hostel,5229,0.64,466973,Urban,yes,50
+897059,2,Single Mother,Own,21826,Private Job,Self-employed,90477,23345,No,4,333860,Hostel,23772,0.32,31346,Rural,no,0
+856748,2,Single Father,Own,68026,Daily Wage,Permanent,126299,51567,No,2,885584,DayScholar,18799,2.59,81196,Urban,no,50
+782355,4,Single Father,Rent,25518,Foreign,Temporary,161205,91229,Yes,0,1084958,DayScholar,46515,9.01,366595,Rural,yes,100
+264512,3,Single Mother,Own,24045,Private Job,Contract,105686,61607,Yes,2,86675,DayScholar,23555,8.24,208196,Urban,yes,100
+601863,3,Both Alive,Rent,50876,Govt Job,Temporary,158124,19385,No,3,1025100,Hostel,26616,6.83,365052,Urban,no,50
+268799,2,Single Father,Own,92446,Daily Wage,Self-employed,107286,83658,Yes,1,556707,Hostel,19333,7.01,435436,Urban,no,100
+237549,2,Both Alive,Own,90102,Private Job,Permanent,40475,66900,No,1,1020825,Hostel,4261,7.27,149014,Urban,yes,50
+594319,3,Single Mother,Rent,51919,Foreign,Self-employed,82666,68244,No,4,91238,DayScholar,3466,9.43,311311,Rural,yes,0
+993933,4,Single Father,Own,99441,Unemployed,Temporary,96622,65425,Yes,1,1052536,Hostel,46553,8.32,298517,Rural,yes,100
+484299,2,Both Alive,Own,27103,Private Job,Temporary,188728,78518,Yes,0,1284401,Hostel,3088,6.23,329287,Rural,yes,100
+612210,1,Single Father,Own,36188,Private Job,Contract,135705,82844,Yes,3,1753227,DayScholar,45783,6.66,120623,Urban,yes,100
+448982,4,Single Mother,Own,5845,Foreign,Permanent,148376,32919,Yes,2,284541,DayScholar,1115,2.14,372157,Rural,yes,100
+124046,2,Both Alive,Rent,86698,Unemployed,Permanent,107573,90697,No,3,1378608,Hostel,4578,6.57,2016,Rural,yes,50
+406619,2,Single Mother,Rent,36674,Daily Wage,Temporary,46546,57196,Yes,1,1093745,DayScholar,2590,4.25,331254,Urban,yes,100
+32097,1,Single Mother,Own,19337,Agriculture,Permanent,7008,79401,Yes,2,596470,Hostel,7372,1.53,439525,Urban,yes,100
+996161,1,Single Father,Own,22313,Daily Wage,Contract,48291,495,No,4,888908,DayScholar,3573,8.06,7274,Urban,no,0
+666326,3,Both Alive,Own,26943,Unemployed,Self-employed,158477,44755,No,3,1887257,DayScholar,2978,5.1,15748,Rural,yes,50
+649150,4,Single Mother,Rent,77949,Business,Permanent,36386,67684,No,2,1217989,DayScholar,43407,9.77,413391,Rural,yes,0
+230229,4,Single Mother,Rent,276,Foreign,Temporary,90909,33324,No,2,1920611,Hostel,9422,2.82,497926,Urban,no,50
+118834,3,Both Alive,Rent,51151,Daily Wage,Self-employed,151899,78929,Yes,2,187216,Hostel,43626,4.81,11826,Rural,no,100
+93848,4,Single Mother,Rent,17611,Private Job,Self-employed,33040,1552,Yes,0,464988,Hostel,23697,4.48,345152,Urban,no,100
+52921,4,Single Mother,Own,11944,Foreign,Contract,60354,51272,No,3,89360,DayScholar,30820,1.21,129288,Rural,no,100
+705086,4,Both Alive,Own,52887,Govt Job,Temporary,78543,35853,No,2,1596308,DayScholar,37743,4.26,427345,Urban,no,0
+650429,4,Both Alive,Own,81442,Unemployed,Permanent,18157,32924,Yes,3,448863,DayScholar,4925,2.88,201081,Rural,no,100
+705660,4,Both Alive,Rent,49847,Daily Wage,Temporary,35315,74462,Yes,2,133662,DayScholar,29430,1.6,251054,Rural,yes,100
+284821,1,Both Alive,Own,58653,Foreign,Self-employed,35932,96387,Yes,4,1828352,Hostel,28834,2.82,416706,Rural,no,100
+55609,4,Single Father,Rent,86072,Daily Wage,Temporary,152236,23889,Yes,4,1157419,Hostel,24435,2.33,367767,Urban,no,100
+227897,1,Both Alive,Rent,56622,Foreign,Permanent,145486,54675,Yes,4,807406,Hostel,21676,7.34,172507,Urban,no,100
+974165,4,Single Father,Own,27810,Private Job,Permanent,145399,73591,No,1,646438,DayScholar,43554,0.31,206089,Urban,yes,50
+31024,3,Single Father,Own,77842,Govt Job,Contract,113880,70190,No,2,1490175,DayScholar,19814,6.17,401736,Rural,no,100
+70313,2,Single Father,Own,10503,Govt Job,Permanent,132018,22634,No,1,1839484,Hostel,14716,7.61,223023,Urban,yes,100
+389957,1,Single Mother,Rent,84761,Business,Permanent,14693,32363,No,3,1677690,DayScholar,27528,4.81,345250,Rural,no,50
+184078,4,Single Father,Rent,36976,Foreign,Temporary,27241,63752,Yes,1,484768,Hostel,1995,9.32,192949,Urban,no,100
+357429,3,Single Father,Own,11590,Daily Wage,Temporary,115194,77004,No,3,1942656,DayScholar,22414,7.08,413014,Urban,yes,50
+932842,2,Single Mother,Own,10886,Govt Job,Self-employed,95790,56398,Yes,3,235121,DayScholar,13844,7.48,316782,Rural,yes,100
+461243,1,Single Mother,Rent,12866,Unemployed,Contract,146612,98458,Yes,3,1979036,Hostel,36659,1.97,69072,Rural,no,100
+113632,2,Single Mother,Own,66624,Govt Job,Temporary,72255,40718,Yes,1,935581,Hostel,15522,7.77,67309,Urban,yes,100
+997639,3,Both Alive,Rent,68899,Agriculture,Permanent,195829,82916,Yes,2,832922,DayScholar,39913,8.32,160966,Urban,yes,100
+937012,1,Single Mother,Rent,32792,Agriculture,Self-employed,172275,26870,Yes,1,1824299,Hostel,8498,3.61,456179,Rural,no,100
+251451,2,Single Mother,Own,9764,Govt Job,Temporary,156153,37394,Yes,2,659001,Hostel,42322,2.13,386868,Rural,no,100
+3051,4,Single Father,Own,86156,Foreign,Contract,192933,52057,Yes,2,1114188,DayScholar,2102,3.85,185639,Urban,no,100
+704107,1,Single Mother,Own,42727,Business,Contract,11350,79795,No,3,634762,DayScholar,35798,7.4,389987,Rural,yes,0
+376836,2,Both Alive,Own,78471,Govt Job,Self-employed,186584,80409,Yes,1,1356879,DayScholar,8524,4.18,35326,Urban,no,100
+611523,3,Single Mother,Rent,8068,Private Job,Self-employed,56809,13016,No,2,1622574,Hostel,30846,7.37,186131,Urban,no,0
+971525,3,Both Alive,Rent,7295,Daily Wage,Self-employed,101894,42137,No,4,1011040,DayScholar,8107,1.14,267223,Urban,yes,50
+721772,1,Single Mother,Rent,41160,Business,Self-employed,97557,153,Yes,2,941310,DayScholar,49394,8.06,419054,Rural,yes,100
+189407,2,Single Mother,Own,11390,Private Job,Self-employed,173904,7853,Yes,4,1695960,DayScholar,18268,2.53,383556,Urban,no,100
+449395,1,Single Mother,Rent,20131,Business,Permanent,159441,12379,No,1,219417,DayScholar,47703,2.49,87340,Urban,yes,50
+949597,1,Single Mother,Own,94754,Private Job,Permanent,31728,15792,No,1,221463,DayScholar,24399,5.9,440325,Rural,no,0
+462894,2,Both Alive,Own,75969,Daily Wage,Temporary,17576,38367,No,1,903844,Hostel,9624,0.7,347355,Rural,yes,50
+211810,2,Both Alive,Own,15038,Daily Wage,Contract,160073,18100,No,2,1677788,DayScholar,27126,0.26,418810,Rural,no,50
+957238,4,Single Father,Own,52327,Agriculture,Permanent,83384,63456,Yes,0,278602,DayScholar,23131,2.61,304893,Urban,yes,100
+727975,2,Both Alive,Own,93718,Foreign,Permanent,390,11049,Yes,2,1976001,Hostel,48591,5.38,167364,Rural,yes,100
+73523,3,Single Mother,Own,77064,Private Job,Permanent,45436,786,Yes,2,307668,DayScholar,20714,9.08,118192,Rural,yes,100
+760463,1,Single Father,Rent,21281,Agriculture,Temporary,11569,69904,No,3,672213,DayScholar,40631,8.46,336678,Urban,yes,0
+94476,1,Single Father,Own,54189,Private Job,Self-employed,144101,30699,Yes,3,1361197,Hostel,35877,4.9,251749,Urban,no,100
+233841,3,Single Father,Rent,48511,Agriculture,Temporary,22490,47691,No,2,1352942,DayScholar,18570,0.37,341377,Urban,yes,50
+803451,2,Single Mother,Rent,8605,Daily Wage,Contract,45875,37040,Yes,4,552608,Hostel,12482,5.35,51818,Urban,no,100
+870045,3,Both Alive,Own,1381,Business,Contract,5867,92990,No,3,104154,DayScholar,34318,7.05,374054,Rural,yes,0
+222866,3,Single Mother,Own,66634,Unemployed,Contract,80820,57986,Yes,2,586531,Hostel,33414,3.39,13429,Urban,yes,100
+86672,4,Single Father,Own,19810,Agriculture,Contract,99515,38762,Yes,0,1759551,Hostel,21040,1.11,57748,Rural,no,100
+598135,3,Single Mother,Rent,24322,Private Job,Permanent,9121,23600,No,4,420568,DayScholar,13407,2.79,48807,Urban,yes,0
+344894,1,Single Mother,Own,41869,Private Job,Permanent,1539,94774,No,1,1655697,Hostel,45468,7.72,269284,Urban,yes,50
+734994,3,Both Alive,Rent,32955,Unemployed,Temporary,148099,90777,No,2,103476,Hostel,33305,3.51,325370,Rural,no,50
+28251,1,Both Alive,Own,61388,Foreign,Self-employed,127402,19810,No,2,124560,DayScholar,14166,8.12,238161,Rural,yes,100
+627769,1,Single Father,Own,10207,Daily Wage,Contract,74229,85703,No,4,930707,DayScholar,6572,3.2,408117,Rural,no,0
+374710,1,Single Mother,Rent,87329,Private Job,Temporary,139993,87347,Yes,3,1359987,Hostel,33002,1.64,350959,Urban,yes,100
+550233,2,Single Mother,Rent,67628,Govt Job,Permanent,50435,57204,No,3,1620805,DayScholar,26972,4.36,290669,Urban,yes,0
+877284,4,Both Alive,Own,28220,Business,Permanent,141382,20085,Yes,3,879241,Hostel,46835,4.52,282635,Rural,yes,100
+32217,1,Single Mother,Rent,84050,Agriculture,Self-employed,63965,46854,Yes,1,559656,Hostel,42464,0.16,199888,Rural,no,100
+8308,1,Single Mother,Rent,74085,Foreign,Self-employed,111048,74797,Yes,4,1922194,DayScholar,46918,1.17,166052,Urban,yes,100
+268093,2,Single Mother,Rent,22031,Unemployed,Self-employed,96444,84269,Yes,4,1351704,DayScholar,22923,1.85,226597,Rural,yes,100
+183062,1,Both Alive,Rent,70721,Business,Temporary,69922,39779,Yes,3,1493733,Hostel,1909,1.14,8078,Rural,yes,100
+394366,3,Single Father,Rent,80807,Daily Wage,Permanent,97799,56207,No,3,1262566,DayScholar,44918,3.42,91654,Urban,yes,50
+744840,3,Single Father,Own,71312,Foreign,Permanent,93948,94615,No,0,1504475,DayScholar,32848,9.65,129101,Rural,yes,0
+100235,4,Single Mother,Own,59766,Agriculture,Self-employed,143314,33980,Yes,0,1316057,Hostel,2083,5.09,482737,Urban,yes,100
+74740,1,Single Father,Rent,12449,Agriculture,Contract,8947,56117,Yes,2,10801,Hostel,46146,6.28,441920,Urban,yes,100
+378496,2,Both Alive,Own,89833,Unemployed,Self-employed,192888,14141,No,2,640826,Hostel,47985,3.56,16997,Urban,yes,50
+853049,3,Both Alive,Own,56699,Govt Job,Temporary,48785,9344,No,4,908633,Hostel,17140,3.23,473026,Rural,yes,0
+750201,2,Single Father,Rent,81253,Unemployed,Self-employed,119963,15896,Yes,4,1892973,Hostel,2670,0.23,131940,Rural,no,100
+803328,2,Single Father,Own,46092,Daily Wage,Self-employed,507,89353,No,1,619557,Hostel,36519,5.0,419614,Rural,yes,0
+917230,3,Single Mother,Rent,63671,Foreign,Temporary,198044,29813,No,1,1836629,DayScholar,44512,4.84,212650,Rural,no,50
+177247,2,Single Father,Rent,10350,Foreign,Self-employed,158223,84431,No,0,937473,Hostel,38029,1.58,359500,Urban,no,50
+663165,3,Single Mother,Own,96158,Private Job,Permanent,11618,65679,Yes,2,308113,DayScholar,14691,7.64,375855,Urban,no,100
+529525,2,Single Mother,Rent,68487,Govt Job,Contract,74286,10681,No,0,1534061,DayScholar,39620,4.93,283390,Rural,yes,0
+20056,3,Both Alive,Rent,17622,Govt Job,Self-employed,16122,72903,Yes,0,101679,Hostel,34262,3.39,151633,Rural,no,100
+176615,1,Both Alive,Rent,70263,Foreign,Temporary,138426,3228,Yes,2,691065,DayScholar,25595,1.47,409470,Rural,no,100
+187628,4,Both Alive,Rent,53117,Foreign,Contract,109598,4582,Yes,1,1774239,Hostel,33440,5.52,34512,Rural,no,100
+638836,3,Both Alive,Rent,58394,Business,Temporary,162051,78683,Yes,2,1349083,DayScholar,8630,7.53,493776,Urban,yes,100
+373632,3,Single Father,Own,23782,Business,Contract,86436,11397,Yes,3,1220368,Hostel,31250,2.82,482748,Rural,no,100
+134415,4,Both Alive,Own,28454,Business,Contract,183846,38799,No,3,937476,Hostel,28798,2.19,225226,Urban,yes,50
+406716,3,Single Father,Rent,67904,Govt Job,Self-employed,136109,37011,Yes,3,1616215,Hostel,43036,5.22,208467,Rural,no,100
+446438,3,Both Alive,Rent,15592,Private Job,Permanent,28633,79183,Yes,4,1693887,Hostel,33212,1.55,320009,Rural,no,100
+553663,2,Single Father,Own,22173,Agriculture,Self-employed,24495,93254,Yes,1,1750081,DayScholar,41925,6.67,416796,Rural,yes,100
+665022,4,Single Mother,Rent,33204,Business,Temporary,64550,44264,No,1,622236,DayScholar,11982,6.05,464175,Urban,yes,0
+541252,1,Single Father,Own,35596,Private Job,Temporary,36483,42317,No,4,1803550,DayScholar,8655,0.87,365537,Rural,no,0
+637717,3,Single Father,Rent,34324,Unemployed,Contract,113181,47914,No,0,1277764,DayScholar,18582,0.37,72144,Urban,no,50
+252764,4,Both Alive,Rent,61202,Daily Wage,Contract,34069,84633,No,3,1901243,DayScholar,35055,6.2,173557,Urban,no,50
+714998,2,Single Father,Rent,89400,Business,Permanent,138442,45254,No,3,286999,Hostel,44725,2.94,443837,Rural,yes,50
+466882,1,Single Mother,Rent,30750,Unemployed,Self-employed,119873,40096,No,0,439385,Hostel,4008,0.86,117363,Urban,yes,50
+740427,4,Single Mother,Rent,76112,Agriculture,Temporary,116843,53785,No,2,1320253,Hostel,44464,7.59,312809,Urban,no,50
+512153,1,Both Alive,Rent,16566,Daily Wage,Contract,71947,52344,Yes,2,187476,Hostel,41872,3.14,201484,Urban,no,100
+67215,1,Single Mother,Rent,7190,Daily Wage,Permanent,170205,82643,Yes,1,1209217,Hostel,496,4.6,181675,Rural,yes,100
+855474,1,Single Father,Own,88607,Agriculture,Temporary,95761,68546,No,4,659362,DayScholar,34231,2.37,152110,Urban,yes,0
+144356,3,Single Mother,Own,38333,Business,Contract,113753,71091,Yes,1,1842942,Hostel,23212,6.27,93542,Urban,no,100
+203861,3,Both Alive,Own,80905,Govt Job,Temporary,131764,65603,Yes,2,588725,Hostel,20637,3.01,363455,Rural,yes,100
+355612,2,Single Father,Rent,89571,Agriculture,Permanent,28926,28412,No,0,166810,DayScholar,45227,9.68,489562,Rural,no,50
+454605,2,Both Alive,Rent,1589,Agriculture,Permanent,99782,51658,Yes,1,934276,DayScholar,16877,7.03,276469,Urban,yes,100
+9435,4,Single Father,Rent,25235,Agriculture,Temporary,104700,99841,Yes,3,1148986,Hostel,17810,1.37,166964,Urban,no,100
+447556,2,Single Mother,Rent,159,Daily Wage,Self-employed,73984,49549,No,3,1078307,Hostel,9884,4.17,394969,Urban,no,50
+699438,1,Both Alive,Rent,12145,Private Job,Temporary,174462,11549,Yes,0,675491,DayScholar,2723,3.85,488283,Urban,no,100
+865264,1,Both Alive,Rent,80909,Unemployed,Contract,49593,71216,No,2,862756,Hostel,49810,5.34,149068,Rural,yes,0
+575581,3,Single Father,Rent,31921,Govt Job,Self-employed,75609,25739,No,3,195169,Hostel,4761,8.42,330955,Rural,no,0
+78781,1,Both Alive,Own,16237,Business,Contract,5209,21209,Yes,3,1926728,Hostel,7630,5.83,205355,Urban,no,100
+191475,4,Single Father,Rent,8244,Business,Temporary,126700,87968,Yes,4,1941441,DayScholar,16375,0.62,438427,Rural,yes,100
+160196,1,Single Father,Own,14743,Unemployed,Self-employed,137605,15116,Yes,1,275033,Hostel,41509,6.55,116737,Urban,no,100
+226507,1,Single Father,Own,97102,Private Job,Contract,86597,20045,No,2,543857,Hostel,25218,0.08,456036,Rural,no,50
+306063,4,Single Father,Rent,46101,Agriculture,Temporary,7211,26327,No,1,1932201,DayScholar,30565,7.8,262968,Rural,no,50
+764121,2,Single Mother,Rent,84227,Govt Job,Temporary,9927,35709,No,2,1265325,DayScholar,37118,6.67,407096,Urban,yes,0
+776665,2,Single Father,Own,99532,Business,Self-employed,117333,43617,Yes,3,1143768,DayScholar,32975,3.09,240417,Urban,yes,100
+690607,4,Both Alive,Own,56378,Unemployed,Temporary,155666,60139,Yes,4,1837693,Hostel,27073,2.92,117718,Urban,yes,100
+121172,3,Single Mother,Rent,71126,Foreign,Permanent,76382,26905,No,1,1145730,DayScholar,4190,7.98,328761,Urban,yes,50
+356902,1,Both Alive,Rent,56071,Unemployed,Contract,139005,64148,Yes,3,218542,Hostel,1883,7.83,273661,Rural,no,100
+484963,4,Single Mother,Own,71121,Business,Contract,103780,72603,Yes,2,1166649,DayScholar,2886,3.52,152755,Rural,yes,100
+455968,1,Single Father,Rent,74763,Agriculture,Temporary,40696,98095,No,1,1278470,Hostel,49629,2.99,410092,Urban,yes,50
+318717,3,Single Mother,Rent,93814,Foreign,Temporary,196521,42919,No,1,529235,DayScholar,8953,5.6,365212,Rural,yes,50
+59101,1,Single Mother,Rent,12237,Private Job,Permanent,67616,83521,Yes,3,804044,Hostel,8381,0.08,449570,Rural,no,100
+495972,4,Both Alive,Own,15649,Govt Job,Self-employed,137161,92905,No,1,1634508,Hostel,23238,0.83,467018,Urban,no,50
+288790,1,Both Alive,Own,37713,Private Job,Temporary,187620,83400,Yes,4,1614933,DayScholar,13795,1.26,207791,Urban,no,100
+890617,2,Single Father,Own,73463,Private Job,Temporary,157195,88150,No,4,1926749,DayScholar,30428,1.85,249120,Rural,yes,50
+547337,3,Single Mother,Rent,45409,Unemployed,Temporary,138869,58446,No,3,430547,Hostel,49907,5.12,254322,Urban,no,50
+734965,3,Single Mother,Rent,48766,Govt Job,Temporary,50013,52428,No,2,852329,DayScholar,9638,9.92,479818,Urban,no,0
+360260,3,Single Mother,Own,46154,Govt Job,Contract,139418,47894,Yes,3,1203582,Hostel,4931,6.53,377160,Rural,yes,100
+883811,4,Single Father,Own,7016,Business,Temporary,164744,81149,Yes,4,1461887,DayScholar,42623,0.61,209485,Rural,no,100
+592673,3,Single Father,Own,79563,Business,Contract,148725,6447,No,0,1543286,DayScholar,38492,5.26,272126,Urban,yes,50
+650419,2,Single Father,Rent,48688,Govt Job,Temporary,49556,5499,No,0,898976,Hostel,26411,4.97,467720,Rural,yes,0
+433374,4,Single Father,Own,89678,Foreign,Self-employed,123723,39041,No,1,1601570,DayScholar,45188,1.44,419814,Urban,no,50
+720777,2,Single Father,Own,54238,Daily Wage,Permanent,26140,31315,Yes,1,184588,DayScholar,20534,9.2,145711,Urban,yes,100
+547577,1,Both Alive,Rent,58608,Business,Self-employed,1184,1299,No,0,1686466,Hostel,36828,4.41,70210,Rural,yes,0
+372370,1,Single Mother,Rent,89081,Daily Wage,Temporary,165565,4994,No,4,1548800,Hostel,29181,9.95,69852,Rural,yes,50
+887225,1,Single Mother,Rent,31897,Unemployed,Temporary,175220,95414,No,1,1355349,DayScholar,37533,4.2,375762,Urban,yes,50
+271967,1,Single Mother,Own,50961,Foreign,Temporary,155918,81163,No,3,1498702,Hostel,19996,6.08,255139,Urban,yes,50
+191232,2,Single Mother,Rent,68703,Govt Job,Self-employed,111361,7489,Yes,3,1540332,DayScholar,6553,1.05,9695,Urban,yes,100
+304119,4,Single Mother,Rent,44757,Foreign,Temporary,153267,91647,Yes,4,134746,DayScholar,40146,4.54,48582,Rural,no,100
+9540,4,Single Mother,Own,26917,Business,Self-employed,5606,32355,No,1,554719,Hostel,18073,2.39,293238,Urban,yes,100
+540652,3,Single Mother,Rent,22736,Private Job,Contract,135028,73805,Yes,3,1246381,Hostel,7130,8.36,191707,Rural,yes,100
+397827,2,Single Mother,Own,27990,Unemployed,Permanent,16555,68367,Yes,1,1622952,Hostel,29405,7.84,284331,Urban,yes,100
+551951,1,Both Alive,Own,62551,Govt Job,Permanent,90385,77355,Yes,1,1758071,Hostel,35954,8.24,380157,Rural,yes,100
+51991,2,Single Mother,Rent,58161,Agriculture,Self-employed,149762,90349,No,3,1043290,Hostel,5789,7.24,128721,Urban,no,100
+188751,3,Both Alive,Rent,79623,Unemployed,Contract,58502,87173,Yes,0,441231,Hostel,28930,8.33,106683,Rural,no,100
+366326,3,Single Father,Rent,22440,Daily Wage,Self-employed,179921,1996,Yes,3,765398,DayScholar,48890,2.01,263358,Urban,yes,100
+686337,2,Single Mother,Rent,35205,Foreign,Contract,157419,44387,Yes,4,565673,DayScholar,17529,4.52,286084,Urban,no,100
+618992,2,Single Father,Rent,80811,Govt Job,Temporary,103844,3089,No,2,342343,Hostel,7942,6.92,44406,Urban,yes,50
+49115,2,Single Father,Rent,55103,Unemployed,Contract,91321,98827,No,3,1359397,DayScholar,7548,6.37,484437,Urban,yes,100
+353151,4,Single Father,Own,70812,Foreign,Contract,49056,20659,Yes,1,1176680,DayScholar,49712,7.16,436697,Rural,yes,100
+743583,1,Both Alive,Own,41627,Govt Job,Contract,194923,45178,Yes,1,1071394,DayScholar,18296,2.24,147049,Rural,yes,100
+191962,2,Single Father,Rent,19008,Business,Permanent,98234,95965,No,3,491438,DayScholar,32244,0.98,438055,Rural,no,50
+721747,2,Single Father,Own,71274,Unemployed,Contract,41850,81268,No,2,335145,Hostel,296,9.17,451090,Rural,no,0
+149143,2,Single Father,Rent,32402,Business,Temporary,27843,85042,Yes,3,165049,DayScholar,2409,5.6,320558,Rural,yes,100
+714635,3,Single Mother,Own,53384,Unemployed,Temporary,62320,70726,Yes,2,584120,DayScholar,34229,1.54,363584,Urban,yes,100
+989873,3,Single Mother,Own,5793,Business,Temporary,29793,70111,No,2,1885939,Hostel,30846,7.93,418754,Rural,no,0
+536226,4,Both Alive,Own,5571,Foreign,Contract,170588,34565,No,4,618278,Hostel,35036,9.15,235994,Rural,no,50
+952699,1,Both Alive,Rent,96867,Agriculture,Self-employed,148929,89242,Yes,1,1268542,Hostel,39322,1.7,365713,Rural,yes,100
+353824,4,Single Mother,Own,16209,Unemployed,Self-employed,19627,22884,No,1,1130780,Hostel,49159,8.17,187313,Rural,no,50
+4000,1,Both Alive,Rent,90930,Unemployed,Temporary,61822,17199,Yes,2,55784,DayScholar,27167,9.33,204573,Urban,yes,100
+725948,3,Single Mother,Own,43148,Business,Permanent,183320,60038,Yes,1,1951313,Hostel,28991,9.38,206205,Urban,no,100
+887474,3,Single Father,Own,91218,Govt Job,Self-employed,55798,57786,Yes,0,1068497,DayScholar,17801,9.14,60481,Urban,no,100
+355754,3,Single Father,Own,2224,Unemployed,Contract,175188,49294,No,2,1879967,DayScholar,7358,5.46,238084,Urban,no,50
+251492,4,Both Alive,Own,48695,Business,Self-employed,75318,78015,Yes,1,1877336,Hostel,22588,3.56,289884,Rural,no,100
+890123,2,Single Mother,Own,32441,Private Job,Temporary,104186,34178,Yes,0,1984939,Hostel,17671,0.07,325472,Rural,yes,100
+499522,2,Single Mother,Rent,39129,Business,Permanent,87902,12665,No,4,1314140,Hostel,17502,0.61,465321,Urban,yes,50
+491072,3,Both Alive,Rent,62368,Foreign,Self-employed,159629,534,No,1,623794,Hostel,25128,4.29,443859,Urban,no,50
+38304,2,Single Mother,Own,92122,Agriculture,Self-employed,71334,91828,Yes,0,1132984,Hostel,31645,3.99,496733,Rural,yes,100
+504999,2,Single Father,Own,44760,Private Job,Temporary,106719,36132,Yes,3,1706716,Hostel,7637,1.85,274025,Rural,no,100
+331593,4,Both Alive,Own,23478,Foreign,Permanent,123099,36110,No,3,1798702,DayScholar,660,3.95,299140,Urban,no,50
+607274,1,Both Alive,Own,71854,Foreign,Permanent,173686,58754,No,0,1609572,DayScholar,41675,1.75,163249,Urban,yes,50
+151836,3,Single Mother,Rent,94230,Foreign,Temporary,12720,63580,No,2,1601711,DayScholar,6922,8.49,122196,Urban,yes,50
+108940,3,Both Alive,Own,85716,Govt Job,Contract,57608,22469,Yes,2,1638853,DayScholar,28161,2.98,37177,Urban,yes,100
+824926,4,Single Mother,Rent,12180,Foreign,Self-employed,107449,64016,Yes,1,1970391,Hostel,44721,5.99,66126,Rural,no,100
+265517,4,Single Mother,Own,98538,Govt Job,Contract,102828,46233,Yes,3,1063498,Hostel,3970,5.03,318675,Rural,yes,100
+667521,2,Single Mother,Rent,15372,Foreign,Self-employed,126613,66708,No,2,473144,DayScholar,3407,0.52,26119,Rural,yes,50
+621820,3,Single Mother,Own,29796,Daily Wage,Self-employed,72095,58232,Yes,2,1110911,DayScholar,27843,9.42,117744,Urban,yes,100
+879090,1,Single Mother,Own,58272,Private Job,Contract,105924,93450,No,3,1971921,DayScholar,9046,5.27,116894,Rural,yes,50
+385777,4,Both Alive,Rent,89963,Daily Wage,Temporary,96452,86437,Yes,4,1989621,Hostel,23800,3.25,158987,Rural,no,100
+624674,1,Single Father,Own,98826,Foreign,Temporary,87593,34409,No,2,815983,Hostel,14547,1.58,395924,Urban,no,0
+551638,1,Single Father,Own,93635,Private Job,Self-employed,166964,19324,Yes,0,1209029,Hostel,37528,3.39,431965,Urban,no,100
+617296,3,Both Alive,Own,54040,Private Job,Temporary,106975,8738,Yes,1,909751,DayScholar,31389,0.21,44989,Urban,no,100
+880729,3,Both Alive,Rent,75357,Unemployed,Self-employed,77242,24054,No,2,327817,DayScholar,30346,3.64,284250,Urban,no,0
+549639,4,Single Father,Own,71368,Agriculture,Temporary,116041,29709,No,2,1946539,Hostel,22748,5.31,279275,Urban,no,50
+612956,3,Single Father,Own,78356,Daily Wage,Self-employed,126202,85643,Yes,4,32948,Hostel,46233,8.72,308697,Urban,no,100
+638873,3,Single Father,Rent,16211,Agriculture,Temporary,77606,363,No,0,626552,DayScholar,36855,6.87,451360,Rural,yes,0
+932809,3,Single Father,Rent,5842,Private Job,Permanent,123769,10358,No,1,69072,DayScholar,25848,1.12,6553,Rural,no,50
+337497,1,Single Father,Rent,63115,Govt Job,Contract,118542,3240,Yes,2,1388280,Hostel,7607,1.48,17881,Rural,no,100
+207869,4,Single Mother,Own,66852,Private Job,Permanent,106438,72201,No,1,1796185,DayScholar,36787,4.28,1379,Rural,no,50
+65953,2,Both Alive,Own,45968,Agriculture,Contract,924,45689,Yes,3,1716422,Hostel,33583,1.96,352935,Rural,no,100
+843890,1,Single Mother,Own,17508,Daily Wage,Contract,51322,1936,Yes,2,76691,Hostel,12563,0.28,367808,Rural,yes,100
+500328,3,Single Father,Rent,22005,Foreign,Self-employed,157550,91074,No,2,675442,DayScholar,46060,8.05,69306,Urban,no,50
+806790,1,Single Father,Own,54575,Unemployed,Contract,71042,43965,No,3,1947789,DayScholar,48926,0.2,412942,Urban,no,0
+3267,3,Single Father,Own,80742,Unemployed,Permanent,46418,77534,Yes,4,1404825,DayScholar,33690,8.31,243825,Urban,yes,100
+82745,3,Single Mother,Rent,18971,Unemployed,Permanent,193289,882,Yes,2,17086,Hostel,45697,1.44,402304,Rural,no,100
+876020,1,Single Mother,Rent,25599,Foreign,Temporary,100699,20224,Yes,1,399962,DayScholar,29176,9.75,427530,Rural,no,100
+824945,4,Single Father,Rent,87592,Unemployed,Permanent,90140,30825,Yes,0,602141,DayScholar,14925,6.04,448257,Urban,no,100
+157164,3,Single Mother,Rent,66914,Daily Wage,Temporary,11781,70740,Yes,1,1422645,Hostel,21251,7.35,104512,Urban,no,100
+535626,4,Single Mother,Rent,67055,Foreign,Contract,136587,28885,Yes,4,1390747,Hostel,17648,1.1,278494,Urban,no,100
+131484,2,Single Father,Own,87697,Unemployed,Permanent,117358,40056,No,0,1336636,DayScholar,20108,8.62,99599,Urban,no,50
+531831,3,Single Mother,Rent,5355,Foreign,Contract,36133,3203,No,1,811680,Hostel,10979,8.39,81397,Urban,no,0
+892323,4,Both Alive,Own,54120,Agriculture,Permanent,97628,60241,No,1,1869234,Hostel,2722,6.53,341653,Rural,yes,0
+951000,4,Both Alive,Own,74619,Daily Wage,Permanent,76946,2244,Yes,3,952529,Hostel,5355,5.02,17769,Rural,yes,100
+60692,2,Both Alive,Rent,38342,Business,Temporary,85058,98322,No,4,773210,DayScholar,46069,7.21,178321,Rural,no,100
+220156,4,Both Alive,Rent,85992,Govt Job,Contract,140167,68619,Yes,3,582668,DayScholar,28799,0.06,476078,Urban,yes,100
+223992,4,Single Father,Rent,78860,Unemployed,Permanent,151542,21584,Yes,0,1852856,Hostel,35318,5.92,101584,Rural,no,100
+516771,2,Single Father,Own,2257,Govt Job,Self-employed,43129,8521,No,3,1597138,Hostel,32705,8.47,308509,Urban,yes,0
+830857,3,Single Father,Rent,27364,Foreign,Contract,8531,50017,Yes,4,1375265,Hostel,43909,3.57,312329,Rural,no,100
+563044,4,Both Alive,Rent,24972,Govt Job,Contract,37038,33541,Yes,2,1842979,DayScholar,23070,1.08,133858,Urban,yes,100
+543176,4,Both Alive,Rent,26654,Daily Wage,Contract,87939,29063,Yes,2,1155070,Hostel,11284,4.21,231609,Urban,no,100
+691095,4,Single Mother,Rent,80769,Daily Wage,Temporary,42674,70268,Yes,0,125981,Hostel,21737,7.27,126525,Rural,yes,100
+833727,1,Single Mother,Rent,81423,Private Job,Self-employed,127572,64952,Yes,2,176305,DayScholar,23241,1.07,394836,Rural,yes,100
+114352,2,Both Alive,Own,29320,Unemployed,Contract,29831,93054,Yes,3,26304,Hostel,27414,2.06,36303,Rural,no,100
+869474,1,Both Alive,Own,20808,Private Job,Permanent,57174,39563,No,0,1041477,DayScholar,20895,1.48,19589,Rural,no,0
+85999,2,Both Alive,Own,52389,Govt Job,Permanent,11279,39752,Yes,4,1332014,DayScholar,26771,7.97,265026,Rural,yes,100
+17955,3,Both Alive,Rent,95690,Business,Temporary,169292,95233,Yes,0,298569,DayScholar,1384,0.63,455464,Urban,yes,100
+824273,3,Single Mother,Rent,34773,Private Job,Permanent,60610,2567,Yes,0,734071,Hostel,22689,6.87,180394,Rural,no,100
+70640,4,Both Alive,Rent,51168,Private Job,Contract,183791,16121,Yes,1,1033657,Hostel,27475,3.66,129236,Rural,yes,100
+196582,2,Single Mother,Own,27747,Daily Wage,Permanent,53051,1674,No,1,1169353,DayScholar,8252,7.56,417740,Urban,no,50
+952415,3,Both Alive,Rent,76396,Business,Contract,56652,76411,No,0,1020815,Hostel,30844,9.64,271889,Rural,yes,0
+976535,2,Both Alive,Rent,83692,Foreign,Permanent,65524,66275,Yes,2,412641,DayScholar,30151,1.15,495417,Urban,yes,100
+744086,3,Both Alive,Rent,57505,Govt Job,Self-employed,6470,67081,Yes,1,1674413,Hostel,40006,3.14,15861,Rural,no,100
+400573,1,Single Mother,Own,85896,Private Job,Temporary,198670,29140,Yes,4,627752,DayScholar,23365,8.1,91707,Rural,no,100
+425695,3,Single Mother,Rent,18135,Business,Temporary,172870,9327,No,3,972494,DayScholar,6026,2.66,484951,Urban,no,50
+61476,1,Single Father,Own,90887,Unemployed,Self-employed,53473,70663,No,1,1689612,Hostel,32767,2.15,316405,Rural,yes,100
+306955,3,Both Alive,Rent,96035,Business,Self-employed,150952,23331,No,0,1525538,Hostel,28523,8.25,255043,Rural,yes,50
+167280,4,Single Father,Own,47377,Govt Job,Temporary,44439,23004,No,2,1913303,Hostel,10482,9.87,133909,Rural,yes,50
+675510,1,Single Father,Own,23554,Business,Self-employed,14308,10492,Yes,3,812523,Hostel,46569,5.57,336279,Rural,no,100
+595468,3,Single Mother,Own,62491,Business,Contract,91563,54797,No,1,1964951,DayScholar,48888,2.78,474663,Urban,yes,0
+698646,4,Single Mother,Rent,55621,Business,Permanent,35081,58095,No,2,1312750,DayScholar,48348,3.99,54380,Urban,yes,0
+637144,1,Single Father,Rent,58283,Unemployed,Temporary,181455,13749,Yes,2,665362,Hostel,41432,1.7,348233,Rural,no,100
+854882,4,Both Alive,Own,85140,Private Job,Self-employed,9837,63217,Yes,2,1312466,Hostel,25108,7.62,105025,Rural,yes,100
+414568,2,Single Mother,Own,16923,Govt Job,Contract,183223,89044,No,0,584699,DayScholar,493,7.73,180903,Urban,yes,50
+186141,2,Both Alive,Rent,47591,Unemployed,Temporary,118128,9045,No,4,444174,Hostel,16465,8.75,220421,Urban,no,50
+898320,1,Both Alive,Rent,62261,Business,Self-employed,167896,20116,No,2,1317477,Hostel,39767,0.27,431471,Rural,no,50
+634736,3,Single Father,Own,54336,Business,Temporary,164145,18667,No,3,105696,Hostel,29550,5.62,244497,Urban,no,50
+538685,1,Single Father,Rent,74083,Private Job,Self-employed,112651,75057,Yes,1,686067,Hostel,13833,2.14,160592,Urban,no,100
+959059,4,Single Father,Rent,60948,Govt Job,Temporary,97624,74205,Yes,3,680608,DayScholar,2970,3.41,422757,Urban,no,100
+178031,3,Single Father,Rent,33002,Daily Wage,Contract,157371,27302,No,0,1654173,DayScholar,32779,7.85,458988,Urban,no,50
+918232,2,Single Mother,Rent,80098,Unemployed,Contract,189933,11283,No,0,1792258,Hostel,29958,1.92,420566,Rural,no,50
+968021,3,Single Mother,Own,73016,Private Job,Permanent,30063,30935,No,3,979224,DayScholar,48319,6.38,44397,Urban,no,0
+119180,2,Single Father,Rent,26672,Govt Job,Temporary,69453,72534,No,4,680397,Hostel,17145,6.55,339229,Rural,no,50
+66234,3,Single Mother,Rent,4213,Unemployed,Permanent,199544,94342,No,0,77421,Hostel,35953,9.54,326009,Rural,yes,100
+564242,3,Single Father,Own,10293,Business,Temporary,102166,31624,Yes,0,246436,Hostel,49177,7.75,318100,Urban,no,100
+178352,3,Both Alive,Own,99977,Govt Job,Self-employed,14506,13440,Yes,3,1533659,DayScholar,1806,8.04,420669,Rural,no,100
+79459,4,Both Alive,Rent,55860,Govt Job,Self-employed,113604,46501,Yes,0,1361332,DayScholar,5664,5.32,455561,Rural,yes,100
+409995,4,Both Alive,Rent,62507,Foreign,Permanent,26026,87333,No,4,491247,DayScholar,28900,1.87,362871,Urban,no,50
+195004,1,Single Father,Rent,57134,Govt Job,Temporary,158744,1269,No,4,1596314,DayScholar,14126,4.26,406122,Urban,yes,50
+466152,1,Both Alive,Rent,2100,Daily Wage,Permanent,169489,7868,Yes,4,1068067,DayScholar,45662,5.49,277132,Urban,yes,100
+941970,2,Single Mother,Own,61997,Govt Job,Contract,52413,30251,Yes,1,127026,Hostel,5154,6.78,158795,Rural,no,100
+954443,4,Both Alive,Own,28172,Daily Wage,Permanent,65066,77909,No,4,84804,Hostel,22208,6.08,33800,Rural,yes,0
+725256,2,Both Alive,Own,20132,Business,Permanent,190285,84523,Yes,4,1570238,DayScholar,13767,3.94,432323,Rural,no,100
+952774,1,Both Alive,Rent,18199,Daily Wage,Self-employed,50971,38729,No,1,889725,DayScholar,20043,2.65,158502,Rural,no,0
+59163,2,Single Mother,Rent,36609,Unemployed,Permanent,158353,15734,No,2,1702362,DayScholar,47994,1.68,425751,Urban,yes,100
+475853,1,Single Father,Rent,42965,Business,Temporary,113978,42429,Yes,0,772803,Hostel,1525,6.94,199548,Rural,yes,100
+51934,4,Single Mother,Rent,8016,Business,Self-employed,159163,41337,Yes,4,1982871,DayScholar,33528,6.45,257653,Urban,yes,100
+720255,3,Single Father,Own,39779,Daily Wage,Permanent,50494,40325,Yes,0,1950483,Hostel,16978,6.87,349473,Urban,no,100
+425523,4,Single Father,Own,31881,Private Job,Contract,103864,83600,No,3,824746,Hostel,46648,3.73,471014,Urban,no,50
+840530,2,Both Alive,Rent,82594,Agriculture,Permanent,149682,62514,No,0,1896891,DayScholar,1055,2.62,52284,Urban,yes,50
+454137,2,Single Father,Own,24472,Govt Job,Permanent,132151,8433,Yes,1,497335,Hostel,10046,7.6,56232,Rural,no,100
+5486,4,Single Mother,Rent,51813,Foreign,Permanent,95386,9111,No,0,1043061,Hostel,35851,7.74,44420,Urban,no,100
+139407,4,Single Mother,Rent,36021,Agriculture,Self-employed,177823,63753,No,0,1407806,DayScholar,15678,4.56,299854,Rural,yes,50
+873332,1,Single Father,Own,54131,Govt Job,Temporary,86126,80583,No,0,730989,Hostel,44876,6.12,465713,Urban,yes,0
+650308,2,Both Alive,Rent,24087,Govt Job,Contract,186504,73620,Yes,2,1422011,DayScholar,26624,3.74,92035,Urban,yes,100
+627083,2,Both Alive,Rent,12828,Business,Permanent,162023,21751,No,2,1300799,Hostel,42418,7.02,433714,Urban,yes,50
+220184,4,Single Mother,Own,61610,Govt Job,Temporary,80863,16453,Yes,3,544255,DayScholar,38725,8.36,293427,Rural,yes,100
+666490,3,Both Alive,Rent,96664,Foreign,Temporary,78291,85844,Yes,1,1271402,DayScholar,5255,6.88,197241,Urban,yes,100
+349652,2,Single Father,Rent,1401,Govt Job,Self-employed,125659,38968,No,0,1363940,Hostel,9411,5.13,465574,Urban,yes,50
+761315,3,Single Father,Own,85179,Daily Wage,Contract,190944,30077,Yes,0,1788099,DayScholar,49112,4.59,193529,Urban,yes,100
+642612,4,Single Mother,Rent,15193,Agriculture,Self-employed,7235,34775,No,0,1981027,Hostel,42459,6.42,249863,Urban,yes,0
+322710,4,Single Father,Own,92389,Daily Wage,Temporary,82733,58144,Yes,0,1753355,Hostel,36163,6.8,25968,Rural,yes,100
+197775,1,Single Mother,Rent,44864,Foreign,Temporary,62712,48570,Yes,2,1376851,DayScholar,33971,5.59,62508,Rural,no,100
+289336,2,Single Father,Own,20307,Govt Job,Temporary,152545,46097,No,3,491930,Hostel,31235,6.25,235863,Urban,no,50
+787494,3,Single Mother,Own,19611,Unemployed,Self-employed,198639,24503,Yes,4,38876,DayScholar,19194,0.97,194292,Urban,yes,100
+608364,1,Both Alive,Own,43791,Foreign,Contract,125849,2779,Yes,1,1802380,Hostel,19476,9.52,375579,Rural,no,100
+89780,2,Single Father,Rent,11950,Business,Permanent,79823,86840,Yes,0,897880,Hostel,3044,7.91,85366,Rural,no,100
+152617,1,Single Father,Own,76240,Daily Wage,Self-employed,104215,755,No,3,1733907,DayScholar,40040,3.74,5738,Rural,no,50
+545977,4,Single Mother,Own,77403,Daily Wage,Temporary,32230,39263,No,4,990043,Hostel,21057,5.63,3098,Urban,no,0
+797606,2,Single Mother,Own,2745,Private Job,Self-employed,84573,55087,Yes,3,239192,Hostel,3514,0.47,95424,Rural,no,100
+350605,1,Single Father,Own,55243,Govt Job,Temporary,199948,42281,Yes,2,1369948,Hostel,9990,0.41,204705,Urban,no,100
+912606,1,Single Mother,Own,3866,Business,Permanent,40644,51482,Yes,4,1313343,Hostel,38960,2.51,78672,Rural,yes,100
+889465,3,Single Father,Rent,32245,Unemployed,Permanent,179736,54857,No,3,1919503,Hostel,43535,6.9,300388,Rural,yes,50
+533636,1,Both Alive,Rent,44724,Daily Wage,Contract,45203,17400,No,2,262313,Hostel,49296,8.52,139325,Urban,no,0
+941218,2,Single Mother,Rent,71354,Daily Wage,Temporary,66677,40115,Yes,3,1086837,Hostel,7507,5.59,316477,Rural,no,100
+38102,2,Single Father,Rent,51374,Business,Contract,156497,14249,No,3,1165177,Hostel,4857,5.32,125349,Urban,yes,100
+74460,3,Both Alive,Rent,30116,Foreign,Contract,123246,46825,No,4,1119836,DayScholar,12118,4.02,50969,Rural,no,100
+364778,2,Both Alive,Rent,81029,Foreign,Permanent,84817,24600,No,2,1556790,Hostel,3146,1.62,90744,Urban,no,50
+89930,4,Single Father,Rent,93574,Govt Job,Self-employed,69806,37706,No,0,1533163,Hostel,26401,1.18,201495,Rural,no,100
+531089,2,Single Mother,Own,20447,Private Job,Self-employed,42814,19222,Yes,1,1012297,DayScholar,49945,7.61,117286,Rural,no,100
+627438,2,Single Father,Rent,30431,Daily Wage,Contract,70219,99041,No,4,1455138,DayScholar,26177,9.28,437627,Urban,no,0
+727627,1,Both Alive,Own,17908,Private Job,Permanent,180718,41139,No,2,1023847,DayScholar,38524,4.58,75028,Urban,yes,50
+179208,1,Single Father,Own,29336,Foreign,Temporary,170956,41302,Yes,3,1547746,Hostel,4414,6.59,297565,Urban,yes,100
+154697,2,Single Mother,Rent,40992,Foreign,Self-employed,95345,94684,Yes,2,1639040,DayScholar,17494,9.14,394670,Urban,no,100
+213945,3,Both Alive,Own,55350,Agriculture,Contract,100088,87838,No,1,324444,DayScholar,20437,0.9,410738,Rural,yes,50
+231915,1,Single Father,Own,69561,Unemployed,Self-employed,69322,68159,No,1,152412,Hostel,3937,7.7,38575,Rural,no,50
+727952,3,Single Mother,Own,51955,Govt Job,Self-employed,21650,8646,Yes,0,1576137,Hostel,36731,6.17,3192,Rural,no,100
+208124,2,Both Alive,Own,61240,Agriculture,Temporary,94242,13543,Yes,0,829444,DayScholar,21326,5.99,111116,Rural,no,100
+437477,2,Single Mother,Rent,20093,Unemployed,Permanent,140262,94496,Yes,1,1749329,DayScholar,38665,2.93,448484,Rural,no,100
+525830,4,Both Alive,Rent,6155,Agriculture,Temporary,38196,22785,No,4,1685017,Hostel,8974,6.84,390018,Rural,no,0
+283821,1,Single Father,Rent,46607,Agriculture,Permanent,170521,78353,No,4,1526925,Hostel,47145,7.95,81311,Urban,no,50
+177804,2,Single Mother,Rent,33487,Govt Job,Self-employed,170733,31406,Yes,3,1918281,Hostel,17500,1.13,403618,Rural,no,100
+705703,4,Both Alive,Rent,55668,Govt Job,Contract,29709,88992,No,0,908760,Hostel,48824,5.34,471826,Rural,no,0
+39081,1,Single Mother,Rent,20963,Business,Temporary,80428,51428,Yes,3,1955312,Hostel,1750,1.01,80781,Urban,no,100
+718216,2,Single Mother,Rent,50124,Private Job,Permanent,9943,23777,No,0,378781,DayScholar,4027,8.73,36527,Rural,yes,0
+355249,2,Single Father,Rent,52870,Private Job,Self-employed,174312,57939,Yes,1,682636,Hostel,44296,5.08,52181,Rural,no,100
+219930,1,Single Mother,Rent,56547,Business,Permanent,176832,53026,Yes,4,1375359,Hostel,5745,8.08,91472,Rural,yes,100
+805497,1,Both Alive,Rent,64110,Business,Permanent,21042,86450,No,4,394083,Hostel,21448,3.68,420218,Urban,yes,0
+517313,1,Both Alive,Own,53554,Foreign,Permanent,43894,29553,No,1,541598,Hostel,42447,1.25,81219,Urban,no,0
+214532,2,Both Alive,Rent,20936,Unemployed,Self-employed,137941,23548,No,3,1749103,Hostel,28451,0.41,405676,Rural,yes,50
+612380,2,Both Alive,Own,4426,Agriculture,Contract,192150,63221,No,3,1423664,DayScholar,28207,2.82,119783,Urban,no,50
+519332,4,Single Father,Own,88839,Business,Contract,56759,37265,No,2,488096,Hostel,5938,2.44,161554,Rural,no,0
+316837,3,Single Mother,Own,27606,Daily Wage,Contract,105973,40701,No,0,1724327,DayScholar,12150,5.6,409663,Rural,no,50
+289106,1,Single Father,Own,47832,Private Job,Permanent,44306,51287,Yes,3,1180589,Hostel,13406,0.22,179300,Rural,no,100
+28295,2,Single Mother,Rent,28151,Business,Self-employed,108369,6727,No,1,191693,DayScholar,19781,5.21,83265,Urban,yes,100
+13807,2,Single Mother,Own,79303,Daily Wage,Permanent,186443,50717,Yes,3,676252,DayScholar,37621,3.92,50126,Rural,yes,100
+435564,1,Single Mother,Rent,11308,Daily Wage,Contract,151990,32427,Yes,4,1921741,Hostel,18325,5.77,282689,Rural,no,100
+157504,3,Single Father,Rent,62522,Daily Wage,Contract,28379,16692,No,0,743946,Hostel,3148,7.02,55114,Rural,yes,50
+238067,1,Single Mother,Own,45671,Foreign,Self-employed,120667,31625,Yes,2,963646,Hostel,28879,6.34,355884,Rural,yes,100
+485008,3,Single Father,Rent,90306,Foreign,Permanent,134034,24918,Yes,0,448895,Hostel,49011,9.85,206422,Rural,yes,100
+975358,2,Both Alive,Own,94108,Daily Wage,Temporary,144923,41136,No,4,182687,Hostel,7933,1.38,188873,Urban,no,50
+957766,3,Both Alive,Own,2204,Unemployed,Temporary,117626,52409,No,4,1237201,DayScholar,9436,4.3,276034,Rural,yes,50
+692440,4,Single Mother,Rent,92769,Foreign,Contract,176819,15577,No,4,1167840,Hostel,17669,4.25,121284,Urban,yes,50
+394540,2,Single Father,Rent,87265,Agriculture,Self-employed,125180,85155,Yes,4,613359,Hostel,6474,4.17,314626,Rural,yes,100
+877699,4,Both Alive,Own,31131,Daily Wage,Permanent,52349,99246,No,1,706362,DayScholar,47447,6.64,194469,Urban,no,0
+517923,1,Single Father,Rent,52428,Agriculture,Permanent,187428,81731,No,2,1443331,Hostel,11228,4.9,394956,Rural,yes,50
+166981,1,Single Father,Rent,33870,Agriculture,Contract,145817,27689,No,4,1129234,DayScholar,33538,5.17,423337,Rural,yes,50
+744699,1,Single Mother,Rent,49067,Daily Wage,Contract,5730,11154,No,4,1592716,Hostel,1843,4.32,142290,Urban,no,0
+19870,3,Both Alive,Own,58585,Private Job,Permanent,144993,94948,Yes,3,277531,DayScholar,73,9.92,333735,Urban,yes,100
+952082,2,Single Mother,Own,21607,Unemployed,Permanent,19023,21341,No,2,1448291,Hostel,16059,9.28,88241,Rural,no,0
+203196,1,Single Mother,Rent,24968,Daily Wage,Contract,176421,97554,Yes,0,1942303,DayScholar,20733,3.08,296866,Urban,no,100
+248683,1,Both Alive,Rent,98934,Daily Wage,Permanent,126796,74681,No,2,664669,DayScholar,40768,1.12,311575,Urban,no,50
+234677,2,Both Alive,Rent,11908,Foreign,Temporary,81533,46330,Yes,2,1033439,Hostel,25395,8.4,182615,Rural,no,100
+26790,1,Single Father,Rent,26423,Daily Wage,Contract,83286,87759,Yes,2,312138,Hostel,20202,9.97,304144,Rural,no,100
+643162,4,Both Alive,Rent,74707,Private Job,Permanent,41979,68416,Yes,4,244484,Hostel,13273,2.93,334119,Rural,no,100
+811721,2,Single Father,Own,78257,Foreign,Contract,22837,86807,No,4,1437632,DayScholar,48889,3.58,30921,Rural,yes,0
+448345,2,Single Father,Rent,61215,Govt Job,Self-employed,146069,33313,Yes,1,436941,DayScholar,33099,9.42,361409,Rural,no,100
+749074,2,Single Father,Own,55835,Govt Job,Contract,104975,46900,No,0,1786618,DayScholar,7512,7.11,350891,Urban,yes,50
+487462,4,Both Alive,Rent,49429,Agriculture,Contract,176111,78840,No,3,665920,Hostel,28231,2.96,161686,Rural,yes,50
+539773,2,Single Mother,Own,82152,Unemployed,Self-employed,20923,34695,No,2,396354,Hostel,23274,5.81,192261,Urban,no,0
+830914,4,Single Father,Rent,38458,Agriculture,Temporary,8876,30225,No,0,852997,DayScholar,37699,9.44,17601,Rural,yes,0
+86188,2,Single Mother,Own,46169,Private Job,Permanent,60973,86072,No,0,1322032,Hostel,45510,8.12,93332,Rural,yes,100
+529036,3,Single Mother,Rent,7659,Business,Self-employed,133959,96367,Yes,1,945709,DayScholar,22409,7.42,385398,Urban,yes,100
+742129,1,Both Alive,Own,60614,Unemployed,Contract,194795,49156,No,3,398026,Hostel,46194,7.37,202615,Rural,no,50
+664795,3,Single Mother,Own,77240,Govt Job,Permanent,42422,77209,Yes,2,1987675,Hostel,5113,1.78,413730,Urban,yes,100
+790141,1,Single Mother,Own,32793,Agriculture,Self-employed,51413,87453,Yes,3,97566,DayScholar,41187,8.25,476528,Urban,yes,100
+648249,4,Both Alive,Own,46473,Govt Job,Permanent,102484,27829,Yes,1,293473,Hostel,2881,2.76,460828,Urban,no,100
+30355,3,Single Father,Own,96762,Private Job,Permanent,133913,80908,Yes,4,1293326,Hostel,45913,9.3,484102,Rural,yes,100
+711131,2,Single Mother,Own,89388,Private Job,Self-employed,28756,25938,Yes,0,1913195,Hostel,46324,3.65,381148,Rural,yes,100
+451015,1,Both Alive,Rent,97618,Business,Permanent,71576,59164,Yes,2,1658406,Hostel,19249,8.58,235572,Rural,yes,100
+406332,1,Single Mother,Own,88330,Business,Temporary,118248,54530,Yes,4,1166813,Hostel,35343,2.66,409508,Rural,no,100
+156542,3,Single Mother,Rent,55751,Foreign,Self-employed,10304,68199,No,1,1578480,DayScholar,12714,5.15,424726,Rural,yes,50
+173416,4,Single Father,Rent,78915,Unemployed,Temporary,30341,60282,Yes,3,1435196,Hostel,38953,1.07,290144,Rural,yes,100
+305062,3,Single Mother,Rent,54254,Private Job,Contract,135830,47801,No,0,1356365,DayScholar,8656,6.6,130439,Urban,no,50
+838656,4,Both Alive,Rent,7006,Agriculture,Permanent,148082,9465,Yes,2,1146078,Hostel,5741,8.36,239691,Rural,no,100
+563586,4,Single Mother,Rent,74218,Govt Job,Contract,127039,3326,Yes,4,496598,Hostel,16661,7.18,119277,Rural,no,100
+501708,1,Single Father,Own,65344,Daily Wage,Contract,191830,3659,Yes,4,359454,DayScholar,31555,5.23,292527,Rural,yes,100
+866651,3,Single Father,Own,33840,Business,Permanent,162730,60289,Yes,0,866051,DayScholar,28690,0.45,142857,Rural,no,100
+61629,3,Both Alive,Own,32430,Daily Wage,Self-employed,180074,27594,No,3,1878521,Hostel,32833,9.33,40910,Urban,no,100
+328184,4,Single Father,Rent,23091,Agriculture,Permanent,132447,4763,No,1,543037,Hostel,37030,7.05,170100,Urban,no,50
+492734,3,Single Mother,Own,32983,Business,Contract,99485,88657,No,3,1744719,DayScholar,5704,7.46,155927,Urban,yes,50
+755195,2,Single Father,Own,23989,Daily Wage,Contract,22092,10828,Yes,3,594933,DayScholar,48123,7.95,286425,Urban,no,100
+290160,2,Both Alive,Own,75451,Unemployed,Self-employed,131562,47588,Yes,3,223933,DayScholar,41362,7.48,375982,Urban,no,100
+548248,3,Single Father,Own,18990,Agriculture,Permanent,3729,11221,Yes,0,1111751,DayScholar,12175,4.41,4841,Rural,no,100
+820023,3,Single Father,Own,90270,Govt Job,Contract,137046,11211,No,0,1011720,Hostel,12696,7.34,97204,Urban,no,50
+213920,4,Single Father,Rent,80360,Unemployed,Temporary,118222,13569,Yes,1,990213,Hostel,39023,6.25,60155,Urban,no,100
+889765,2,Both Alive,Own,36081,Agriculture,Contract,85216,96894,No,3,158395,Hostel,40209,8.54,420134,Rural,yes,0
+242804,2,Single Father,Rent,11033,Foreign,Contract,83860,37860,No,0,60762,Hostel,28054,8.02,318457,Rural,yes,50
+376965,1,Single Father,Rent,16241,Business,Self-employed,96870,71558,Yes,1,598510,Hostel,21076,0.41,259589,Urban,no,100
+460857,4,Single Mother,Rent,5939,Private Job,Temporary,21398,45337,Yes,1,437709,DayScholar,14986,3.79,261140,Rural,no,100
+822827,1,Both Alive,Rent,47562,Govt Job,Contract,34650,52311,No,3,1247976,DayScholar,46118,0.35,373832,Rural,no,0
+504492,2,Single Father,Rent,35063,Unemployed,Contract,152364,13515,No,2,265539,DayScholar,14440,1.02,148515,Urban,yes,50
+653983,4,Both Alive,Own,76721,Unemployed,Temporary,103889,71695,No,3,1070789,Hostel,7960,6.01,425466,Rural,yes,50
+415916,3,Single Father,Own,27045,Daily Wage,Permanent,3159,87227,Yes,2,631655,DayScholar,22462,8.74,132994,Urban,yes,100
+821052,4,Single Father,Own,44769,Business,Permanent,98162,24904,Yes,1,1035336,Hostel,17821,1.2,294120,Urban,yes,100
+758574,3,Single Father,Rent,47118,Private Job,Contract,193838,59935,Yes,0,1760866,Hostel,27258,4.51,143063,Rural,no,100
+128148,3,Single Mother,Own,84703,Agriculture,Contract,102834,43790,Yes,4,1217361,Hostel,27353,9.11,104405,Urban,no,100
+806991,4,Single Mother,Own,21625,Private Job,Permanent,148137,68580,Yes,1,1690021,DayScholar,23416,8.14,53744,Urban,no,100
+486261,3,Single Mother,Rent,27076,Business,Self-employed,21638,75148,Yes,0,1812272,Hostel,22115,5.2,415949,Rural,no,100
+355540,1,Both Alive,Rent,64805,Business,Temporary,1073,5636,No,1,1091159,Hostel,46433,7.72,2473,Rural,yes,50
+192714,2,Both Alive,Rent,44605,Foreign,Temporary,177583,77129,No,3,663080,DayScholar,24968,5.23,139180,Rural,no,50
+731899,3,Single Mother,Rent,84565,Foreign,Self-employed,29320,2892,No,2,89944,Hostel,22731,1.58,28715,Rural,yes,0
+283876,1,Both Alive,Own,88509,Private Job,Self-employed,34924,21672,Yes,1,1080945,DayScholar,22785,1.25,244826,Urban,yes,100
+259747,3,Single Father,Rent,39121,Agriculture,Self-employed,171806,5812,No,0,1761864,Hostel,39397,1.88,253856,Rural,no,50
+615650,2,Single Father,Rent,65101,Private Job,Self-employed,68116,96621,Yes,3,1960852,DayScholar,13828,3.51,239419,Rural,yes,100
+423570,1,Single Father,Own,31433,Business,Self-employed,171097,654,Yes,4,1078086,Hostel,4541,9.31,252508,Urban,yes,100
+275987,2,Single Mother,Own,43309,Business,Self-employed,2159,54633,No,3,1050444,Hostel,40644,8.0,425426,Urban,no,50
+638353,2,Both Alive,Rent,67468,Daily Wage,Temporary,48940,17143,Yes,2,22120,DayScholar,13311,4.33,299461,Urban,yes,100
+858158,1,Single Mother,Own,44254,Foreign,Self-employed,79436,55934,No,3,634135,Hostel,30531,4.93,327660,Urban,yes,0
+17640,1,Both Alive,Rent,67293,Daily Wage,Permanent,14678,67334,No,4,632863,DayScholar,14588,2.66,164434,Rural,no,100
+52528,1,Single Father,Rent,96258,Govt Job,Self-employed,192147,29087,Yes,0,1449989,Hostel,49416,7.04,54604,Rural,yes,100
+824845,4,Single Mother,Own,37853,Business,Self-employed,178276,11618,No,1,1326015,DayScholar,12380,8.03,4889,Urban,yes,50
+259214,1,Both Alive,Own,38405,Daily Wage,Temporary,143093,8446,No,2,554748,Hostel,42645,2.39,220629,Urban,no,50
+839070,1,Both Alive,Rent,66652,Private Job,Temporary,137844,87182,No,4,549251,Hostel,17818,0.42,335892,Urban,yes,50
+970240,1,Single Father,Rent,43527,Foreign,Self-employed,67163,48867,No,2,1922124,Hostel,30857,6.24,294115,Urban,no,0
+501108,1,Single Mother,Rent,77227,Foreign,Temporary,154536,51028,Yes,3,561616,DayScholar,21711,5.63,50551,Rural,yes,100
+634421,3,Single Mother,Own,492,Agriculture,Contract,51137,60101,No,2,881061,DayScholar,5097,4.02,134273,Urban,yes,0
+368501,4,Single Mother,Rent,93418,Private Job,Temporary,161304,27200,No,4,134034,DayScholar,28393,6.44,237230,Rural,no,50
+724226,2,Single Father,Rent,8811,Agriculture,Temporary,61497,95107,No,1,1604469,DayScholar,22076,5.51,236139,Urban,no,0
+150159,1,Single Mother,Rent,93344,Daily Wage,Temporary,100485,88074,Yes,1,1955909,DayScholar,18738,2.51,108957,Rural,yes,100
+172502,3,Single Father,Rent,24272,Unemployed,Temporary,182520,61465,No,2,1234461,Hostel,29317,3.98,89882,Rural,no,50
+155576,3,Single Father,Rent,93935,Govt Job,Permanent,105468,86436,Yes,0,1236019,Hostel,39229,4.28,300102,Rural,yes,100
+924618,3,Single Father,Own,72010,Private Job,Permanent,901,87892,No,2,642529,Hostel,7044,8.8,210323,Rural,no,0
+865291,2,Both Alive,Rent,92492,Private Job,Permanent,87980,88559,No,3,844030,Hostel,5497,9.61,267825,Urban,yes,0
+886089,1,Single Mother,Rent,47153,Private Job,Self-employed,107594,39148,No,1,201848,Hostel,13751,8.93,101982,Rural,yes,50
+928479,4,Single Mother,Rent,54110,Agriculture,Self-employed,2881,82928,Yes,1,264289,DayScholar,29882,7.19,46870,Urban,yes,100
+11023,4,Single Father,Rent,13979,Daily Wage,Contract,29863,20698,Yes,1,1917266,Hostel,42072,5.85,390540,Rural,yes,100
+545735,3,Single Father,Own,28328,Private Job,Permanent,136694,42470,Yes,0,837401,DayScholar,43194,6.89,213328,Rural,yes,100
+388043,2,Single Mother,Own,12867,Unemployed,Self-employed,132450,92071,Yes,0,1750848,Hostel,43826,9.39,329347,Urban,no,100
+286103,2,Single Father,Own,59234,Private Job,Temporary,45201,51660,Yes,4,179446,DayScholar,22449,2.5,159224,Urban,no,100
+66203,2,Single Mother,Rent,25851,Foreign,Temporary,59251,53910,Yes,2,1786238,DayScholar,44028,5.35,50061,Rural,yes,100
+905588,4,Both Alive,Rent,31279,Govt Job,Permanent,72572,35450,No,2,72784,DayScholar,33402,6.9,188691,Rural,yes,0
+160775,3,Single Father,Own,96063,Foreign,Contract,39255,56463,Yes,3,977386,Hostel,32543,6.79,58235,Urban,no,100
+9337,1,Single Mother,Own,73402,Foreign,Contract,63212,33757,No,1,943432,Hostel,29362,2.52,466956,Rural,no,100
+570715,4,Single Father,Own,15449,Govt Job,Temporary,50210,78012,Yes,0,1079850,Hostel,27315,5.87,300034,Urban,no,100
+514723,3,Single Mother,Rent,76221,Unemployed,Contract,125629,70247,Yes,3,1712858,Hostel,27746,7.96,90073,Urban,no,100
+323673,3,Single Mother,Rent,89080,Daily Wage,Permanent,22499,72015,Yes,3,830848,DayScholar,10057,4.75,323545,Urban,no,100
+364167,1,Single Father,Own,5451,Foreign,Temporary,102552,31390,No,0,227220,DayScholar,46113,7.93,11217,Rural,yes,50
+346809,1,Both Alive,Own,87178,Daily Wage,Self-employed,182700,56116,Yes,2,726358,DayScholar,42915,3.6,310495,Rural,yes,100
+630075,1,Single Mother,Own,41316,Foreign,Self-employed,61360,13161,Yes,1,372578,DayScholar,21061,9.39,295885,Urban,no,100
+687281,2,Single Mother,Rent,63064,Business,Contract,135675,32152,No,2,253768,Hostel,34157,5.34,413870,Urban,no,50
+295451,1,Single Mother,Rent,63761,Govt Job,Temporary,127466,80171,No,3,1495148,DayScholar,45839,5.96,192386,Urban,no,50
+420571,3,Both Alive,Rent,38870,Foreign,Temporary,85473,95833,No,1,1751070,Hostel,11322,0.31,263552,Urban,no,50
+127016,1,Both Alive,Own,96566,Business,Self-employed,143704,20836,No,4,1518834,DayScholar,4276,1.7,42903,Rural,no,50
+791267,3,Single Father,Own,30873,Agriculture,Temporary,161679,90367,Yes,3,1896318,DayScholar,12306,6.33,215280,Urban,no,100
+544447,4,Both Alive,Rent,58627,Business,Temporary,91873,66543,No,2,1045108,DayScholar,34017,4.2,107042,Rural,no,0
+497562,2,Single Father,Own,66155,Private Job,Temporary,65756,55648,Yes,2,877190,Hostel,27742,5.08,243725,Urban,no,100
+702965,4,Single Father,Rent,99186,Foreign,Contract,178066,26331,Yes,2,153435,Hostel,31600,0.63,132290,Rural,no,100
+383934,4,Both Alive,Own,25372,Business,Temporary,194454,10763,No,0,488365,DayScholar,17629,8.34,181644,Rural,yes,50
+892048,3,Single Father,Own,3642,Daily Wage,Permanent,56344,69444,Yes,3,972067,DayScholar,8245,7.85,452014,Rural,no,100
+955592,4,Both Alive,Own,28001,Agriculture,Contract,184847,93109,No,1,827060,DayScholar,31414,1.85,494897,Rural,no,50
+865184,3,Single Father,Own,34064,Unemployed,Temporary,138421,19187,Yes,2,1562712,Hostel,43870,6.34,384333,Rural,yes,100
+317428,1,Both Alive,Rent,94826,Foreign,Temporary,71154,11957,No,2,1048457,Hostel,30098,8.18,109268,Urban,yes,50
+319187,1,Both Alive,Own,14122,Private Job,Permanent,27464,4379,No,0,1128248,Hostel,48994,6.41,30105,Urban,yes,50
+690907,3,Single Father,Rent,24820,Unemployed,Contract,173696,27959,No,1,1629110,DayScholar,10588,3.1,69634,Rural,no,50
+883439,1,Single Mother,Rent,68431,Business,Self-employed,121897,82018,No,3,938665,Hostel,442,6.56,379570,Urban,no,50
+82844,2,Single Father,Rent,55745,Unemployed,Self-employed,37344,27105,No,4,504209,DayScholar,39744,2.1,458279,Urban,no,100
+551820,4,Both Alive,Own,50081,Unemployed,Contract,83791,877,No,0,623398,Hostel,37443,3.18,138691,Urban,no,0
+165421,2,Single Mother,Rent,70902,Agriculture,Temporary,155371,48353,Yes,3,1544230,DayScholar,11803,2.4,405155,Urban,yes,100
+122402,4,Single Father,Rent,8711,Unemployed,Temporary,179047,83788,Yes,4,274954,DayScholar,40721,5.57,18226,Urban,no,100
+118012,1,Single Father,Rent,85132,Unemployed,Self-employed,132534,96870,Yes,2,1773796,Hostel,37145,1.08,25322,Urban,no,100
+438661,2,Single Father,Own,18793,Foreign,Self-employed,120209,84585,No,2,1266847,DayScholar,10599,9.33,379648,Urban,yes,50
+398929,1,Single Mother,Own,8199,Agriculture,Self-employed,81441,83308,Yes,1,605976,DayScholar,7058,3.34,320359,Rural,no,100
+580466,4,Both Alive,Rent,76253,Private Job,Permanent,90456,51567,No,4,861980,DayScholar,17206,2.19,410094,Urban,no,0
+573695,3,Single Father,Own,36191,Business,Self-employed,81788,57913,Yes,2,1776299,Hostel,11894,4.97,399776,Urban,no,100
+463556,3,Single Father,Rent,10211,Agriculture,Permanent,171653,2637,Yes,2,283306,DayScholar,2939,2.77,431494,Urban,no,100
+575278,2,Single Father,Rent,63069,Agriculture,Contract,14175,72778,No,1,1932866,Hostel,22149,5.35,167284,Rural,yes,0
+993176,1,Single Father,Own,88896,Govt Job,Temporary,137263,42025,Yes,3,607823,Hostel,1031,3.49,94835,Rural,yes,100
+129473,1,Single Father,Rent,56746,Agriculture,Self-employed,83434,99508,Yes,2,410435,DayScholar,10208,1.32,255027,Urban,yes,100
+983049,2,Both Alive,Own,21542,Govt Job,Temporary,84518,82464,Yes,0,605152,Hostel,562,2.66,73079,Rural,yes,100
+478007,3,Both Alive,Own,31312,Business,Temporary,66537,28742,No,0,1717557,DayScholar,43498,4.38,23946,Rural,no,50
+844573,4,Single Father,Rent,45242,Unemployed,Self-employed,115721,11831,Yes,3,1176947,Hostel,49492,0.3,162812,Urban,no,100
+417009,2,Single Mother,Own,93783,Foreign,Self-employed,47645,85092,No,4,1672656,DayScholar,20951,7.71,372877,Rural,no,50
+318714,4,Both Alive,Own,87893,Foreign,Contract,23283,90879,Yes,1,709793,Hostel,48920,6.22,7253,Urban,yes,100
+226156,3,Single Mother,Rent,55388,Business,Permanent,86971,88370,Yes,0,523214,DayScholar,46766,6.01,79311,Rural,yes,100
+168964,1,Both Alive,Rent,27691,Business,Permanent,92759,46762,Yes,0,1528642,DayScholar,28351,5.46,294957,Urban,yes,100
+525303,3,Single Father,Own,77960,Daily Wage,Temporary,190195,98958,Yes,3,791704,DayScholar,18680,5.9,457547,Rural,no,100
+61813,2,Both Alive,Own,84388,Unemployed,Self-employed,102780,88741,No,4,1124764,DayScholar,49386,9.35,420848,Urban,no,100
+27712,1,Single Father,Rent,22601,Business,Contract,161096,18830,Yes,4,1244599,Hostel,21586,0.09,310509,Urban,yes,100
+624785,2,Both Alive,Own,18020,Agriculture,Contract,180702,55044,No,3,1926726,Hostel,9308,0.48,67593,Rural,yes,50
+925919,2,Single Father,Own,8155,Foreign,Contract,30734,73948,No,0,772476,DayScholar,9609,1.91,426647,Urban,no,0
+767214,3,Single Father,Own,69119,Private Job,Contract,515,69202,Yes,1,570846,Hostel,29495,1.67,430652,Urban,no,100
+112816,2,Single Father,Own,81051,Foreign,Contract,110782,37045,Yes,0,138938,DayScholar,17675,1.81,149485,Rural,no,100
+128778,3,Single Father,Own,36777,Govt Job,Permanent,66727,86322,No,4,1205307,DayScholar,28064,6.72,226833,Urban,yes,50
+586580,1,Single Mother,Own,19710,Foreign,Permanent,109164,71051,No,0,1879421,Hostel,8720,4.59,38485,Urban,yes,50
+285977,3,Single Father,Own,24532,Daily Wage,Permanent,46216,26627,Yes,1,806867,Hostel,42940,9.92,199304,Rural,yes,100
+135230,1,Single Mother,Rent,18601,Unemployed,Self-employed,71833,15198,Yes,2,784560,DayScholar,14457,2.27,373648,Urban,yes,100
+718040,3,Single Mother,Rent,63227,Business,Temporary,58755,69521,Yes,0,1610931,Hostel,2939,3.11,278245,Rural,no,100
+806741,4,Single Father,Rent,4967,Unemployed,Contract,27856,29475,Yes,3,622082,DayScholar,47113,9.84,8831,Urban,no,100
