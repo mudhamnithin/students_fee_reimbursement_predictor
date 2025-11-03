@@ -1,0 +1,1001 @@
+Annual_Income,Earning_Members,Parent_Type,House_Type,Parent_Occupation,Land_Owned_Acres,Children_Studying,Any_Disability,Urban_Rural,First_Generation_Learner,Rent_Amount,Job_Type,Loan_Burden,Medical_Expenditure,Annual_College_Fee,Hostel_or_DayScholar,Transport_Cost,Agriculture_Income,Reimbursement_%
+162000,2,Single Parent,Rent,Private Job,0.96,3,No,Rural,Yes,2475,Salaried,0,11245,72889,DayScholar,1329,0,100.0
+495000,1,Both Alive,Rent,Daily Wage,1.09,0,No,Rural,Yes,2575,Daily Income,100000,8972,44633,DayScholar,3917,0,82.38
+330000,2,Both Alive,Rent,Unemployed,0.69,1,No,Urban,No,4489,None,0,8470,92244,DayScholar,3030,0,82.34
+166000,3,Both Alive,Rent,Unemployed,1.04,3,No,Rural,No,4967,None,10000,7318,49163,DayScholar,3790,0,100.0
+131000,3,Both Alive,Rent,Government Job,0.02,1,No,Rural,Yes,6840,Salaried,0,14601,89019,Hostel,0,0,100.0
+760000,1,Single Parent,Own,Daily Wage,0.56,2,No,Urban,Yes,0,Daily Income,150000,5528,40707,DayScholar,3538,0,75.7
+80000,3,Single Parent,Rent,Government Job,0.33,3,No,Rural,Yes,5323,Salaried,100000,11454,118112,DayScholar,3166,0,100.0
+674000,3,Both Alive,Own,Private Job,0.14,0,No,Urban,No,0,Salaried,0,5203,113597,Hostel,0,0,53.61
+181000,1,Both Alive,Own,Agriculture,0.1,3,No,Urban,Yes,0,Daily Income,0,13270,75101,Hostel,0,46245,100.0
+526000,2,Both Alive,Own,Daily Wage,0.92,1,No,Urban,Yes,0,Daily Income,50000,9938,74706,DayScholar,1744,0,68.99
+274000,2,Single Parent,Own,Daily Wage,0.74,0,No,Urban,No,0,Daily Income,0,2272,107084,Hostel,0,0,82.6
+390000,2,Both Alive,Own,Daily Wage,0.29,3,No,Rural,Yes,0,Daily Income,200000,2664,45115,DayScholar,3704,0,100.0
+518000,1,Both Alive,Own,Government Job,0.64,3,No,Urban,Yes,0,Salaried,200000,7611,105379,Hostel,0,0,90.06
+147000,3,Both Alive,Own,Private Job,0.68,3,No,Urban,Yes,0,Salaried,50000,8883,132481,Hostel,0,0,100.0
+432000,2,Both Alive,Rent,Daily Wage,0.22,3,No,Rural,No,4585,Daily Income,50000,3335,69979,DayScholar,949,0,93.97
+159000,2,Both Alive,Own,Daily Wage,1.06,0,No,Rural,Yes,0,Daily Income,10000,3165,70641,Hostel,0,0,90.02
+723000,1,Both Alive,Own,Unemployed,1.52,1,No,Rural,No,0,None,100000,6613,99377,DayScholar,3594,0,52.03
+190000,2,Single Parent,Rent,Agriculture,1.57,3,No,Rural,Yes,5829,Daily Income,0,3063,36416,DayScholar,543,159111,100.0
+721000,1,Both Alive,Own,Unemployed,0.92,0,No,Rural,Yes,0,None,100000,8998,40633,Hostel,0,0,60.91
+368000,3,Both Alive,Rent,Unemployed,0.72,1,No,Urban,Yes,1526,None,0,8631,133189,Hostel,0,0,85.51
+403000,1,Single Parent,Rent,Agriculture,0.06,3,No,Rural,Yes,7090,Daily Income,0,9223,30594,Hostel,0,170125,100.0
+551000,1,Both Alive,Rent,Private Job,0.34,1,No,Urban,No,1592,Salaried,100000,12909,44393,Hostel,0,0,78.82
+473000,1,Single Parent,Rent,Unemployed,0.1,1,No,Rural,Yes,4164,None,150000,3196,65380,DayScholar,3399,0,100.0
+445000,1,Both Alive,Own,Private Job,3.32,0,No,Urban,No,0,Salaried,150000,5187,75056,DayScholar,2594,0,50.33
+251000,3,Both Alive,Rent,Unemployed,0.15,1,No,Rural,Yes,1551,None,0,7821,118279,Hostel,0,0,100.0
+336000,3,Single Parent,Own,Business,0.16,0,Yes,Rural,No,0,Self Employed,100000,7513,127507,DayScholar,1547,0,100.0
+220000,2,Both Alive,Own,Agriculture,2.2,3,No,Rural,No,0,Daily Income,150000,8204,146184,Hostel,0,85958,89.09
+519000,3,Both Alive,Rent,Unemployed,2.88,1,No,Urban,No,5776,None,0,6071,148243,Hostel,0,0,48.74
+373000,3,Both Alive,Own,Business,1.45,1,No,Rural,Yes,0,Self Employed,100000,7836,34861,Hostel,0,0,82.09
+81000,2,Both Alive,Rent,Government Job,0.01,2,No,Rural,Yes,5391,Salaried,30000,558,133070,DayScholar,1642,0,100.0
+312000,3,Both Alive,Rent,Business,0.0,3,No,Rural,Yes,6242,Self Employed,100000,10265,66126,DayScholar,3282,0,100.0
+620000,1,Both Alive,Rent,Daily Wage,0.47,3,No,Urban,No,5456,Daily Income,100000,1640,110382,DayScholar,2191,0,78.96
+534000,1,Single Parent,Rent,Unemployed,0.15,2,No,Rural,Yes,7557,None,200000,10502,121713,Hostel,0,0,100.0
+118000,2,Both Alive,Own,Business,0.02,2,No,Rural,No,0,Self Employed,100000,14593,63682,Hostel,0,0,100.0
+570000,2,Both Alive,Own,Private Job,0.62,0,No,Rural,No,0,Salaried,50000,11890,48228,DayScholar,2355,0,63.92
+741000,2,Both Alive,Rent,Government Job,2.87,0,No,Rural,Yes,4192,Salaried,50000,12168,130299,DayScholar,2447,0,44.95
+535000,1,Both Alive,Own,Unemployed,0.39,1,No,Rural,No,0,None,100000,13186,54009,DayScholar,1865,0,75.41
+759000,3,Both Alive,Rent,Daily Wage,1.08,1,No,Rural,No,7898,Daily Income,150000,3062,30094,Hostel,0,0,65.79
+249000,1,Single Parent,Rent,Business,1.06,1,No,Rural,No,3524,Self Employed,50000,3352,136988,Hostel,0,0,100.0
+746000,2,Both Alive,Rent,Government Job,0.29,1,No,Rural,Yes,5931,Salaried,100000,7141,110636,DayScholar,937,0,76.26
+622000,3,Both Alive,Own,Unemployed,1.05,0,No,Urban,Yes,0,None,0,1441,82221,DayScholar,1951,0,54.37
+626000,3,Both Alive,Own,Government Job,0.24,3,No,Rural,Yes,0,Salaried,200000,13315,128453,DayScholar,925,0,90.67
+303000,1,Both Alive,Own,Daily Wage,0.13,1,No,Urban,No,0,Daily Income,150000,7041,47430,DayScholar,1467,0,93.36
+564000,2,Both Alive,Own,Business,1.21,3,No,Urban,No,0,Self Employed,100000,10466,65571,DayScholar,1904,0,67.62
+190000,1,Both Alive,Rent,Government Job,0.12,1,No,Rural,Yes,2013,Salaried,50000,7930,84486,DayScholar,985,0,100.0
+544000,3,Single Parent,Own,Government Job,5.78,2,No,Urban,No,0,Salaried,200000,1921,120510,DayScholar,2255,0,38.12
+706000,1,Both Alive,Own,Agriculture,0.2,1,No,Rural,Yes,0,Daily Income,0,6265,126665,DayScholar,3756,168579,73.9
+80000,1,Both Alive,Own,Government Job,0.9,1,No,Rural,No,0,Salaried,50000,14338,142770,DayScholar,3007,0,96.99
+226000,2,Both Alive,Rent,Agriculture,0.53,1,No,Rural,No,3233,Daily Income,50000,935,92294,Hostel,0,146691,100.0
+333000,2,Both Alive,Rent,Business,0.14,0,No,Rural,No,4870,Self Employed,200000,1339,50860,Hostel,0,0,100.0
+447000,3,Both Alive,Own,Unemployed,0.03,2,No,Rural,No,0,None,0,4501,102812,DayScholar,2079,0,79.83
+660000,1,Both Alive,Own,Unemployed,0.97,1,No,Urban,Yes,0,None,50000,13147,96087,DayScholar,3586,0,59.55
+375000,1,Both Alive,Own,Business,1.64,1,No,Rural,Yes,0,Self Employed,150000,5748,143784,DayScholar,3295,0,84.09
+73000,1,Both Alive,Own,Business,1.85,3,No,Rural,No,0,Self Employed,30000,5459,38486,Hostel,0,0,92.78
+301000,3,Both Alive,Rent,Private Job,0.66,2,No,Rural,Yes,6263,Salaried,100000,11373,113063,Hostel,0,0,100.0
+405000,3,Both Alive,Rent,Business,1.5,1,No,Rural,Yes,6189,Self Employed,200000,2150,79607,DayScholar,2856,0,95.38
+624000,2,Single Parent,Own,Government Job,1.12,3,No,Rural,No,0,Salaried,0,6328,39745,Hostel,0,0,68.57
+399000,2,Single Parent,Own,Unemployed,1.29,3,No,Urban,Yes,0,None,150000,9937,136664,Hostel,0,0,95.84
+151000,2,Both Alive,Rent,Daily Wage,0.68,0,No,Rural,No,1755,Daily Income,0,2761,108533,Hostel,0,0,95.4
+426000,1,Single Parent,Own,Unemployed,1.0,3,Yes,Rural,No,0,None,200000,9607,48330,DayScholar,2112,0,100.0
+514000,1,Both Alive,Rent,Agriculture,1.64,1,No,Urban,No,6156,Daily Income,0,11331,70078,Hostel,0,171953,60.95
+487000,2,Both Alive,Own,Unemployed,0.51,0,No,Rural,No,0,None,150000,6394,85332,DayScholar,3182,0,78.42
+568000,1,Both Alive,Own,Private Job,1.64,0,No,Rural,No,0,Salaried,0,6778,134121,DayScholar,704,0,50.34
+94000,2,Both Alive,Own,Business,0.9,1,No,Rural,No,0,Self Employed,50000,4389,84532,DayScholar,3287,0,96.05
+265000,3,Both Alive,Own,Business,0.18,2,No,Urban,No,0,Self Employed,50000,7397,120365,DayScholar,1593,0,90.52
+140000,2,Single Parent,Rent,Unemployed,0.02,3,No,Urban,Yes,4676,None,30000,13173,73336,Hostel,0,0,100.0
+621000,3,Both Alive,Own,Daily Wage,0.45,0,No,Rural,No,0,Daily Income,100000,1826,38070,Hostel,0,0,66.09
+447000,1,Both Alive,Own,Daily Wage,0.79,2,No,Urban,No,0,Daily Income,200000,6401,31320,Hostel,0,0,84.37
+61000,2,Both Alive,Own,Private Job,1.83,1,No,Rural,Yes,0,Salaried,50000,3858,119043,DayScholar,3423,0,95.36
+449000,1,Single Parent,Own,Agriculture,0.14,3,No,Rural,Yes,0,Daily Income,150000,2085,68921,Hostel,0,41199,100.0
+625000,3,Both Alive,Own,Unemployed,1.61,3,No,Rural,No,0,None,100000,14000,36589,Hostel,0,0,63.72
+165000,3,Both Alive,Own,Business,1.99,0,No,Rural,Yes,0,Self Employed,30000,12060,94409,DayScholar,634,0,82.29
+536000,3,Both Alive,Rent,Unemployed,0.16,3,No,Rural,No,2113,None,0,6145,122995,Hostel,0,0,83.64
+762000,1,Both Alive,Own,Private Job,1.91,3,No,Urban,No,0,Salaried,200000,888,45589,Hostel,0,0,55.59
+461000,1,Orphan,Own,Government Job,4.76,3,No,Urban,Yes,0,Salaried,150000,3291,66375,DayScholar,3236,0,70.48
+789000,1,Single Parent,Rent,Government Job,1.3,3,No,Rural,No,4616,Salaried,100000,3832,73085,DayScholar,3869,0,71.72
+615000,1,Both Alive,Own,Private Job,1.54,1,No,Rural,Yes,0,Salaried,200000,1203,90840,Hostel,0,0,72.96
+221000,3,Single Parent,Rent,Business,5.19,2,Yes,Rural,No,2312,Self Employed,200000,6334,73200,Hostel,0,0,100.0
+261000,3,Both Alive,Own,Private Job,0.93,1,No,Rural,Yes,0,Salaried,150000,3320,128704,DayScholar,601,0,98.51
+329000,2,Single Parent,Rent,Business,0.37,1,No,Rural,No,1830,Self Employed,150000,8553,56732,Hostel,0,0,100.0
+330000,2,Both Alive,Rent,Daily Wage,1.82,0,No,Urban,Yes,3712,Daily Income,50000,5459,127047,DayScholar,3240,0,78.47
+515000,1,Both Alive,Rent,Private Job,0.95,3,No,Urban,Yes,2716,Salaried,50000,1559,52426,Hostel,0,0,83.44
+521000,3,Both Alive,Rent,Business,0.87,1,No,Urban,Yes,7140,Self Employed,200000,12866,60982,DayScholar,2131,0,89.66
+786000,3,Both Alive,Own,Private Job,0.29,3,No,Rural,Yes,0,Salaried,50000,9990,89720,Hostel,0,0,67.64
+311000,3,Both Alive,Rent,Private Job,1.41,1,No,Rural,Yes,5982,Salaried,100000,1801,46746,DayScholar,3717,0,94.62
+761000,2,Both Alive,Own,Business,0.09,1,No,Rural,Yes,0,Self Employed,0,9365,58514,Hostel,0,0,61.27
+355000,2,Both Alive,Own,Business,2.58,0,No,Rural,Yes,0,Self Employed,200000,11051,94889,DayScholar,1313,0,77.38
+784000,3,Both Alive,Own,Agriculture,0.39,2,No,Rural,No,0,Daily Income,0,8196,33851,Hostel,0,197124,63.86
+779000,3,Both Alive,Own,Private Job,0.14,2,No,Rural,No,0,Salaried,50000,4799,49796,Hostel,0,0,60.54
+397000,3,Both Alive,Own,Government Job,0.58,1,No,Urban,No,0,Salaried,150000,13772,106034,DayScholar,3402,0,82.77
+112000,2,Single Parent,Rent,Private Job,0.04,0,No,Rural,No,3875,Salaried,30000,6571,92798,DayScholar,2129,0,100.0
+276000,3,Both Alive,Own,Private Job,1.15,3,No,Rural,Yes,0,Salaried,50000,4612,128388,DayScholar,3762,0,93.5
+247000,3,Both Alive,Rent,Business,2.33,3,No,Urban,Yes,2740,Self Employed,100000,8381,92985,DayScholar,1526,0,92.09
+439000,1,Both Alive,Rent,Private Job,1.82,1,No,Rural,Yes,1819,Salaried,200000,13263,64592,DayScholar,3489,0,90.04
+552000,1,Single Parent,Own,Unemployed,0.14,2,No,Rural,No,0,None,200000,12274,74845,DayScholar,1520,0,95.57
+100000,2,Both Alive,Own,Private Job,0.13,0,No,Urban,No,0,Salaried,0,9708,45930,DayScholar,2724,0,92.07
+216000,3,Both Alive,Own,Unemployed,1.68,2,No,Rural,Yes,0,None,200000,8901,140853,DayScholar,1780,0,100.0
+74000,3,Single Parent,Own,Government Job,2.58,3,No,Rural,Yes,0,Salaried,100000,998,138417,Hostel,0,0,100.0
+124000,1,Single Parent,Own,Business,0.62,2,No,Urban,Yes,0,Self Employed,30000,9120,143436,DayScholar,3024,0,100.0
+580000,2,Both Alive,Own,Private Job,0.69,3,No,Rural,No,0,Salaried,100000,7745,137126,DayScholar,2945,0,75.53
+403000,1,Both Alive,Own,Unemployed,0.38,0,No,Urban,No,0,None,100000,12331,51159,Hostel,0,0,77.33
+188000,1,Both Alive,Rent,Unemployed,2.25,0,No,Rural,Yes,4618,None,0,11843,125072,DayScholar,719,0,83.9
+707000,1,Single Parent,Rent,Unemployed,1.04,1,No,Urban,Yes,6416,None,200000,14117,119788,Hostel,0,0,83.6
+531000,1,Both Alive,Own,Daily Wage,0.34,1,No,Rural,No,0,Daily Income,50000,2605,54003,DayScholar,672,0,72.2
+122000,3,Both Alive,Rent,Agriculture,0.35,2,No,Rural,No,3293,Daily Income,100000,10245,135722,Hostel,0,53427,100.0
+198000,3,Single Parent,Own,Government Job,2.22,0,No,Urban,Yes,0,Salaried,100000,5827,65139,Hostel,0,0,87.42
+558000,1,Both Alive,Own,Private Job,0.01,0,No,Rural,No,0,Salaried,150000,6130,135372,DayScholar,1001,0,78.46
+652000,2,Both Alive,Rent,Daily Wage,0.39,1,No,Rural,Yes,6057,Daily Income,50000,3706,82452,DayScholar,2312,0,77.64
+451000,2,Both Alive,Own,Private Job,0.81,3,No,Rural,No,0,Salaried,100000,14655,52205,DayScholar,3308,0,83.01
+734000,2,Both Alive,Own,Private Job,0.16,2,No,Rural,No,0,Salaried,100000,7637,126059,DayScholar,3831,0,67.31
+478000,2,Both Alive,Rent,Business,0.1,2,No,Rural,Yes,7271,Self Employed,0,3069,86955,DayScholar,2678,0,91.09
+348000,1,Both Alive,Rent,Business,1.69,1,No,Urban,Yes,3957,Self Employed,50000,3128,140163,Hostel,0,0,81.51
+438000,3,Both Alive,Rent,Business,2.25,0,No,Urban,No,7670,Self Employed,50000,10568,37464,DayScholar,1297,0,61.14
+549000,2,Both Alive,Rent,Daily Wage,1.74,1,No,Rural,Yes,4600,Daily Income,0,13686,112646,DayScholar,3346,0,67.65
+290000,1,Orphan,Rent,Private Job,2.29,1,No,Rural,No,5866,Salaried,150000,13894,141852,DayScholar,1429,0,100.0
+100000,2,Both Alive,Own,Agriculture,0.81,1,No,Rural,No,0,Daily Income,50000,7264,102657,Hostel,0,130949,100.0
+87000,2,Single Parent,Own,Government Job,1.67,1,No,Rural,No,0,Salaried,100000,1567,39840,DayScholar,3591,0,100.0
+194000,1,Both Alive,Own,Business,0.48,3,No,Rural,Yes,0,Self Employed,50000,2006,132616,Hostel,0,0,100.0
+260000,3,Single Parent,Own,Business,1.1,3,No,Rural,Yes,0,Self Employed,100000,3513,70768,DayScholar,1833,0,100.0
+92000,3,Both Alive,Own,Private Job,4.5,0,No,Urban,No,0,Salaried,0,10359,39461,DayScholar,1774,0,50.78
+107000,1,Both Alive,Own,Private Job,0.26,1,No,Urban,Yes,0,Salaried,10000,13280,50927,DayScholar,987,0,100.0
+562000,3,Both Alive,Rent,Daily Wage,0.49,3,No,Rural,No,4318,Daily Income,150000,7142,119934,DayScholar,3953,0,90.6
+466000,1,Single Parent,Rent,Daily Wage,0.65,0,No,Rural,No,3406,Daily Income,150000,13392,128622,Hostel,0,0,94.49
+633000,1,Both Alive,Rent,Business,0.15,1,No,Rural,Yes,4111,Self Employed,0,4566,45329,DayScholar,3842,0,77.25
+787000,1,Both Alive,Own,Private Job,0.08,2,No,Urban,No,0,Salaried,100000,1447,45791,DayScholar,2457,0,60.53
+158000,3,Both Alive,Rent,Agriculture,1.77,3,No,Rural,Yes,4093,Daily Income,50000,4889,82627,Hostel,0,173256,100.0
+743000,1,Single Parent,Own,Government Job,3.76,0,No,Rural,Yes,0,Salaried,0,8643,44372,DayScholar,1717,0,32.35
+785000,2,Both Alive,Rent,Private Job,0.52,2,Yes,Urban,No,2488,Salaried,50000,1671,144239,Hostel,0,0,85.5
+606000,3,Both Alive,Own,Private Job,0.09,1,No,Rural,No,0,Salaried,0,6614,122890,DayScholar,812,0,65.63
+798000,3,Both Alive,Rent,Unemployed,0.07,1,No,Rural,Yes,7541,None,0,671,78469,DayScholar,578,0,66.99
+672000,3,Single Parent,Own,Daily Wage,2.22,1,No,Rural,No,0,Daily Income,0,6182,139554,DayScholar,2727,0,48.83
+521000,3,Both Alive,Rent,Government Job,0.62,3,No,Rural,Yes,6563,Salaried,150000,13318,117073,Hostel,0,0,98.1
+702000,2,Both Alive,Rent,Business,0.39,0,No,Rural,Yes,7918,Self Employed,0,9835,148822,Hostel,0,0,67.34
+64000,3,Both Alive,Own,Private Job,0.65,2,No,Urban,Yes,0,Salaried,100000,10551,64370,DayScholar,2237,0,100.0
+277000,3,Both Alive,Own,Business,0.38,0,No,Urban,No,0,Self Employed,150000,6356,81408,DayScholar,513,0,89.7
+562000,1,Both Alive,Rent,Private Job,0.67,3,No,Rural,Yes,5829,Salaried,50000,6709,120941,Hostel,0,0,86.97
+457000,3,Both Alive,Own,Business,1.96,0,No,Rural,Yes,0,Self Employed,200000,10880,137351,Hostel,0,0,76.5
+452000,2,Both Alive,Rent,Government Job,0.9,3,No,Urban,Yes,4225,Salaried,0,11185,53703,Hostel,0,0,84.17
+266000,2,Both Alive,Rent,Daily Wage,1.19,1,Yes,Rural,No,6747,Daily Income,150000,4077,45234,DayScholar,1537,0,100.0
+74000,2,Both Alive,Own,Government Job,0.45,2,No,Rural,Yes,0,Salaried,50000,8880,37532,DayScholar,2646,0,100.0
+613000,2,Both Alive,Own,Unemployed,1.34,1,No,Rural,Yes,0,None,0,4576,135670,DayScholar,532,0,59.2
+520000,3,Both Alive,Own,Agriculture,1.1,0,No,Urban,Yes,0,Daily Income,100000,657,65416,DayScholar,1959,78204,78.62
+750000,3,Both Alive,Rent,Daily Wage,0.13,1,No,Rural,No,4166,Daily Income,100000,8277,102439,DayScholar,756,0,71.53
+634000,2,Both Alive,Own,Government Job,0.85,2,No,Urban,No,0,Salaried,50000,3217,48242,DayScholar,533,0,59.44
+300000,2,Both Alive,Own,Unemployed,0.3,1,No,Rural,Yes,0,None,0,10662,80254,Hostel,0,0,90.08
+623000,3,Both Alive,Own,Agriculture,1.63,2,No,Rural,No,0,Daily Income,0,8937,109324,DayScholar,1783,175218,52.76
+155000,2,Both Alive,Rent,Unemployed,0.56,2,No,Rural,Yes,2154,None,100000,11595,65249,DayScholar,3136,0,100.0
+793000,1,Both Alive,Rent,Private Job,5.24,1,No,Urban,No,3942,Salaried,100000,3295,130124,DayScholar,2349,0,15.74
+544000,2,Both Alive,Rent,Private Job,0.1,3,No,Urban,Yes,1610,Salaried,100000,7700,125049,DayScholar,3987,0,93.58
+466000,2,Single Parent,Own,Business,1.52,0,No,Rural,Yes,0,Self Employed,0,8028,138575,DayScholar,2684,0,72.3
+290000,1,Both Alive,Rent,Daily Wage,1.12,3,No,Rural,Yes,2262,Daily Income,50000,12516,115078,DayScholar,858,0,100.0
+714000,1,Both Alive,Rent,Private Job,1.46,3,No,Rural,No,6899,Salaried,0,2877,62294,DayScholar,1253,0,59.3
+230000,3,Both Alive,Rent,Unemployed,0.37,1,No,Rural,No,6952,None,50000,9541,89784,Hostel,0,0,100.0
+600000,3,Both Alive,Rent,Daily Wage,0.68,0,Yes,Rural,Yes,4672,Daily Income,100000,2310,33684,DayScholar,3687,0,100.0
+95000,1,Both Alive,Own,Private Job,1.59,0,No,Urban,No,0,Salaried,30000,5690,53795,DayScholar,903,0,80.8
+584000,1,Both Alive,Own,Business,0.26,3,No,Urban,Yes,0,Self Employed,150000,5932,90301,Hostel,0,0,85.33
+219000,3,Both Alive,Rent,Government Job,0.26,1,No,Urban,Yes,4004,Salaried,100000,12678,99187,DayScholar,1899,0,100.0
+758000,2,Both Alive,Own,Business,0.8,0,No,Urban,Yes,0,Self Employed,50000,8395,40431,DayScholar,2797,0,51.63
+302000,1,Both Alive,Rent,Agriculture,0.74,3,No,Rural,No,1597,Daily Income,0,2626,105667,Hostel,0,173330,100.0
+145000,3,Both Alive,Rent,Private Job,0.33,0,No,Rural,No,6739,Salaried,100000,12956,119627,DayScholar,3501,0,100.0
+637000,2,Single Parent,Own,Agriculture,0.35,1,No,Rural,Yes,0,Daily Income,200000,7453,120381,DayScholar,777,77300,100.0
+741000,1,Both Alive,Rent,Agriculture,0.33,1,No,Urban,Yes,3339,Daily Income,50000,3530,120027,DayScholar,611,81915,78.26
+616000,2,Single Parent,Own,Unemployed,1.48,1,No,Urban,Yes,0,None,0,6823,85372,Hostel,0,0,61.66
+633000,3,Both Alive,Own,Daily Wage,1.06,0,No,Urban,Yes,0,Daily Income,150000,6247,100366,DayScholar,3293,0,65.4
+705000,1,Both Alive,Rent,Unemployed,1.79,2,No,Urban,Yes,4119,None,50000,10999,124176,Hostel,0,0,59.7
+87000,2,Both Alive,Rent,Private Job,3.71,0,No,Rural,Yes,7893,Salaried,50000,6105,149667,DayScholar,891,0,80.63
+679000,1,Both Alive,Own,Agriculture,0.64,2,No,Rural,Yes,0,Daily Income,150000,6391,102870,DayScholar,1468,23760,86.34
+615000,2,Single Parent,Own,Government Job,0.07,1,No,Urban,Yes,0,Salaried,0,3576,77387,DayScholar,2690,0,75.22
+399000,3,Both Alive,Rent,Agriculture,0.05,3,No,Urban,Yes,4966,Daily Income,150000,2844,82927,Hostel,0,122715,100.0
+390000,3,Single Parent,Rent,Government Job,0.35,2,No,Urban,Yes,7687,Salaried,150000,1119,39304,Hostel,0,0,100.0
+699000,1,Both Alive,Rent,Unemployed,2.7,1,No,Urban,Yes,3406,None,150000,11594,143183,Hostel,0,0,56.29
+565000,2,Single Parent,Own,Unemployed,0.74,1,No,Rural,No,0,None,0,2907,47032,Hostel,0,0,70.15
+407000,1,Both Alive,Own,Daily Wage,0.32,2,No,Urban,Yes,0,Daily Income,150000,6760,121291,DayScholar,768,0,93.59
+532000,1,Both Alive,Own,Agriculture,0.51,3,No,Rural,No,0,Daily Income,50000,13144,142889,DayScholar,3807,194953,86.51
+290000,2,Both Alive,Rent,Business,0.91,1,No,Rural,Yes,7805,Self Employed,200000,3504,89486,DayScholar,3848,0,100.0
+249000,2,Both Alive,Own,Unemployed,1.06,2,No,Rural,Yes,0,None,200000,4414,95552,DayScholar,3100,0,100.0
+284000,2,Both Alive,Own,Unemployed,0.17,3,No,Rural,Yes,0,None,150000,11178,103844,Hostel,0,0,100.0
+444000,3,Both Alive,Rent,Daily Wage,3.77,3,No,Rural,Yes,5727,Daily Income,200000,12094,59654,Hostel,0,0,77.04
+436000,1,Single Parent,Own,Government Job,0.79,1,No,Urban,Yes,0,Salaried,200000,4096,69244,Hostel,0,0,96.1
+342000,1,Both Alive,Rent,Daily Wage,0.15,0,No,Rural,No,3407,Daily Income,150000,10369,35942,DayScholar,1242,0,99.56
+692000,3,Both Alive,Rent,Agriculture,2.24,0,No,Rural,Yes,3410,Daily Income,150000,13999,80697,DayScholar,585,164151,62.16
+687000,2,Both Alive,Rent,Private Job,0.08,1,No,Urban,Yes,4021,Salaried,50000,4539,32693,Hostel,0,0,74.27
+318000,3,Both Alive,Own,Private Job,2.38,3,No,Rural,No,0,Salaried,100000,1804,86751,Hostel,0,0,76.87
+418000,3,Both Alive,Own,Government Job,5.67,1,No,Rural,Yes,0,Salaried,0,6130,111098,DayScholar,2739,0,30.79
+769000,3,Both Alive,Rent,Unemployed,1.21,2,No,Rural,No,6728,None,150000,12785,148777,DayScholar,3864,0,66.87
+515000,1,Both Alive,Rent,Government Job,1.47,0,No,Urban,Yes,2558,Salaried,150000,14277,36259,DayScholar,2545,0,77.36
+470000,3,Both Alive,Rent,Unemployed,0.41,2,No,Urban,No,5038,None,200000,7782,149746,DayScholar,1554,0,94.47
+708000,1,Both Alive,Own,Unemployed,2.84,1,No,Rural,Yes,0,None,50000,10655,143883,Hostel,0,0,42.44
+377000,1,Both Alive,Rent,Private Job,0.75,1,No,Urban,Yes,3822,Salaried,200000,3807,137772,DayScholar,2654,0,100.0
+736000,1,Both Alive,Rent,Government Job,1.32,3,No,Rural,No,1686,Salaried,150000,1861,147928,DayScholar,2394,0,71.03
+284000,2,Both Alive,Rent,Daily Wage,2.58,3,No,Rural,Yes,2448,Daily Income,150000,7165,34942,Hostel,0,0,95.18
+293000,1,Both Alive,Rent,Unemployed,3.7,3,Yes,Urban,Yes,3790,None,200000,4794,77419,DayScholar,775,0,100.0
+743000,1,Both Alive,Rent,Business,1.79,2,No,Rural,No,5859,Self Employed,150000,2287,132092,DayScholar,1150,0,63.06
+723000,2,Both Alive,Rent,Business,0.36,3,No,Rural,Yes,7593,Self Employed,100000,1573,86105,Hostel,0,0,83.13
+433000,1,Single Parent,Own,Daily Wage,3.4,1,No,Urban,Yes,0,Daily Income,0,9857,95907,DayScholar,3103,0,55.51
+731000,3,Both Alive,Own,Business,0.99,3,No,Rural,No,0,Self Employed,0,6402,57383,Hostel,0,0,54.66
+667000,3,Single Parent,Own,Agriculture,2.67,0,No,Rural,Yes,0,Daily Income,0,4099,53404,Hostel,0,20527,47.86
+531000,1,Both Alive,Own,Unemployed,1.13,3,No,Rural,No,0,None,100000,14325,102656,DayScholar,2413,0,74.59
+292000,2,Both Alive,Own,Daily Wage,0.37,2,No,Rural,No,0,Daily Income,150000,11409,35702,Hostel,0,0,98.8
+751000,3,Both Alive,Own,Government Job,0.46,0,No,Rural,Yes,0,Salaried,200000,11845,103883,DayScholar,1085,0,71.21
+172000,2,Single Parent,Own,Unemployed,0.8,0,Yes,Rural,Yes,0,None,100000,12818,130965,DayScholar,3432,0,100.0
+556000,2,Both Alive,Own,Daily Wage,1.56,0,No,Rural,Yes,0,Daily Income,150000,3555,86332,Hostel,0,0,69.76
+501000,3,Single Parent,Rent,Private Job,0.38,2,No,Rural,Yes,1525,Salaried,100000,6976,69419,DayScholar,755,0,100.0
+623000,2,Single Parent,Rent,Government Job,0.87,1,No,Rural,No,1674,Salaried,100000,1159,120576,DayScholar,3481,0,80.93
+327000,3,Both Alive,Own,Private Job,0.42,3,No,Rural,Yes,0,Salaried,0,6820,133182,DayScholar,730,0,93.12
+569000,2,Both Alive,Rent,Unemployed,1.69,0,No,Urban,Yes,2834,None,150000,7013,141395,DayScholar,1660,0,71.65
+445000,3,Both Alive,Own,Government Job,0.63,0,No,Rural,No,0,Salaried,0,5142,132619,Hostel,0,0,68.23
+446000,1,Both Alive,Own,Business,0.08,0,No,Rural,No,0,Self Employed,50000,11274,118078,DayScholar,2902,0,77.37
+172000,3,Single Parent,Own,Daily Wage,0.18,1,No,Urban,Yes,0,Daily Income,10000,9821,138269,DayScholar,2147,0,100.0
+672000,3,Single Parent,Own,Unemployed,0.06,1,No,Rural,Yes,0,None,50000,14932,103844,DayScholar,2693,0,79.46
+684000,3,Both Alive,Rent,Agriculture,0.69,2,No,Urban,No,5547,Daily Income,100000,6873,69242,Hostel,0,161035,79.58
+140000,3,Both Alive,Rent,Government Job,0.11,1,No,Urban,No,7162,Salaried,30000,10966,64142,DayScholar,3604,0,100.0
+758000,2,Both Alive,Own,Government Job,0.12,3,No,Rural,No,0,Salaried,0,4966,139699,Hostel,0,0,61.19
+172000,1,Both Alive,Own,Unemployed,2.83,2,No,Rural,Yes,0,None,10000,13911,126226,DayScholar,2634,0,78.21
+61000,3,Single Parent,Own,Unemployed,2.06,2,No,Urban,Yes,0,None,0,10160,37393,DayScholar,1342,0,96.21
+701000,2,Both Alive,Own,Private Job,0.6,3,No,Rural,Yes,0,Salaried,200000,6087,99939,DayScholar,2471,0,82.21
+279000,1,Both Alive,Own,Business,4.25,3,No,Rural,Yes,0,Self Employed,50000,10794,99082,DayScholar,764,0,63.62
+625000,1,Both Alive,Own,Private Job,0.0,3,No,Urban,No,0,Salaried,50000,11958,132281,Hostel,0,0,71.18
+795000,1,Both Alive,Rent,Private Job,0.95,2,No,Rural,No,1832,Salaried,100000,2971,58893,Hostel,0,0,63.67
+284000,1,Both Alive,Rent,Business,0.96,2,No,Rural,No,7174,Self Employed,50000,9843,39388,Hostel,0,0,93.78
+444000,3,Both Alive,Own,Agriculture,0.61,2,No,Rural,Yes,0,Daily Income,100000,6675,148099,Hostel,0,97384,98.39
+462000,3,Both Alive,Rent,Private Job,0.51,3,No,Rural,No,4491,Salaried,50000,8784,137292,Hostel,0,0,89.19
+697000,2,Both Alive,Own,Private Job,0.61,3,No,Rural,No,0,Salaried,150000,11258,92969,DayScholar,1652,0,72.43
+189000,2,Single Parent,Own,Government Job,0.54,0,No,Urban,No,0,Salaried,10000,1781,66660,DayScholar,1794,0,90.99
+112000,2,Both Alive,Own,Business,1.31,1,Yes,Urban,Yes,0,Self Employed,10000,11592,119244,Hostel,0,0,100.0
+743000,1,Both Alive,Rent,Daily Wage,0.15,0,No,Rural,Yes,6925,Daily Income,100000,14713,54726,DayScholar,965,0,74.8
+789000,1,Both Alive,Rent,Agriculture,0.22,3,No,Rural,No,3575,Daily Income,100000,14031,109544,DayScholar,3481,172377,84.06
+731000,3,Both Alive,Rent,Agriculture,0.2,2,No,Urban,Yes,4014,Daily Income,150000,11491,131553,DayScholar,1693,94543,91.08
+769000,1,Both Alive,Own,Business,0.3,3,No,Rural,No,0,Self Employed,0,3677,92996,DayScholar,2675,0,58.73
+475000,1,Both Alive,Rent,Unemployed,0.74,1,No,Rural,Yes,4529,None,0,6167,30111,Hostel,0,0,82.17
+306000,1,Both Alive,Own,Unemployed,0.12,0,No,Urban,No,0,None,200000,5011,145370,DayScholar,2472,0,94.21
+498000,2,Both Alive,Rent,Government Job,2.03,0,No,Urban,No,1600,Salaried,50000,11296,47545,DayScholar,1549,0,59.23
+262000,2,Both Alive,Own,Government Job,0.35,2,No,Urban,No,0,Salaried,200000,4381,70168,Hostel,0,0,100.0
+243000,3,Both Alive,Own,Business,0.18,0,No,Rural,Yes,0,Self Employed,0,2913,32379,Hostel,0,0,92.03
+182000,1,Orphan,Rent,Government Job,1.13,0,No,Urban,No,4871,Salaried,30000,2044,125773,Hostel,0,0,100.0
+460000,1,Both Alive,Rent,Agriculture,0.04,3,No,Rural,No,7301,Daily Income,50000,12222,141484,Hostel,0,47881,100.0
+353000,3,Both Alive,Own,Agriculture,0.97,0,No,Rural,Yes,0,Daily Income,150000,11338,117346,DayScholar,3126,182249,98.98
+339000,1,Both Alive,Rent,Daily Wage,1.2,0,No,Rural,No,1852,Daily Income,200000,5284,71120,DayScholar,1449,0,93.66
+669000,1,Both Alive,Own,Unemployed,0.24,0,No,Urban,Yes,0,None,100000,6261,47809,Hostel,0,0,66.89
+257000,2,Both Alive,Rent,Business,0.04,2,No,Rural,Yes,2518,Self Employed,150000,8374,82813,DayScholar,1549,0,100.0
+570000,3,Both Alive,Rent,Private Job,0.45,2,No,Rural,Yes,2679,Salaried,200000,10750,104005,DayScholar,1606,0,97.4
+203000,3,Orphan,Rent,Unemployed,0.1,3,No,Rural,No,6693,None,200000,7461,57967,Hostel,0,0,100.0
+668000,3,Both Alive,Rent,Private Job,0.12,0,Yes,Rural,Yes,5036,Salaried,200000,6126,39748,Hostel,0,0,100.0
+260000,3,Both Alive,Own,Daily Wage,0.29,2,No,Rural,No,0,Daily Income,100000,5014,53424,Hostel,0,0,97.75
+183000,2,Both Alive,Own,Daily Wage,0.35,2,No,Rural,Yes,0,Daily Income,10000,1645,116512,Hostel,0,0,100.0
+246000,2,Both Alive,Rent,Government Job,0.75,3,No,Urban,Yes,5319,Salaried,100000,9602,53914,Hostel,0,0,100.0
+385000,1,Both Alive,Own,Daily Wage,1.13,1,No,Urban,No,0,Daily Income,50000,11998,125603,Hostel,0,0,70.4
+523000,1,Both Alive,Own,Daily Wage,0.9,0,No,Urban,No,0,Daily Income,100000,5950,138411,DayScholar,3336,0,64.33
+408000,1,Both Alive,Own,Private Job,0.16,2,No,Rural,No,0,Salaried,100000,2066,108478,DayScholar,2460,0,89.1
+719000,1,Single Parent,Own,Government Job,0.19,3,No,Urban,Yes,0,Salaried,100000,11087,49491,Hostel,0,0,81.03
+462000,2,Both Alive,Rent,Daily Wage,2.11,3,No,Urban,Yes,2871,Daily Income,150000,3505,79454,Hostel,0,0,83.78
+405000,3,Both Alive,Own,Unemployed,0.82,3,No,Rural,No,0,None,100000,5007,100069,DayScholar,690,0,85.98
+570000,2,Both Alive,Rent,Daily Wage,2.04,2,No,Urban,No,7397,Daily Income,50000,14035,81925,DayScholar,960,0,60.33
+206000,1,Both Alive,Own,Government Job,0.46,0,No,Urban,Yes,0,Salaried,200000,4748,119119,DayScholar,3211,0,100.0
+207000,2,Both Alive,Own,Business,0.95,1,No,Urban,Yes,0,Self Employed,150000,14023,67049,DayScholar,2419,0,97.93
+770000,3,Both Alive,Own,Government Job,0.74,0,No,Rural,No,0,Salaried,0,8783,57821,Hostel,0,0,45.45
+548000,3,Both Alive,Own,Private Job,0.38,3,No,Rural,Yes,0,Salaried,100000,4492,125797,Hostel,0,0,86.64
+699000,2,Single Parent,Own,Business,0.63,3,No,Rural,No,0,Self Employed,200000,9022,133072,DayScholar,3976,0,84.05
+610000,2,Both Alive,Rent,Unemployed,0.7,1,No,Rural,Yes,2472,None,200000,8527,59945,Hostel,0,0,89.33
+397000,2,Both Alive,Own,Agriculture,0.22,0,No,Rural,Yes,0,Daily Income,150000,6260,47384,DayScholar,770,53062,100.0
+700000,1,Single Parent,Rent,Government Job,0.38,3,No,Rural,No,2203,Salaried,0,9646,58410,DayScholar,1657,0,78.57
+532000,2,Both Alive,Own,Private Job,1.57,3,No,Rural,Yes,0,Salaried,50000,12472,107734,DayScholar,670,0,72.36
+210000,2,Both Alive,Own,Unemployed,2.47,0,No,Rural,Yes,0,None,200000,11293,93766,Hostel,0,0,88.13
+474000,2,Both Alive,Rent,Business,0.45,3,No,Rural,No,2374,Self Employed,200000,8545,124890,DayScholar,527,0,100.0
+357000,3,Both Alive,Own,Unemployed,0.37,0,No,Urban,Yes,0,None,200000,3477,146406,DayScholar,635,0,94.4
+670000,3,Both Alive,Own,Government Job,0.22,3,No,Urban,Yes,0,Salaried,200000,5847,37169,Hostel,0,0,83.92
+322000,1,Orphan,Own,Daily Wage,1.13,0,No,Urban,No,0,Daily Income,150000,4789,70129,Hostel,0,0,99.52
+203000,1,Both Alive,Own,Government Job,0.39,1,No,Rural,Yes,0,Salaried,0,1029,127445,DayScholar,3524,0,95.7
+405000,3,Both Alive,Rent,Agriculture,4.4,3,Yes,Rural,Yes,5053,Daily Income,200000,3392,33830,DayScholar,1387,195257,98.62
+683000,3,Both Alive,Own,Government Job,0.39,1,No,Rural,Yes,0,Salaried,50000,9958,86306,DayScholar,2028,0,67.57
+631000,3,Both Alive,Rent,Business,0.5,3,No,Urban,Yes,2059,Self Employed,50000,7943,116940,Hostel,0,0,79.99
+61000,2,Both Alive,Rent,Business,0.92,3,No,Rural,No,1616,Self Employed,100000,10165,95267,DayScholar,1355,0,100.0
+363000,2,Both Alive,Own,Government Job,1.62,2,No,Rural,No,0,Salaried,200000,5234,57757,DayScholar,2991,0,86.04
+313000,3,Single Parent,Rent,Business,0.63,0,No,Rural,Yes,6563,Self Employed,200000,14398,93867,DayScholar,2981,0,100.0
+711000,2,Both Alive,Own,Daily Wage,0.55,1,No,Rural,No,0,Daily Income,200000,10289,65650,DayScholar,1751,0,70.02
+512000,2,Both Alive,Rent,Unemployed,5.43,1,No,Rural,No,7164,None,200000,3025,63766,DayScholar,1008,0,44.61
+96000,1,Both Alive,Own,Government Job,0.01,1,No,Rural,Yes,0,Salaried,0,13485,111478,DayScholar,1826,0,100.0
+219000,3,Both Alive,Rent,Daily Wage,2.25,0,No,Rural,No,2008,Daily Income,50000,4261,62419,Hostel,0,0,79.78
+68000,3,Both Alive,Own,Unemployed,0.16,2,No,Rural,Yes,0,None,10000,6641,46668,DayScholar,1525,0,100.0
+292000,2,Both Alive,Own,Unemployed,1.54,1,No,Urban,No,0,None,0,14489,46246,DayScholar,861,0,68.74
+158000,3,Both Alive,Rent,Daily Wage,0.96,0,No,Urban,No,4939,Daily Income,100000,3242,54996,Hostel,0,0,96.15
+718000,1,Both Alive,Rent,Private Job,0.42,3,No,Rural,Yes,5428,Salaried,50000,5135,81312,DayScholar,1105,0,78.94
+267000,1,Both Alive,Own,Government Job,2.07,1,No,Urban,Yes,0,Salaried,200000,4925,33065,DayScholar,2363,0,87.15
+190000,1,Both Alive,Own,Unemployed,0.01,1,No,Rural,Yes,0,None,10000,9161,40467,Hostel,0,0,100.0
+463000,3,Single Parent,Rent,Unemployed,0.26,2,No,Urban,Yes,7475,None,150000,4330,80646,Hostel,0,0,100.0
+211000,3,Both Alive,Rent,Business,0.84,1,No,Rural,Yes,2416,Self Employed,150000,7492,140380,DayScholar,1215,0,100.0
+113000,3,Both Alive,Rent,Unemployed,0.43,1,No,Rural,No,4445,None,10000,1033,51007,Hostel,0,0,100.0
+179000,3,Both Alive,Rent,Daily Wage,0.94,3,No,Urban,Yes,2298,Daily Income,0,14750,98079,DayScholar,2694,0,100.0
+732000,3,Orphan,Rent,Unemployed,0.02,0,No,Rural,Yes,6471,None,200000,5062,58702,Hostel,0,0,100.0
+687000,1,Single Parent,Rent,Private Job,0.12,0,No,Rural,No,3260,Salaried,100000,7620,124369,DayScholar,847,0,80.83
+646000,2,Both Alive,Own,Government Job,0.14,2,No,Rural,Yes,0,Salaried,100000,12747,105569,Hostel,0,0,79.38
+684000,1,Single Parent,Own,Government Job,0.21,3,No,Urban,No,0,Salaried,100000,7063,83952,Hostel,0,0,77.17
+479000,3,Both Alive,Rent,Unemployed,0.61,0,No,Rural,No,2318,None,150000,12371,88065,DayScholar,1857,0,86.0
+481000,1,Both Alive,Rent,Agriculture,1.39,3,No,Urban,Yes,3668,Daily Income,200000,7789,64169,DayScholar,1699,183029,100.0
+163000,3,Both Alive,Own,Agriculture,2.36,0,No,Rural,Yes,0,Daily Income,50000,4587,46829,Hostel,0,163944,80.47
+313000,3,Both Alive,Own,Daily Wage,1.8,3,No,Rural,Yes,0,Daily Income,100000,9453,90135,Hostel,0,0,88.75
+286000,1,Both Alive,Rent,Agriculture,0.22,2,No,Rural,No,4565,Daily Income,200000,13793,34522,DayScholar,2945,67719,100.0
+171000,3,Single Parent,Own,Daily Wage,0.58,1,Yes,Rural,Yes,0,Daily Income,10000,9582,115687,DayScholar,2678,0,100.0
+569000,2,Both Alive,Own,Business,0.22,2,No,Rural,No,0,Self Employed,0,2855,65319,DayScholar,2085,0,69.86
+532000,3,Both Alive,Own,Daily Wage,0.31,0,No,Urban,No,0,Daily Income,0,2455,56543,DayScholar,3152,0,61.47
+158000,2,Both Alive,Own,Agriculture,0.7,2,No,Rural,Yes,0,Daily Income,50000,3471,148576,DayScholar,3439,70478,100.0
+212000,2,Both Alive,Own,Unemployed,0.07,1,No,Urban,No,0,None,150000,13741,133120,DayScholar,1321,0,100.0
+397000,3,Both Alive,Own,Business,0.25,2,No,Rural,Yes,0,Self Employed,50000,6039,147419,DayScholar,1401,0,91.02
+765000,1,Both Alive,Own,Agriculture,2.74,0,No,Rural,No,0,Daily Income,200000,7993,60473,DayScholar,1444,31584,42.45
+222000,2,Both Alive,Rent,Daily Wage,0.63,0,No,Rural,Yes,5027,Daily Income,150000,2172,37699,Hostel,0,0,100.0
+779000,1,Single Parent,Own,Private Job,0.59,2,No,Rural,No,0,Salaried,100000,3336,98165,Hostel,0,0,68.19
+740000,2,Both Alive,Rent,Government Job,0.01,1,No,Rural,Yes,3311,Salaried,150000,5427,70455,Hostel,0,0,83.3
+220000,3,Both Alive,Rent,Agriculture,0.28,2,No,Rural,No,5411,Daily Income,100000,5439,105692,Hostel,0,55706,100.0
+639000,3,Both Alive,Own,Daily Wage,2.01,1,No,Rural,Yes,0,Daily Income,0,4144,47441,Hostel,0,0,51.05
+457000,2,Both Alive,Rent,Business,0.18,3,No,Urban,Yes,4642,Self Employed,0,2797,60716,DayScholar,2752,0,90.73
+336000,3,Both Alive,Own,Agriculture,0.54,1,Yes,Rural,Yes,0,Daily Income,150000,4561,92175,DayScholar,3503,185215,100.0
+563000,2,Both Alive,Rent,Agriculture,0.01,3,No,Rural,Yes,6749,Daily Income,50000,3666,36834,DayScholar,854,175312,100.0
+451000,3,Single Parent,Own,Government Job,0.65,2,No,Rural,No,0,Salaried,200000,10011,48179,Hostel,0,0,97.44
+194000,1,Both Alive,Rent,Daily Wage,0.02,1,No,Rural,No,6115,Daily Income,50000,683,56219,Hostel,0,0,100.0
+254000,3,Orphan,Rent,Private Job,1.71,3,No,Rural,Yes,2536,Salaried,200000,9975,133153,DayScholar,1323,0,100.0
+460000,1,Single Parent,Own,Business,1.74,3,No,Urban,Yes,0,Self Employed,0,3346,45782,Hostel,0,0,75.6
+699000,3,Both Alive,Own,Daily Wage,1.55,3,No,Rural,Yes,0,Daily Income,50000,14478,111363,DayScholar,2396,0,61.39
+92000,1,Single Parent,Rent,Business,0.33,0,No,Rural,Yes,2302,Self Employed,100000,10925,104967,DayScholar,3488,0,100.0
+747000,3,Both Alive,Rent,Agriculture,1.82,2,No,Urban,Yes,4082,Daily Income,200000,12780,132454,Hostel,0,74909,68.46
+519000,1,Single Parent,Own,Government Job,0.78,3,No,Urban,Yes,0,Salaried,0,10124,139593,Hostel,0,0,80.84
+529000,2,Both Alive,Rent,Government Job,0.47,1,No,Rural,Yes,5337,Salaried,200000,11832,39496,DayScholar,1035,0,96.95
+434000,2,Single Parent,Own,Unemployed,0.98,3,No,Urban,Yes,0,None,150000,10488,118867,DayScholar,2448,0,96.47
+81000,1,Single Parent,Rent,Private Job,0.01,0,No,Urban,No,3165,Salaried,50000,5222,69238,DayScholar,3510,0,100.0
+729000,3,Single Parent,Own,Government Job,0.15,2,No,Urban,Yes,0,Salaried,50000,10747,76025,DayScholar,3127,0,73.79
+97000,1,Both Alive,Rent,Agriculture,1.36,0,No,Urban,Yes,1959,Daily Income,50000,12028,89886,Hostel,0,111837,100.0
+289000,3,Both Alive,Own,Private Job,0.28,0,No,Rural,No,0,Salaried,0,1282,53563,DayScholar,2119,0,82.0
+424000,2,Both Alive,Own,Daily Wage,0.91,0,No,Rural,No,0,Daily Income,50000,2007,33712,Hostel,0,0,70.9
+622000,3,Both Alive,Own,Government Job,0.49,1,No,Urban,Yes,0,Salaried,100000,14572,124067,Hostel,0,0,70.64
+497000,2,Both Alive,Own,Private Job,1.93,2,No,Urban,No,0,Salaried,100000,13562,75489,DayScholar,3620,0,62.21
+342000,3,Both Alive,Own,Agriculture,3.05,2,No,Urban,No,0,Daily Income,0,6355,62664,DayScholar,1043,194787,53.95
+86000,3,Both Alive,Own,Unemployed,2.15,1,No,Rural,Yes,0,None,0,14651,140799,Hostel,0,0,86.67
+285000,3,Single Parent,Rent,Business,0.32,2,Yes,Urban,Yes,4398,Self Employed,200000,13794,42420,Hostel,0,0,100.0
+336000,1,Both Alive,Own,Business,0.22,0,No,Rural,Yes,0,Self Employed,0,8038,84610,Hostel,0,0,85.44
+668000,1,Single Parent,Own,Agriculture,0.64,2,No,Rural,Yes,0,Daily Income,200000,12546,35315,Hostel,0,55242,99.03
+343000,2,Both Alive,Own,Agriculture,0.01,1,No,Urban,Yes,0,Daily Income,0,1176,100917,Hostel,0,152001,95.98
+540000,2,Single Parent,Own,Business,0.03,0,No,Urban,No,0,Self Employed,100000,7750,105033,DayScholar,2746,0,79.52
+512000,1,Single Parent,Own,Unemployed,0.81,1,No,Urban,Yes,0,None,150000,10522,124576,DayScholar,2336,0,86.88
+718000,2,Both Alive,Own,Private Job,0.73,3,No,Rural,Yes,0,Salaried,100000,8313,147862,DayScholar,576,0,71.92
+575000,1,Both Alive,Own,Business,5.22,0,No,Rural,Yes,0,Self Employed,150000,4590,127911,DayScholar,868,0,33.46
+606000,3,Both Alive,Own,Agriculture,0.23,0,No,Urban,Yes,0,Daily Income,200000,12998,109030,DayScholar,3380,124134,89.1
+251000,2,Both Alive,Own,Government Job,0.3,2,No,Rural,No,0,Salaried,0,14124,93910,DayScholar,1025,0,90.35
+108000,2,Both Alive,Rent,Daily Wage,0.12,0,No,Urban,Yes,7198,Daily Income,0,6223,127288,DayScholar,848,0,100.0
+571000,1,Both Alive,Own,Unemployed,2.5,1,No,Rural,No,0,None,50000,10052,90972,Hostel,0,0,48.86
+76000,2,Both Alive,Own,Unemployed,1.5,2,No,Rural,Yes,0,None,30000,13277,120893,DayScholar,1142,0,98.93
+231000,2,Both Alive,Rent,Government Job,1.73,3,Yes,Rural,Yes,2131,Salaried,150000,14214,85919,DayScholar,737,0,100.0
+279000,3,Both Alive,Own,Government Job,2.33,1,No,Rural,No,0,Salaried,100000,3186,112486,DayScholar,1803,0,73.95
+217000,2,Both Alive,Rent,Agriculture,0.74,3,No,Rural,Yes,3956,Daily Income,50000,8882,111288,DayScholar,2100,109791,100.0
+536000,3,Both Alive,Own,Business,0.6,3,No,Rural,Yes,0,Self Employed,100000,9534,132926,DayScholar,1955,0,85.33
+105000,1,Single Parent,Rent,Private Job,0.4,3,No,Rural,No,6923,Salaried,100000,9026,34132,DayScholar,2685,0,100.0
+432000,2,Both Alive,Rent,Unemployed,0.89,0,No,Rural,Yes,7554,None,50000,8189,71598,Hostel,0,0,84.56
+577000,3,Single Parent,Own,Unemployed,0.61,1,No,Urban,No,0,None,200000,14430,123812,DayScholar,3772,0,82.4
+158000,1,Both Alive,Rent,Government Job,0.6,1,No,Urban,No,5817,Salaried,50000,1610,135299,Hostel,0,0,98.65
+96000,2,Both Alive,Own,Business,2.76,0,No,Rural,Yes,0,Self Employed,30000,1078,50551,Hostel,0,0,79.54
+339000,1,Both Alive,Own,Unemployed,4.14,2,No,Rural,Yes,0,None,150000,561,122511,Hostel,0,0,65.57
+408000,2,Both Alive,Rent,Private Job,1.59,3,No,Rural,Yes,5943,Salaried,50000,886,98206,DayScholar,3227,0,88.46
+556000,1,Both Alive,Rent,Government Job,1.41,1,No,Rural,Yes,6778,Salaried,100000,9861,104900,Hostel,0,0,78.24
+361000,1,Both Alive,Own,Private Job,1.14,0,No,Rural,No,0,Salaried,150000,2700,56296,DayScholar,2354,0,80.81
+240000,3,Both Alive,Own,Business,0.18,3,No,Rural,No,0,Self Employed,0,13406,120216,Hostel,0,0,95.24
+666000,1,Both Alive,Own,Unemployed,0.06,2,No,Rural,Yes,0,None,50000,2183,48066,DayScholar,3485,0,74.86
+158000,2,Both Alive,Own,Daily Wage,1.17,2,No,Rural,Yes,0,Daily Income,10000,14665,58892,DayScholar,854,0,95.03
+759000,2,Both Alive,Rent,Unemployed,1.3,3,No,Rural,Yes,1904,None,0,6821,105577,Hostel,0,0,63.82
+175000,3,Both Alive,Own,Business,0.05,2,No,Urban,Yes,0,Self Employed,50000,8556,104590,Hostel,0,0,100.0
+250000,2,Both Alive,Own,Unemployed,2.63,1,No,Rural,No,0,None,50000,9178,107173,DayScholar,3900,0,69.07
+312000,2,Both Alive,Own,Unemployed,0.1,1,No,Rural,Yes,0,None,50000,12424,106293,DayScholar,1058,0,95.14
+220000,2,Both Alive,Own,Agriculture,0.34,1,No,Rural,No,0,Daily Income,0,7914,94771,DayScholar,3396,36119,99.04
+315000,1,Orphan,Own,Unemployed,1.12,2,No,Urban,No,0,None,50000,14065,136794,Hostel,0,0,98.18
+382000,1,Both Alive,Rent,Unemployed,0.19,1,No,Urban,No,4618,None,150000,7143,57484,DayScholar,1754,0,95.5
+187000,2,Both Alive,Rent,Private Job,0.06,0,No,Rural,Yes,3094,Salaried,50000,9232,107865,DayScholar,3879,0,100.0
+77000,3,Orphan,Rent,Daily Wage,0.4,1,No,Rural,No,2065,Daily Income,100000,6131,129074,Hostel,0,0,100.0
+794000,1,Both Alive,Own,Private Job,1.45,1,No,Rural,No,0,Salaried,0,8445,57115,DayScholar,1669,0,40.05
+625000,3,Both Alive,Rent,Private Job,0.53,2,Yes,Rural,No,4368,Salaried,0,10752,56038,Hostel,0,0,96.15
+629000,2,Both Alive,Rent,Government Job,1.06,1,No,Rural,Yes,2357,Salaried,200000,8226,66622,DayScholar,2314,0,84.62
+382000,2,Both Alive,Rent,Agriculture,0.87,3,No,Rural,Yes,2784,Daily Income,150000,12938,65886,DayScholar,2687,132620,100.0
+745000,1,Both Alive,Own,Private Job,0.02,0,No,Urban,No,0,Salaried,100000,5669,81284,Hostel,0,0,57.92
+685000,2,Both Alive,Own,Business,4.47,2,No,Rural,Yes,0,Self Employed,100000,9930,39901,Hostel,0,0,35.33
+347000,1,Both Alive,Own,Business,0.04,0,No,Rural,Yes,0,Self Employed,200000,9682,86377,Hostel,0,0,100.0
+722000,2,Both Alive,Own,Unemployed,3.44,3,No,Urban,No,0,None,150000,7287,112910,DayScholar,2611,0,39.67
+698000,2,Orphan,Own,Government Job,0.8,2,No,Rural,Yes,0,Salaried,50000,4967,79862,DayScholar,1741,0,85.64
+214000,1,Single Parent,Own,Agriculture,3.3,2,No,Rural,Yes,0,Daily Income,200000,5732,148992,DayScholar,3643,150112,93.92
+549000,1,Both Alive,Own,Agriculture,0.12,1,No,Rural,Yes,0,Daily Income,100000,10991,141826,DayScholar,3537,58250,93.06
+445000,1,Both Alive,Rent,Unemployed,0.67,0,No,Rural,No,2040,None,150000,8630,62806,Hostel,0,0,87.7
+163000,2,Both Alive,Own,Business,0.19,3,No,Rural,Yes,0,Self Employed,30000,6696,47659,DayScholar,629,0,100.0
+452000,2,Both Alive,Own,Daily Wage,0.05,3,Yes,Urban,No,0,Daily Income,150000,13941,144306,DayScholar,3128,0,100.0
+305000,3,Both Alive,Rent,Government Job,0.96,2,No,Rural,Yes,2915,Salaried,150000,4407,53453,DayScholar,2450,0,100.0
+235000,1,Both Alive,Rent,Unemployed,0.23,1,No,Rural,Yes,4338,None,100000,4788,60498,Hostel,0,0,100.0
+98000,2,Single Parent,Rent,Government Job,0.89,2,No,Rural,No,3152,Salaried,100000,7234,100393,Hostel,0,0,100.0
+536000,2,Both Alive,Rent,Business,0.12,2,Yes,Rural,Yes,4165,Self Employed,50000,1580,46312,DayScholar,1079,0,100.0
+741000,1,Both Alive,Own,Business,0.4,2,No,Urban,No,0,Self Employed,50000,6740,31436,DayScholar,1977,0,56.59
+597000,3,Both Alive,Rent,Daily Wage,1.52,2,No,Urban,Yes,5562,Daily Income,200000,697,57569,Hostel,0,0,81.35
+467000,1,Both Alive,Own,Daily Wage,0.57,3,No,Rural,Yes,0,Daily Income,0,8314,88813,DayScholar,3552,0,82.33
+584000,3,Single Parent,Own,Agriculture,0.99,3,No,Urban,Yes,0,Daily Income,50000,10886,146787,DayScholar,3955,114769,88.44
+565000,2,Both Alive,Own,Government Job,1.04,2,No,Rural,Yes,0,Salaried,100000,8351,120485,Hostel,0,0,76.18
+95000,3,Both Alive,Own,Government Job,1.86,2,No,Rural,No,0,Salaried,100000,10290,103229,DayScholar,3168,0,93.75
+744000,2,Both Alive,Own,Business,0.39,1,No,Rural,No,0,Self Employed,200000,2100,75986,DayScholar,1339,0,69.34
+79000,1,Both Alive,Rent,Agriculture,1.16,2,No,Urban,Yes,3051,Daily Income,0,7962,132555,Hostel,0,73076,100.0
+380000,1,Both Alive,Rent,Unemployed,3.26,3,No,Rural,Yes,6892,None,150000,7366,83177,DayScholar,1664,0,82.25
+571000,1,Both Alive,Rent,Government Job,1.31,0,No,Rural,No,3707,Salaried,150000,4192,39305,DayScholar,3124,0,73.15
+459000,3,Both Alive,Own,Agriculture,0.67,3,No,Urban,Yes,0,Daily Income,50000,12557,62646,DayScholar,1657,65833,91.86
+713000,2,Both Alive,Rent,Agriculture,1.0,1,No,Urban,Yes,5819,Daily Income,0,9375,122838,Hostel,0,24318,69.77
+530000,1,Both Alive,Rent,Business,1.35,3,No,Urban,No,2779,Self Employed,0,3583,106126,Hostel,0,0,68.65
+202000,1,Both Alive,Own,Agriculture,0.95,0,No,Rural,No,0,Daily Income,200000,4489,147922,DayScholar,1166,119992,100.0
+151000,2,Both Alive,Rent,Daily Wage,0.02,2,No,Urban,No,7663,Daily Income,10000,832,70430,Hostel,0,0,100.0
+413000,1,Both Alive,Own,Daily Wage,0.22,0,No,Rural,No,0,Daily Income,200000,14031,98659,DayScholar,2471,0,90.1
+786000,2,Both Alive,Own,Private Job,1.66,2,No,Rural,No,0,Salaried,100000,14209,145341,Hostel,0,0,49.48
+110000,2,Single Parent,Rent,Business,0.32,2,No,Rural,Yes,5194,Self Employed,10000,14153,34158,Hostel,0,0,100.0
+724000,2,Single Parent,Own,Unemployed,1.32,3,No,Urban,Yes,0,None,150000,14609,104236,DayScholar,749,0,73.83
+757000,2,Single Parent,Own,Private Job,0.47,3,No,Rural,Yes,0,Salaried,200000,14279,106067,DayScholar,1388,0,87.71
+634000,2,Both Alive,Rent,Daily Wage,0.74,3,No,Urban,No,7701,Daily Income,0,10463,57738,DayScholar,1523,0,67.54
+249000,3,Both Alive,Rent,Private Job,0.07,1,No,Rural,No,4664,Salaried,200000,6606,39879,Hostel,0,0,100.0
+184000,1,Both Alive,Own,Business,0.2,3,No,Rural,No,0,Self Employed,10000,7833,35543,DayScholar,1252,0,99.58
+209000,3,Both Alive,Own,Business,3.15,1,No,Rural,No,0,Self Employed,0,7155,142284,Hostel,0,0,62.88
+373000,1,Single Parent,Own,Agriculture,2.21,3,No,Rural,No,0,Daily Income,0,5808,77924,DayScholar,3522,48273,74.91
+629000,3,Both Alive,Rent,Government Job,1.06,2,No,Urban,No,4935,Salaried,50000,13931,72348,DayScholar,3030,0,65.76
+401000,2,Both Alive,Own,Agriculture,0.62,1,No,Rural,Yes,0,Daily Income,150000,4700,114117,Hostel,0,49473,100.0
+364000,1,Both Alive,Own,Business,1.13,0,No,Rural,No,0,Self Employed,50000,3221,66679,DayScholar,2719,0,72.81
+751000,1,Both Alive,Rent,Daily Wage,0.96,1,No,Urban,Yes,3921,Daily Income,50000,9498,109118,Hostel,0,0,61.57
+741000,3,Both Alive,Own,Unemployed,0.84,1,No,Rural,Yes,0,None,0,1564,73888,DayScholar,2564,0,55.43
+113000,3,Both Alive,Own,Daily Wage,0.06,0,No,Rural,No,0,Daily Income,0,9580,60276,DayScholar,2258,0,95.87
+503000,1,Both Alive,Own,Agriculture,1.0,1,No,Rural,No,0,Daily Income,150000,11615,133539,DayScholar,1817,65310,85.66
+672000,3,Both Alive,Rent,Unemployed,1.46,2,No,Rural,Yes,3561,None,200000,7320,34799,DayScholar,2941,0,80.92
+323000,3,Both Alive,Own,Business,5.13,3,No,Rural,Yes,0,Self Employed,50000,9012,120627,Hostel,0,0,52.26
+112000,3,Both Alive,Own,Daily Wage,0.01,0,No,Rural,No,0,Daily Income,50000,4457,123770,Hostel,0,0,100.0
+631000,2,Single Parent,Rent,Business,1.31,3,No,Rural,No,5379,Self Employed,50000,2882,142529,Hostel,0,0,78.24
+679000,2,Single Parent,Own,Unemployed,0.85,2,No,Rural,No,0,None,200000,3731,120141,DayScholar,1913,0,80.29
+64000,3,Both Alive,Own,Unemployed,0.57,0,No,Urban,Yes,0,None,30000,11003,90558,DayScholar,2795,0,98.64
+162000,3,Both Alive,Own,Daily Wage,0.14,3,No,Urban,Yes,0,Daily Income,30000,7508,145013,Hostel,0,0,100.0
+255000,2,Both Alive,Own,Business,0.53,3,No,Rural,Yes,0,Self Employed,150000,12293,66534,DayScholar,2599,0,100.0
+409000,2,Both Alive,Own,Private Job,0.44,2,No,Rural,Yes,0,Salaried,0,2000,61668,Hostel,0,0,84.45
+106000,1,Both Alive,Own,Business,0.36,3,No,Rural,Yes,0,Self Employed,30000,2068,34111,Hostel,0,0,100.0
+715000,1,Single Parent,Own,Unemployed,1.31,2,No,Urban,No,0,None,150000,6392,54686,DayScholar,940,0,65.52
+328000,2,Both Alive,Own,Business,1.21,1,No,Urban,Yes,0,Self Employed,150000,3781,102551,DayScholar,1635,0,87.35
+429000,3,Single Parent,Rent,Agriculture,0.89,2,No,Rural,Yes,1788,Daily Income,50000,10211,102392,DayScholar,3243,131682,100.0
+695000,3,Both Alive,Rent,Private Job,2.79,1,No,Rural,Yes,7164,Salaried,0,10610,46490,Hostel,0,0,47.84
+165000,3,Both Alive,Rent,Government Job,0.43,0,No,Urban,Yes,5359,Salaried,30000,4589,65194,DayScholar,2086,0,100.0
+729000,3,Both Alive,Rent,Agriculture,0.28,3,No,Rural,No,4560,Daily Income,50000,2365,44497,Hostel,0,162173,83.54
+718000,1,Single Parent,Own,Government Job,1.07,2,No,Rural,No,0,Salaried,150000,10097,149066,Hostel,0,0,71.62
+716000,2,Both Alive,Rent,Daily Wage,0.22,2,No,Rural,No,7039,Daily Income,0,11415,83516,DayScholar,3936,0,68.04
+179000,3,Both Alive,Own,Government Job,0.38,3,No,Rural,Yes,0,Salaried,10000,6100,147219,DayScholar,3938,0,100.0
+663000,1,Both Alive,Rent,Business,0.25,3,No,Urban,Yes,2683,Self Employed,50000,6555,118730,Hostel,0,0,80.24
+117000,3,Both Alive,Rent,Government Job,0.07,0,No,Rural,Yes,5835,Salaried,100000,504,74104,Hostel,0,0,100.0
+405000,2,Both Alive,Rent,Unemployed,1.76,0,No,Rural,Yes,7582,None,150000,14869,35316,DayScholar,3677,0,85.94
+533000,1,Both Alive,Rent,Agriculture,0.29,2,Yes,Urban,No,2946,Daily Income,0,8459,68130,Hostel,0,192268,100.0
+176000,2,Both Alive,Rent,Agriculture,0.64,0,No,Rural,Yes,3249,Daily Income,50000,1668,100229,DayScholar,1669,174641,100.0
+186000,2,Both Alive,Own,Government Job,0.04,1,No,Rural,No,0,Salaried,30000,2898,137294,DayScholar,977,0,96.56
+452000,1,Both Alive,Own,Agriculture,1.2,0,No,Rural,Yes,0,Daily Income,0,3130,59954,Hostel,0,192959,78.3
+700000,1,Both Alive,Rent,Unemployed,0.4,0,No,Rural,No,7859,None,150000,7108,143437,DayScholar,1214,0,73.24
+117000,1,Both Alive,Own,Agriculture,1.37,2,No,Urban,No,0,Daily Income,30000,847,51652,DayScholar,2176,107971,97.44
+693000,1,Both Alive,Rent,Government Job,0.53,1,No,Rural,No,2577,Salaried,100000,6361,44178,Hostel,0,0,71.51
+572000,1,Both Alive,Rent,Private Job,0.22,0,No,Urban,Yes,3877,Salaried,200000,12912,138933,DayScholar,1008,0,89.47
+155000,1,Both Alive,Own,Private Job,0.72,1,No,Rural,No,0,Salaried,10000,10505,81163,Hostel,0,0,90.54
+697000,1,Single Parent,Rent,Daily Wage,0.14,1,No,Rural,No,6907,Daily Income,150000,3842,44751,DayScholar,2604,0,86.93
+177000,3,Both Alive,Rent,Agriculture,0.58,1,No,Rural,Yes,7688,Daily Income,100000,7000,95961,Hostel,0,100570,100.0
+619000,2,Both Alive,Rent,Government Job,0.38,3,No,Rural,Yes,4376,Salaried,100000,3074,33044,DayScholar,1680,0,89.89
+660000,1,Both Alive,Rent,Agriculture,2.43,3,No,Rural,No,7841,Daily Income,0,4325,93165,Hostel,0,29442,53.63
+547000,3,Both Alive,Own,Business,0.06,3,No,Urban,No,0,Self Employed,0,5093,41480,Hostel,0,0,71.86
+296000,3,Both Alive,Rent,Unemployed,1.18,3,No,Rural,Yes,7100,None,50000,5772,95439,DayScholar,3704,0,99.87
+331000,3,Both Alive,Rent,Agriculture,0.2,2,No,Rural,Yes,2832,Daily Income,0,8744,73874,Hostel,0,186141,100.0
+248000,2,Both Alive,Own,Agriculture,0.38,0,No,Rural,No,0,Daily Income,150000,648,134533,Hostel,0,189632,100.0
+763000,1,Both Alive,Own,Private Job,0.54,3,No,Rural,Yes,0,Salaried,150000,9194,96775,Hostel,0,0,74.69
+506000,3,Both Alive,Rent,Unemployed,2.39,2,No,Rural,Yes,6291,None,150000,1369,36566,Hostel,0,0,79.16
+640000,2,Both Alive,Own,Government Job,0.28,0,No,Urban,Yes,0,Salaried,200000,4021,115311,DayScholar,2360,0,76.35
+306000,2,Both Alive,Rent,Agriculture,0.1,3,No,Rural,No,4737,Daily Income,150000,13006,132517,DayScholar,2591,92752,100.0
+135000,2,Both Alive,Rent,Private Job,0.38,0,No,Urban,Yes,3865,Salaried,50000,4371,83149,Hostel,0,0,100.0
+213000,3,Both Alive,Own,Daily Wage,0.11,3,No,Rural,No,0,Daily Income,0,1800,33006,DayScholar,817,0,97.71
+715000,1,Both Alive,Rent,Unemployed,0.14,2,No,Urban,Yes,4674,None,150000,11191,102561,DayScholar,1033,0,82.72
+494000,3,Single Parent,Rent,Private Job,0.85,1,No,Urban,No,6555,Salaried,100000,8095,49423,DayScholar,2108,0,85.75
+145000,3,Both Alive,Own,Private Job,0.06,1,No,Urban,No,0,Salaried,10000,14918,134862,Hostel,0,0,93.52
+756000,1,Both Alive,Own,Private Job,0.03,0,No,Rural,Yes,0,Salaried,100000,12725,120710,DayScholar,3725,0,67.08
+344000,1,Both Alive,Own,Agriculture,1.25,2,No,Rural,Yes,0,Daily Income,50000,11981,122199,DayScholar,2784,129570,94.99
+279000,1,Both Alive,Own,Agriculture,0.45,1,No,Urban,Yes,0,Daily Income,200000,5333,63952,DayScholar,3440,115547,100.0
+128000,2,Both Alive,Rent,Daily Wage,0.13,3,No,Urban,Yes,1744,Daily Income,50000,12545,57326,DayScholar,3064,0,100.0
+106000,1,Both Alive,Own,Business,0.29,1,No,Rural,No,0,Self Employed,0,7170,147272,Hostel,0,0,97.14
+153000,3,Both Alive,Rent,Business,1.03,0,No,Urban,Yes,7272,Self Employed,30000,2951,61139,DayScholar,1833,0,96.29
+512000,1,Both Alive,Own,Business,0.32,0,No,Rural,No,0,Self Employed,150000,4885,92103,DayScholar,1700,0,78.57
+263000,3,Both Alive,Own,Unemployed,0.68,2,No,Urban,Yes,0,None,50000,9030,142734,DayScholar,2294,0,91.86
+277000,2,Both Alive,Rent,Unemployed,0.13,0,No,Rural,Yes,6132,None,0,3324,90857,Hostel,0,0,98.24
+533000,3,Both Alive,Rent,Daily Wage,0.89,1,Yes,Urban,Yes,4253,Daily Income,100000,7354,103638,DayScholar,2585,0,100.0
+491000,3,Single Parent,Own,Unemployed,0.38,1,No,Rural,Yes,0,None,50000,10385,142173,DayScholar,3201,0,88.5
+400000,1,Both Alive,Own,Business,0.99,1,No,Rural,Yes,0,Self Employed,0,6464,102652,DayScholar,1954,0,76.79
+610000,1,Both Alive,Own,Business,1.65,1,No,Rural,No,0,Self Employed,100000,1486,42937,DayScholar,2433,0,58.34
+671000,3,Single Parent,Own,Private Job,0.95,2,No,Urban,Yes,0,Salaried,200000,13746,60161,DayScholar,1246,0,81.86
+348000,1,Both Alive,Rent,Unemployed,0.35,3,No,Rural,Yes,2030,None,100000,8671,34383,Hostel,0,0,100.0
+313000,2,Both Alive,Own,Agriculture,0.3,3,No,Rural,No,0,Daily Income,200000,3990,115856,DayScholar,1340,112783,100.0
+793000,2,Both Alive,Own,Agriculture,0.4,2,Yes,Urban,No,0,Daily Income,200000,8576,146387,Hostel,0,91727,99.97
+416000,1,Single Parent,Own,Private Job,0.18,0,No,Urban,Yes,0,Salaried,200000,14018,100043,DayScholar,2018,0,100.0
+82000,2,Both Alive,Rent,Private Job,0.2,3,No,Rural,No,6256,Salaried,100000,11425,44735,Hostel,0,0,100.0
+581000,1,Both Alive,Rent,Private Job,1.56,0,No,Urban,Yes,3301,Salaried,150000,4267,89919,DayScholar,2672,0,72.09
+159000,3,Both Alive,Own,Agriculture,0.49,3,No,Rural,No,0,Daily Income,0,14076,125249,DayScholar,1588,24934,100.0
+239000,3,Single Parent,Rent,Business,0.57,0,No,Rural,No,6961,Self Employed,0,12768,112055,DayScholar,1292,0,98.57
+282000,2,Both Alive,Own,Private Job,0.9,2,No,Rural,No,0,Salaried,200000,2506,97561,Hostel,0,0,98.34
+718000,1,Both Alive,Own,Daily Wage,0.89,1,No,Rural,No,0,Daily Income,50000,8425,115455,DayScholar,1767,0,54.44
+501000,1,Both Alive,Rent,Private Job,0.07,0,No,Rural,Yes,5228,Salaried,200000,3607,67622,Hostel,0,0,99.65
+667000,2,Both Alive,Rent,Government Job,1.78,1,No,Urban,No,7731,Salaried,150000,4968,68135,Hostel,0,0,61.23
+384000,3,Both Alive,Rent,Private Job,0.2,0,No,Rural,Yes,5511,Salaried,150000,14299,65658,Hostel,0,0,100.0
+575000,2,Single Parent,Rent,Agriculture,1.28,0,No,Urban,Yes,7689,Daily Income,50000,3830,114677,DayScholar,3190,85064,85.27
+75000,3,Both Alive,Own,Unemployed,1.48,0,No,Rural,Yes,0,None,50000,11733,59696,DayScholar,792,0,94.77
+395000,1,Both Alive,Rent,Private Job,1.25,0,No,Rural,No,2642,Salaried,100000,9222,33773,DayScholar,3268,0,81.54
+317000,3,Both Alive,Own,Unemployed,0.87,0,No,Urban,No,0,None,0,1423,54956,DayScholar,1904,0,70.48
+556000,2,Single Parent,Rent,Government Job,0.01,1,No,Rural,Yes,3255,Salaried,0,12810,45819,Hostel,0,0,91.74
+219000,1,Both Alive,Own,Daily Wage,0.45,0,No,Urban,No,0,Daily Income,0,6747,31528,DayScholar,3303,0,81.05
+534000,2,Both Alive,Rent,Unemployed,0.93,1,No,Rural,No,6340,None,150000,8932,116491,Hostel,0,0,82.26
+723000,2,Single Parent,Own,Business,0.49,2,No,Rural,Yes,0,Self Employed,0,13792,74588,Hostel,0,0,70.98
+749000,3,Single Parent,Own,Private Job,1.99,3,No,Rural,Yes,0,Salaried,100000,2396,100585,Hostel,0,0,65.79
+734000,2,Single Parent,Rent,Government Job,0.37,0,No,Urban,No,2262,Salaried,100000,8383,129152,DayScholar,3554,0,71.3
+439000,3,Single Parent,Own,Government Job,0.35,3,No,Rural,Yes,0,Salaried,0,3824,50511,DayScholar,3418,0,94.31
+604000,1,Both Alive,Own,Unemployed,0.31,1,No,Rural,Yes,0,None,50000,13953,40119,Hostel,0,0,73.61
+750000,3,Both Alive,Own,Daily Wage,0.4,2,No,Urban,No,0,Daily Income,100000,1313,105893,DayScholar,1575,0,59.94
+486000,1,Both Alive,Own,Agriculture,0.82,2,No,Rural,No,0,Daily Income,50000,5250,46167,DayScholar,1897,158874,83.62
+672000,3,Single Parent,Own,Private Job,1.23,2,No,Urban,No,0,Salaried,150000,8118,86503,Hostel,0,0,69.16
+327000,2,Both Alive,Own,Government Job,1.09,3,No,Rural,No,0,Salaried,100000,1282,140782,DayScholar,3934,0,88.61
+636000,3,Both Alive,Rent,Daily Wage,1.65,1,No,Rural,Yes,7590,Daily Income,50000,4555,117789,DayScholar,3114,0,66.65
+476000,3,Both Alive,Own,Business,2.17,0,No,Rural,Yes,0,Self Employed,0,8289,64889,DayScholar,1537,0,57.41
+227000,1,Both Alive,Rent,Government Job,1.69,0,No,Rural,No,2339,Salaried,150000,8699,75678,DayScholar,1863,0,92.51
+102000,2,Both Alive,Rent,Daily Wage,0.02,1,No,Rural,Yes,1502,Daily Income,0,12465,125334,DayScholar,3149,0,100.0
+615000,3,Orphan,Own,Agriculture,1.33,3,No,Rural,No,0,Daily Income,200000,14502,90262,Hostel,0,114311,100.0
+344000,2,Single Parent,Rent,Agriculture,0.23,0,No,Urban,Yes,2904,Daily Income,0,13362,34681,DayScholar,1612,102124,100.0
+456000,3,Both Alive,Own,Government Job,0.14,1,No,Urban,Yes,0,Salaried,150000,3639,110291,DayScholar,3452,0,89.04
+71000,3,Both Alive,Rent,Government Job,1.02,0,No,Rural,Yes,3437,Salaried,30000,12481,96008,Hostel,0,0,100.0
+666000,2,Both Alive,Own,Unemployed,0.39,2,No,Rural,No,0,None,150000,5507,146475,DayScholar,3875,0,73.61
+361000,3,Both Alive,Own,Private Job,0.06,0,No,Rural,Yes,0,Salaried,150000,4551,128417,DayScholar,1791,0,97.15
+312000,2,Single Parent,Rent,Daily Wage,0.15,3,No,Urban,Yes,4904,Daily Income,200000,8075,43690,Hostel,0,0,100.0
+558000,3,Both Alive,Rent,Government Job,0.0,1,No,Rural,Yes,6282,Salaried,50000,9209,55912,DayScholar,1529,0,87.65
+94000,1,Both Alive,Rent,Private Job,2.34,3,No,Urban,No,2637,Salaried,100000,3690,36473,DayScholar,741,0,96.22
+786000,2,Single Parent,Own,Unemployed,0.02,1,No,Rural,Yes,0,None,50000,11794,71298,Hostel,0,0,72.22
+149000,3,Both Alive,Rent,Private Job,0.24,2,No,Rural,Yes,7106,Salaried,50000,6137,48669,Hostel,0,0,100.0
+664000,3,Both Alive,Own,Government Job,0.54,1,No,Urban,Yes,0,Salaried,100000,13270,129500,Hostel,0,0,67.35
+661000,1,Both Alive,Own,Agriculture,0.44,0,No,Urban,No,0,Daily Income,100000,11408,111998,DayScholar,3356,61477,69.51
+477000,2,Both Alive,Own,Daily Wage,2.43,0,No,Rural,Yes,0,Daily Income,100000,1078,50943,DayScholar,1478,0,62.76
+174000,3,Both Alive,Rent,Daily Wage,0.04,2,No,Urban,Yes,2214,Daily Income,10000,8638,68785,DayScholar,1017,0,100.0
+676000,1,Both Alive,Own,Agriculture,0.72,1,No,Rural,Yes,0,Daily Income,50000,4982,130956,Hostel,0,166101,74.88
+255000,3,Both Alive,Own,Government Job,1.14,2,No,Urban,Yes,0,Salaried,200000,13199,93427,Hostel,0,0,99.85
+560000,2,Single Parent,Rent,Daily Wage,2.68,0,No,Rural,No,7946,Daily Income,0,2365,92001,Hostel,0,0,56.92
+685000,3,Both Alive,Own,Government Job,0.97,3,No,Rural,Yes,0,Salaried,200000,5989,91724,DayScholar,3331,0,79.74
+552000,3,Both Alive,Own,Unemployed,1.63,2,No,Rural,No,0,None,150000,1876,149006,DayScholar,1679,0,69.36
+134000,3,Both Alive,Own,Government Job,0.09,3,No,Urban,No,0,Salaried,100000,14755,40832,DayScholar,584,0,100.0
+472000,3,Both Alive,Rent,Private Job,0.49,3,No,Urban,Yes,3660,Salaried,100000,14147,35385,Hostel,0,0,94.66
+435000,1,Both Alive,Own,Agriculture,0.47,1,No,Rural,No,0,Daily Income,50000,11630,125898,DayScholar,1533,178797,87.38
+479000,1,Both Alive,Own,Government Job,2.17,2,No,Rural,No,0,Salaried,150000,9597,44708,DayScholar,637,0,69.07
+788000,2,Both Alive,Rent,Unemployed,0.16,3,No,Urban,No,7476,None,200000,5908,88600,Hostel,0,0,78.6
+336000,1,Orphan,Rent,Business,0.16,3,No,Urban,Yes,3644,Self Employed,150000,8663,53438,DayScholar,3453,0,100.0
+735000,1,Both Alive,Own,Agriculture,0.4,1,No,Rural,Yes,0,Daily Income,150000,5558,112747,Hostel,0,68061,81.9
+453000,2,Both Alive,Rent,Daily Wage,0.06,1,No,Rural,Yes,3563,Daily Income,100000,9656,110107,Hostel,0,0,98.05
+516000,1,Single Parent,Rent,Private Job,0.2,0,No,Urban,No,4103,Salaried,200000,6783,90062,Hostel,0,0,95.4
+251000,1,Both Alive,Rent,Daily Wage,3.36,3,No,Urban,Yes,3477,Daily Income,0,2476,95428,DayScholar,3334,0,74.06
+798000,2,Both Alive,Own,Unemployed,0.56,0,No,Rural,Yes,0,None,100000,6943,116843,DayScholar,3796,0,59.2
+748000,2,Both Alive,Rent,Unemployed,1.0,3,No,Rural,Yes,2241,None,200000,13824,41002,Hostel,0,0,83.24
+158000,2,Both Alive,Own,Daily Wage,1.3,0,No,Rural,Yes,0,Daily Income,30000,5259,66153,Hostel,0,0,89.37
+607000,3,Both Alive,Own,Agriculture,0.46,1,No,Rural,Yes,0,Daily Income,100000,8095,52440,DayScholar,3766,196010,85.93
+155000,3,Both Alive,Own,Daily Wage,0.16,2,No,Urban,Yes,0,Daily Income,10000,5420,97501,DayScholar,1053,0,100.0
+723000,2,Both Alive,Own,Government Job,0.23,1,No,Urban,Yes,0,Salaried,100000,2387,62556,DayScholar,895,0,66.38
+722000,2,Both Alive,Own,Daily Wage,0.38,0,No,Urban,No,0,Daily Income,150000,11139,97963,Hostel,0,0,59.96
+249000,2,Both Alive,Rent,Private Job,1.01,0,No,Rural,Yes,3867,Salaried,200000,1491,131145,Hostel,0,0,100.0
+795000,3,Both Alive,Own,Private Job,0.51,2,No,Rural,No,0,Salaried,50000,5728,120725,Hostel,0,0,55.93
+96000,3,Both Alive,Own,Business,0.01,3,No,Urban,Yes,0,Self Employed,30000,12248,120674,Hostel,0,0,100.0
+428000,1,Both Alive,Own,Private Job,0.74,0,No,Rural,Yes,0,Salaried,50000,12651,36563,DayScholar,1832,0,78.26
+754000,1,Both Alive,Own,Daily Wage,2.54,0,No,Urban,No,0,Daily Income,100000,14984,109923,DayScholar,2389,0,33.19
+584000,2,Single Parent,Rent,Private Job,1.67,0,No,Rural,No,2067,Salaried,100000,8546,35840,DayScholar,1309,0,72.88
+338000,3,Both Alive,Own,Agriculture,1.74,2,No,Rural,Yes,0,Daily Income,0,14527,45154,DayScholar,3509,91257,76.75
+276000,3,Both Alive,Own,Private Job,1.59,1,No,Urban,No,0,Salaried,0,6950,54194,Hostel,0,0,69.33
+332000,3,Both Alive,Own,Government Job,0.39,0,No,Urban,No,0,Salaried,0,4104,95020,Hostel,0,0,74.08
+121000,2,Both Alive,Own,Agriculture,1.45,2,No,Rural,No,0,Daily Income,30000,1583,76861,DayScholar,3534,155425,100.0
+655000,1,Single Parent,Own,Business,0.15,0,No,Rural,Yes,0,Self Employed,150000,9126,52448,Hostel,0,0,84.64
+788000,2,Orphan,Rent,Government Job,1.07,3,No,Rural,Yes,4393,Salaried,100000,520,126460,Hostel,0,0,91.99
+401000,1,Both Alive,Rent,Daily Wage,1.03,2,No,Rural,No,7218,Daily Income,200000,11614,53528,Hostel,0,0,97.14
+456000,1,Both Alive,Own,Daily Wage,0.03,0,No,Rural,No,0,Daily Income,0,10617,59402,Hostel,0,0,73.23
+758000,2,Both Alive,Rent,Daily Wage,1.55,2,No,Urban,Yes,5209,Daily Income,50000,10164,34352,Hostel,0,0,58.45
+78000,1,Single Parent,Rent,Government Job,2.34,0,No,Urban,No,3286,Salaried,100000,1599,30184,DayScholar,3984,0,96.29
+236000,1,Both Alive,Rent,Government Job,0.31,1,No,Rural,Yes,7215,Salaried,50000,7341,40384,DayScholar,1239,0,100.0
+671000,3,Both Alive,Own,Government Job,1.67,0,No,Urban,Yes,0,Salaried,200000,3137,44319,Hostel,0,0,60.97
+455000,1,Both Alive,Own,Agriculture,0.09,2,No,Rural,Yes,0,Daily Income,200000,9081,50449,Hostel,0,168404,100.0
+504000,2,Both Alive,Own,Unemployed,0.92,3,No,Urban,No,0,None,0,8244,86333,DayScholar,3282,0,66.51
+292000,2,Both Alive,Rent,Agriculture,0.66,3,No,Urban,Yes,1577,Daily Income,200000,3913,71205,Hostel,0,34388,100.0
+135000,1,Both Alive,Rent,Daily Wage,0.79,3,No,Urban,No,5113,Daily Income,100000,7957,40426,Hostel,0,0,100.0
+324000,3,Both Alive,Own,Unemployed,2.61,0,No,Rural,Yes,0,None,200000,11307,37504,Hostel,0,0,79.17
+514000,3,Both Alive,Own,Private Job,2.05,1,No,Urban,No,0,Salaried,200000,1854,86578,Hostel,0,0,64.83
+777000,1,Both Alive,Rent,Daily Wage,1.54,0,No,Rural,No,3687,Daily Income,200000,6902,88209,DayScholar,2593,0,61.13
+794000,1,Both Alive,Rent,Business,0.32,3,No,Rural,No,2052,Self Employed,0,5021,146775,DayScholar,3588,0,64.86
+443000,2,Both Alive,Rent,Agriculture,2.43,2,No,Rural,No,6593,Daily Income,100000,14513,63368,Hostel,0,58769,73.03
+623000,1,Both Alive,Rent,Government Job,0.1,3,No,Rural,Yes,1781,Salaried,0,5625,136108,Hostel,0,0,84.4
+565000,3,Both Alive,Own,Agriculture,1.92,2,No,Urban,Yes,0,Daily Income,100000,505,141553,Hostel,0,133289,63.76
+426000,1,Both Alive,Rent,Government Job,0.4,1,No,Rural,Yes,3346,Salaried,50000,8882,133841,Hostel,0,0,92.65
+203000,2,Both Alive,Rent,Unemployed,0.06,2,No,Urban,Yes,6979,None,50000,8839,82185,DayScholar,730,0,100.0
+128000,2,Both Alive,Own,Business,1.11,0,No,Rural,No,0,Self Employed,30000,13192,127630,DayScholar,3497,0,87.19
+158000,2,Both Alive,Own,Unemployed,0.26,0,No,Urban,Yes,0,None,10000,4853,146744,DayScholar,3184,0,93.74
+455000,2,Both Alive,Rent,Business,0.28,0,No,Rural,Yes,6753,Self Employed,100000,4050,110221,DayScholar,611,0,92.81
+84000,2,Single Parent,Own,Agriculture,0.37,2,No,Rural,Yes,0,Daily Income,0,14925,38724,DayScholar,1092,160907,100.0
+528000,1,Both Alive,Rent,Government Job,0.07,0,No,Rural,Yes,5211,Salaried,50000,13611,35084,DayScholar,3817,0,85.99
+543000,1,Single Parent,Rent,Unemployed,0.19,0,No,Rural,Yes,5699,None,0,8531,64810,Hostel,0,0,87.89
+624000,1,Both Alive,Rent,Business,0.01,0,No,Rural,No,6361,Self Employed,150000,4605,112277,Hostel,0,0,82.05
+210000,1,Both Alive,Own,Daily Wage,0.59,1,No,Urban,Yes,0,Daily Income,100000,9802,112297,DayScholar,2939,0,97.22
+203000,2,Both Alive,Own,Daily Wage,0.09,2,No,Rural,Yes,0,Daily Income,100000,12525,108872,Hostel,0,0,100.0
+628000,3,Both Alive,Rent,Unemployed,1.15,2,No,Urban,No,3096,None,150000,13625,50872,DayScholar,1738,0,72.87
+98000,1,Both Alive,Own,Government Job,0.27,3,No,Rural,No,0,Salaried,10000,5583,108950,DayScholar,2387,0,100.0
+168000,3,Both Alive,Rent,Unemployed,2.87,2,No,Rural,Yes,4812,None,100000,9316,100333,DayScholar,3294,0,93.2
+752000,1,Both Alive,Rent,Agriculture,2.05,1,No,Rural,No,7656,Daily Income,0,12817,98843,Hostel,0,132296,45.11
+101000,1,Both Alive,Own,Business,0.34,2,No,Rural,Yes,0,Self Employed,30000,2675,142025,DayScholar,2629,0,100.0
+245000,3,Both Alive,Own,Agriculture,1.53,1,No,Rural,Yes,0,Daily Income,200000,11841,128104,Hostel,0,107905,97.79
+457000,2,Both Alive,Own,Daily Wage,1.63,1,No,Rural,Yes,0,Daily Income,100000,9770,32596,DayScholar,3369,0,74.76
+282000,1,Both Alive,Own,Business,4.31,2,No,Urban,Yes,0,Self Employed,200000,12243,47167,Hostel,0,0,67.7
+693000,1,Both Alive,Rent,Unemployed,0.91,3,No,Rural,No,7936,None,0,11044,117844,DayScholar,2026,0,65.97
+192000,1,Both Alive,Rent,Agriculture,0.09,0,No,Rural,Yes,3572,Daily Income,30000,9237,147067,DayScholar,2469,112303,100.0
+222000,3,Both Alive,Rent,Private Job,1.04,0,Yes,Rural,Yes,2795,Salaried,50000,5724,119751,DayScholar,1451,0,100.0
+274000,2,Both Alive,Rent,Government Job,0.98,2,No,Rural,No,7124,Salaried,50000,1695,107331,DayScholar,2002,0,94.26
+792000,3,Both Alive,Own,Government Job,1.02,2,No,Urban,Yes,0,Salaried,150000,14310,110520,DayScholar,871,0,61.15
+294000,3,Orphan,Rent,Private Job,0.37,1,No,Urban,Yes,2438,Salaried,50000,2569,88326,DayScholar,3836,0,100.0
+717000,2,Single Parent,Rent,Daily Wage,1.96,2,No,Rural,No,2261,Daily Income,200000,3858,107670,DayScholar,2811,0,75.12
+647000,3,Both Alive,Rent,Business,3.21,1,No,Urban,Yes,6249,Self Employed,50000,2938,40782,Hostel,0,0,46.98
+68000,2,Both Alive,Rent,Government Job,0.25,3,No,Urban,No,3169,Salaried,50000,9308,72002,DayScholar,2854,0,100.0
+133000,1,Both Alive,Own,Private Job,0.09,2,No,Rural,Yes,0,Salaried,10000,4744,117187,DayScholar,1723,0,100.0
+551000,2,Both Alive,Rent,Unemployed,0.22,0,No,Rural,No,4185,None,100000,3843,54022,DayScholar,725,0,80.97
+312000,1,Both Alive,Own,Private Job,1.72,0,No,Rural,Yes,0,Salaried,150000,2311,114458,Hostel,0,0,84.54
+289000,3,Both Alive,Own,Daily Wage,1.13,2,No,Urban,No,0,Daily Income,0,671,44618,DayScholar,3511,0,75.87
+578000,3,Single Parent,Own,Daily Wage,1.01,1,No,Rural,Yes,0,Daily Income,150000,4642,47245,Hostel,0,0,84.55
+233000,1,Both Alive,Rent,Agriculture,0.51,0,No,Urban,No,2626,Daily Income,200000,1125,113796,Hostel,0,69008,100.0
+712000,3,Both Alive,Rent,Government Job,0.86,1,No,Rural,Yes,4797,Salaried,100000,6406,40027,DayScholar,2294,0,73.08
+227000,2,Both Alive,Rent,Agriculture,0.37,2,No,Urban,Yes,7521,Daily Income,100000,8483,43986,Hostel,0,99134,100.0
+229000,1,Both Alive,Rent,Private Job,0.65,2,Yes,Rural,Yes,6170,Salaried,50000,4563,140704,Hostel,0,0,100.0
+452000,3,Both Alive,Rent,Business,1.58,0,No,Rural,No,7937,Self Employed,50000,10946,33526,DayScholar,1310,0,70.62
+693000,1,Both Alive,Rent,Business,3.98,2,No,Rural,No,6925,Self Employed,200000,9144,121797,Hostel,0,0,49.39
+253000,2,Both Alive,Own,Daily Wage,2.7,3,No,Rural,Yes,0,Daily Income,100000,10110,74361,Hostel,0,0,84.15
+576000,2,Both Alive,Own,Business,2.72,3,No,Rural,Yes,0,Self Employed,0,8642,97158,Hostel,0,0,54.46
+88000,3,Single Parent,Own,Business,0.51,0,No,Urban,No,0,Self Employed,10000,1253,68286,DayScholar,1313,0,98.03
+224000,2,Both Alive,Rent,Business,0.63,3,No,Rural,Yes,5272,Self Employed,100000,12064,59533,DayScholar,2321,0,100.0
+481000,1,Both Alive,Rent,Private Job,1.22,1,No,Urban,No,2019,Salaried,0,7351,130961,DayScholar,3921,0,67.17
+398000,2,Both Alive,Own,Business,2.55,0,No,Rural,No,0,Self Employed,0,5604,48316,Hostel,0,0,52.99
+707000,1,Single Parent,Own,Unemployed,0.15,0,No,Rural,No,0,None,150000,11415,38699,Hostel,0,0,75.16
+555000,1,Both Alive,Rent,Business,0.36,1,No,Urban,Yes,6058,Self Employed,0,7843,109491,Hostel,0,0,76.46
+424000,2,Both Alive,Own,Business,0.15,3,No,Rural,Yes,0,Self Employed,200000,7426,127079,DayScholar,1586,0,100.0
+401000,3,Single Parent,Rent,Agriculture,0.95,3,No,Rural,No,7444,Daily Income,0,13921,148166,DayScholar,1421,52022,100.0
+559000,2,Single Parent,Rent,Private Job,0.37,3,No,Urban,No,1982,Salaried,200000,7327,130960,Hostel,0,0,99.9
+716000,1,Both Alive,Own,Daily Wage,0.39,0,Yes,Rural,No,0,Daily Income,0,11702,88465,Hostel,0,0,77.41
+570000,1,Single Parent,Own,Agriculture,0.07,0,No,Rural,Yes,0,Daily Income,50000,11603,46673,Hostel,0,111411,93.18
+386000,2,Both Alive,Rent,Government Job,0.43,3,No,Rural,Yes,1842,Salaried,0,9917,53395,DayScholar,3365,0,97.08
+276000,3,Both Alive,Rent,Private Job,1.98,2,No,Rural,Yes,6792,Salaried,200000,8859,134162,DayScholar,3479,0,100.0
+360000,3,Both Alive,Own,Unemployed,0.27,3,No,Urban,No,0,None,0,4185,53707,DayScholar,2159,0,82.35
+191000,1,Both Alive,Rent,Private Job,1.19,1,No,Rural,Yes,2702,Salaried,30000,8777,114749,DayScholar,3840,0,99.21
+129000,1,Both Alive,Own,Government Job,0.99,0,No,Urban,Yes,0,Salaried,50000,10369,105937,DayScholar,2417,0,91.85
+311000,3,Both Alive,Own,Government Job,1.99,1,No,Urban,Yes,0,Salaried,200000,2482,116732,Hostel,0,0,84.97
+474000,2,Both Alive,Rent,Government Job,0.14,1,No,Rural,Yes,3898,Salaried,0,5444,86416,Hostel,0,0,87.98
+504000,1,Both Alive,Rent,Daily Wage,3.8,0,No,Rural,No,5096,Daily Income,150000,8392,121512,DayScholar,3566,0,53.8
+241000,1,Both Alive,Own,Business,0.87,2,Yes,Rural,Yes,0,Self Employed,150000,10178,38758,DayScholar,1512,0,100.0
+226000,3,Both Alive,Rent,Private Job,5.4,3,No,Urban,Yes,6588,Salaried,200000,8691,97009,DayScholar,3520,0,72.01
+150000,2,Both Alive,Rent,Business,2.42,1,No,Urban,Yes,5035,Self Employed,100000,9133,43281,DayScholar,3180,0,91.71
+773000,3,Both Alive,Own,Business,0.25,0,No,Urban,Yes,0,Self Employed,150000,8962,144268,DayScholar,845,0,63.79
+590000,2,Both Alive,Own,Unemployed,0.06,1,No,Rural,Yes,0,None,100000,14388,62548,DayScholar,1223,0,80.89
+98000,2,Both Alive,Rent,Government Job,0.3,3,No,Urban,Yes,4851,Salaried,30000,843,48371,DayScholar,3448,0,100.0
+185000,2,Single Parent,Own,Daily Wage,0.75,2,No,Rural,No,0,Daily Income,30000,9898,123899,DayScholar,1601,0,100.0
+510000,1,Both Alive,Own,Unemployed,0.19,2,No,Rural,Yes,0,None,200000,3581,107593,Hostel,0,0,95.9
+232000,3,Both Alive,Own,Agriculture,0.18,2,Yes,Rural,Yes,0,Daily Income,50000,7137,135977,DayScholar,1537,188899,100.0
+712000,3,Both Alive,Rent,Daily Wage,0.62,0,No,Rural,Yes,5080,Daily Income,100000,9949,49644,DayScholar,635,0,72.38
+279000,2,Both Alive,Rent,Business,0.03,0,No,Urban,No,3103,Self Employed,100000,2791,123659,Hostel,0,0,96.97
+697000,1,Both Alive,Rent,Daily Wage,0.13,2,No,Urban,Yes,4797,Daily Income,150000,2032,53874,DayScholar,2944,0,84.02
+117000,1,Single Parent,Own,Government Job,0.54,3,No,Rural,No,0,Salaried,10000,12114,118659,DayScholar,1291,0,100.0
+719000,3,Both Alive,Rent,Agriculture,0.07,3,No,Urban,Yes,2097,Daily Income,200000,4862,44281,Hostel,0,88309,100.0
+535000,1,Both Alive,Rent,Government Job,0.51,0,No,Rural,No,2144,Salaried,200000,2153,98787,DayScholar,2278,0,87.17
+515000,1,Both Alive,Rent,Agriculture,0.64,2,Yes,Rural,Yes,6043,Daily Income,200000,5488,52289,Hostel,0,181340,100.0
+420000,2,Both Alive,Rent,Unemployed,0.6,3,No,Rural,No,4402,None,150000,6844,149988,DayScholar,1481,0,99.04
+60000,1,Both Alive,Own,Business,2.03,3,No,Urban,Yes,0,Self Employed,10000,8930,35054,DayScholar,1941,0,92.35
+446000,2,Both Alive,Rent,Agriculture,0.76,3,No,Rural,Yes,6330,Daily Income,150000,9606,130020,Hostel,0,21865,100.0
+407000,3,Both Alive,Own,Agriculture,0.63,0,No,Urban,No,0,Daily Income,200000,1938,137508,Hostel,0,116242,92.57
+249000,1,Both Alive,Own,Agriculture,0.53,2,No,Rural,Yes,0,Daily Income,150000,3516,142410,DayScholar,1243,48887,100.0
+564000,3,Both Alive,Own,Daily Wage,1.7,1,No,Rural,No,0,Daily Income,200000,10152,96846,Hostel,0,0,68.84
+250000,3,Single Parent,Own,Unemployed,2.25,2,No,Rural,Yes,0,None,0,8666,124682,Hostel,0,0,85.75
+567000,1,Both Alive,Own,Daily Wage,1.92,2,No,Rural,No,0,Daily Income,0,6889,79769,DayScholar,2253,0,53.72
+428000,1,Both Alive,Rent,Business,1.12,0,No,Rural,No,6576,Self Employed,100000,6477,59312,Hostel,0,0,80.58
+468000,3,Both Alive,Own,Agriculture,0.15,3,No,Rural,No,0,Daily Income,50000,3579,126517,Hostel,0,177473,94.23
+176000,1,Both Alive,Rent,Unemployed,0.32,3,No,Rural,No,5249,None,100000,6795,144186,DayScholar,3952,0,100.0
+193000,2,Single Parent,Own,Unemployed,0.05,0,No,Urban,No,0,None,100000,14203,34257,DayScholar,2491,0,100.0
+117000,2,Both Alive,Own,Private Job,2.67,0,No,Rural,No,0,Salaried,10000,2758,45846,DayScholar,3428,0,71.41
+615000,1,Both Alive,Rent,Business,1.08,0,No,Rural,Yes,7986,Self Employed,150000,9058,52483,DayScholar,1834,0,78.41
+744000,3,Single Parent,Own,Unemployed,1.37,0,No,Urban,Yes,0,None,100000,3491,56558,Hostel,0,0,59.06
+731000,1,Both Alive,Own,Agriculture,0.37,0,No,Urban,No,0,Daily Income,150000,4241,73188,Hostel,0,178413,69.45
+232000,1,Single Parent,Rent,Agriculture,1.87,1,No,Urban,No,6378,Daily Income,0,14381,43012,Hostel,0,128924,85.59
+208000,3,Both Alive,Own,Unemployed,0.3,2,Yes,Urban,No,0,None,150000,585,63236,DayScholar,1565,0,100.0
+139000,3,Both Alive,Own,Daily Wage,0.0,2,No,Rural,No,0,Daily Income,0,14524,134209,DayScholar,1032,0,100.0
+272000,2,Both Alive,Own,Business,0.47,2,No,Rural,No,0,Self Employed,0,14445,75076,DayScholar,3069,0,87.32
+262000,3,Both Alive,Rent,Agriculture,0.85,3,No,Rural,Yes,4860,Daily Income,50000,14829,78402,DayScholar,3372,91602,100.0
+288000,2,Orphan,Rent,Unemployed,0.65,1,No,Rural,Yes,7108,None,100000,2993,124467,DayScholar,1676,0,100.0
+735000,3,Both Alive,Rent,Agriculture,1.98,2,No,Rural,Yes,6207,Daily Income,200000,13407,62076,Hostel,0,98206,71.73
+286000,1,Both Alive,Rent,Unemployed,0.11,3,No,Urban,Yes,7895,None,0,6947,110337,DayScholar,1817,0,100.0
+718000,2,Both Alive,Own,Business,0.81,1,No,Rural,Yes,0,Self Employed,100000,8823,145827,Hostel,0,0,65.16
+591000,2,Both Alive,Own,Unemployed,0.72,1,No,Rural,No,0,None,200000,8088,105164,Hostel,0,0,76.41
+500000,2,Both Alive,Rent,Private Job,0.33,3,No,Rural,No,3170,Salaried,150000,1403,104264,DayScholar,1635,0,96.28
+461000,1,Single Parent,Own,Unemployed,1.73,1,No,Urban,Yes,0,None,100000,12148,47335,DayScholar,1698,0,77.53
+106000,1,Both Alive,Own,Unemployed,1.4,3,No,Rural,Yes,0,None,10000,5583,73773,DayScholar,2345,0,99.3
+292000,1,Both Alive,Own,Business,1.32,2,No,Urban,Yes,0,Self Employed,100000,9913,82158,DayScholar,1825,0,87.75
+364000,1,Both Alive,Own,Unemployed,2.09,3,Yes,Rural,Yes,0,None,150000,6690,58570,Hostel,0,0,100.0
+585000,1,Both Alive,Rent,Business,1.28,1,No,Urban,Yes,7844,Self Employed,150000,10455,117995,DayScholar,2039,0,77.5
+202000,2,Both Alive,Own,Private Job,0.26,2,No,Rural,Yes,0,Salaried,100000,3304,70658,DayScholar,1233,0,100.0
+474000,1,Both Alive,Own,Business,1.22,2,No,Rural,Yes,0,Self Employed,50000,1726,89184,Hostel,0,0,76.59
+572000,2,Single Parent,Own,Agriculture,0.37,0,No,Urban,Yes,0,Daily Income,0,1784,102613,DayScholar,3792,157410,82.23
+432000,1,Both Alive,Rent,Business,0.28,0,No,Rural,No,5606,Self Employed,150000,1189,88194,DayScholar,3742,0,92.3
+625000,3,Both Alive,Own,Private Job,0.08,1,No,Urban,Yes,0,Salaried,50000,5643,97507,DayScholar,2865,0,70.41
+318000,2,Both Alive,Own,Government Job,1.36,3,No,Rural,Yes,0,Salaried,150000,5282,141872,DayScholar,1495,0,96.58
+715000,3,Single Parent,Rent,Unemployed,1.24,3,No,Rural,Yes,5562,None,100000,5381,63959,DayScholar,2760,0,83.24
+530000,2,Both Alive,Rent,Business,0.27,1,No,Rural,Yes,3113,Self Employed,50000,13127,83072,DayScholar,752,0,86.94
+71000,3,Both Alive,Own,Unemployed,1.38,2,No,Urban,No,0,None,0,5007,75588,Hostel,0,0,88.05
+389000,1,Both Alive,Own,Daily Wage,2.5,1,No,Rural,No,0,Daily Income,0,2496,70533,Hostel,0,0,57.07
+795000,1,Both Alive,Own,Agriculture,0.11,1,No,Rural,Yes,0,Daily Income,0,4881,138558,Hostel,0,172542,68.81
+417000,1,Both Alive,Own,Agriculture,0.26,2,No,Rural,No,0,Daily Income,150000,8180,98582,Hostel,0,26220,100.0
+467000,2,Both Alive,Own,Daily Wage,1.39,3,No,Urban,Yes,0,Daily Income,0,9801,91743,DayScholar,2039,0,70.48
+727000,3,Both Alive,Own,Daily Wage,0.32,1,No,Rural,No,0,Daily Income,200000,13637,74518,DayScholar,3636,0,71.15
+432000,1,Both Alive,Own,Business,0.98,3,Yes,Rural,Yes,0,Self Employed,50000,929,42703,Hostel,0,0,100.0
+67000,3,Single Parent,Own,Daily Wage,0.08,1,No,Urban,Yes,0,Daily Income,10000,6200,79456,Hostel,0,0,100.0
+181000,3,Single Parent,Rent,Government Job,0.6,2,No,Urban,No,7543,Salaried,50000,12818,85491,Hostel,0,0,100.0
+407000,1,Both Alive,Rent,Unemployed,1.34,2,No,Rural,No,6379,None,50000,4281,38043,DayScholar,1766,0,81.92
+735000,1,Both Alive,Rent,Unemployed,1.16,0,No,Rural,No,3866,None,150000,9294,133212,DayScholar,3445,0,63.62
+149000,3,Both Alive,Own,Private Job,1.69,2,No,Rural,Yes,0,Salaried,50000,9131,138931,DayScholar,1660,0,93.82
+707000,1,Both Alive,Own,Daily Wage,2.1,0,No,Rural,Yes,0,Daily Income,100000,9676,98340,DayScholar,2794,0,50.55
+757000,1,Both Alive,Rent,Daily Wage,1.48,1,No,Rural,No,7472,Daily Income,150000,5968,40176,Hostel,0,0,62.09
+375000,1,Both Alive,Own,Government Job,1.11,3,No,Urban,Yes,0,Salaried,150000,10610,33936,Hostel,0,0,91.17
+237000,2,Both Alive,Own,Agriculture,0.03,2,No,Rural,Yes,0,Daily Income,150000,5007,61174,Hostel,0,107562,100.0
+599000,3,Single Parent,Rent,Agriculture,0.77,2,No,Rural,Yes,2581,Daily Income,0,1027,112632,Hostel,0,94310,94.59
+791000,3,Both Alive,Rent,Unemployed,0.04,2,No,Rural,Yes,7099,None,150000,13097,118768,DayScholar,1516,0,82.6
+100000,2,Both Alive,Rent,Unemployed,1.65,1,No,Rural,Yes,3533,None,100000,3496,138177,DayScholar,1053,0,100.0
+799000,3,Both Alive,Own,Business,0.39,0,No,Urban,Yes,0,Self Employed,50000,3967,55909,DayScholar,1308,0,52.81
+763000,1,Both Alive,Own,Government Job,0.83,1,No,Rural,Yes,0,Salaried,0,14599,74158,DayScholar,1470,0,54.06
+561000,3,Both Alive,Rent,Private Job,0.33,3,No,Rural,No,7704,Salaried,150000,1861,38366,Hostel,0,0,92.2
+204000,1,Both Alive,Own,Private Job,1.53,1,No,Urban,Yes,0,Salaried,200000,7317,115125,Hostel,0,0,96.53
+260000,2,Both Alive,Rent,Government Job,2.18,3,No,Rural,Yes,6141,Salaried,200000,14826,84337,DayScholar,3568,0,100.0
+783000,1,Both Alive,Rent,Private Job,0.51,2,No,Urban,Yes,5153,Salaried,50000,1203,89331,DayScholar,3501,0,66.73
+520000,3,Both Alive,Rent,Agriculture,1.99,3,No,Urban,No,1996,Daily Income,150000,1162,142918,Hostel,0,113938,75.05
+791000,3,Both Alive,Own,Private Job,0.31,3,No,Rural,Yes,0,Salaried,0,9056,92197,DayScholar,2333,0,63.16
+617000,3,Single Parent,Own,Private Job,0.76,0,No,Rural,No,0,Salaried,200000,9614,102042,DayScholar,1814,0,79.29
+606000,2,Single Parent,Rent,Government Job,1.96,3,No,Rural,Yes,6688,Salaried,100000,6756,80924,DayScholar,3993,0,83.64
+312000,2,Single Parent,Rent,Government Job,0.39,3,No,Urban,No,3708,Salaried,150000,12548,58842,DayScholar,3638,0,100.0
+449000,3,Both Alive,Rent,Private Job,3.08,1,No,Urban,Yes,7233,Salaried,150000,8867,47458,DayScholar,1774,0,69.36
+653000,1,Both Alive,Own,Daily Wage,0.13,2,No,Urban,Yes,0,Daily Income,100000,13960,117367,DayScholar,3612,0,75.01
+315000,2,Orphan,Own,Government Job,0.02,1,No,Urban,No,0,Salaried,200000,5797,95382,DayScholar,598,0,100.0
+768000,3,Both Alive,Rent,Business,2.34,1,No,Urban,No,7188,Self Employed,100000,9627,104319,DayScholar,3877,0,45.17
+509000,3,Both Alive,Rent,Business,0.07,2,No,Rural,Yes,5166,Self Employed,50000,9073,41170,Hostel,0,0,93.26
+69000,2,Both Alive,Rent,Agriculture,4.81,2,No,Rural,Yes,2908,Daily Income,100000,5878,149952,DayScholar,1979,182680,81.25
+301000,2,Both Alive,Own,Private Job,3.02,3,No,Rural,Yes,0,Salaried,0,14000,110145,Hostel,0,0,69.97
+310000,2,Single Parent,Rent,Daily Wage,0.15,3,No,Rural,No,5577,Daily Income,200000,805,135626,Hostel,0,0,100.0
+64000,1,Both Alive,Rent,Agriculture,0.77,0,No,Rural,Yes,7542,Daily Income,10000,5997,74942,DayScholar,1722,144143,100.0
+178000,1,Both Alive,Rent,Private Job,0.2,1,No,Urban,Yes,2977,Salaried,50000,5197,118571,DayScholar,2182,0,100.0
+433000,3,Both Alive,Own,Government Job,0.56,2,No,Urban,Yes,0,Salaried,150000,2890,46208,Hostel,0,0,89.55
+124000,2,Both Alive,Own,Business,0.06,3,No,Rural,No,0,Self Employed,50000,10895,65178,Hostel,0,0,100.0
+205000,1,Single Parent,Rent,Unemployed,0.25,2,No,Rural,No,3897,None,50000,13499,109172,Hostel,0,0,100.0
+283000,2,Both Alive,Own,Daily Wage,0.45,3,No,Rural,No,0,Daily Income,50000,7722,39039,DayScholar,1504,0,93.73
+298000,3,Both Alive,Own,Unemployed,0.58,0,No,Rural,Yes,0,None,150000,8433,44990,Hostel,0,0,96.39
+236000,1,Single Parent,Rent,Business,3.79,0,No,Rural,No,2149,Self Employed,200000,1965,36441,Hostel,0,0,83.76
+341000,1,Both Alive,Own,Unemployed,1.65,2,No,Rural,No,0,None,50000,8352,104221,DayScholar,3648,0,75.37
+122000,1,Both Alive,Rent,Government Job,1.34,0,No,Rural,No,2999,Salaried,0,11963,109314,Hostel,0,0,91.02
+276000,3,Both Alive,Own,Private Job,0.77,2,No,Urban,Yes,0,Salaried,0,902,75959,DayScholar,1635,0,86.18
+748000,2,Both Alive,Rent,Government Job,1.83,3,No,Rural,Yes,2095,Salaried,0,13401,56862,DayScholar,3408,0,59.49
+520000,1,Both Alive,Rent,Unemployed,0.41,1,No,Rural,No,2478,None,200000,7440,57273,Hostel,0,0,92.13
+669000,3,Both Alive,Own,Government Job,1.23,0,No,Urban,Yes,0,Salaried,50000,3170,123949,DayScholar,2205,0,53.46
+164000,2,Both Alive,Own,Business,5.08,3,No,Rural,Yes,0,Self Employed,50000,8595,72500,DayScholar,1017,0,63.37
+158000,3,Both Alive,Own,Daily Wage,0.38,1,No,Rural,No,0,Daily Income,10000,10493,33956,DayScholar,1720,0,93.59
+570000,2,Single Parent,Own,Government Job,1.12,1,No,Rural,No,0,Salaried,200000,11342,102089,DayScholar,3669,0,81.99
+444000,3,Both Alive,Rent,Business,1.86,1,No,Rural,No,3201,Self Employed,200000,8868,118789,Hostel,0,0,83.33
+464000,2,Both Alive,Rent,Daily Wage,2.47,3,No,Urban,No,2786,Daily Income,100000,5044,119451,DayScholar,729,0,70.25
+577000,1,Both Alive,Own,Private Job,1.27,3,No,Rural,Yes,0,Salaried,100000,9434,147782,DayScholar,1691,0,76.18
+535000,2,Both Alive,Own,Unemployed,0.33,2,Yes,Rural,Yes,0,None,0,6160,32365,Hostel,0,0,100.0
+768000,3,Both Alive,Own,Private Job,0.39,1,No,Rural,Yes,0,Salaried,200000,6574,102204,Hostel,0,0,73.74
+704000,3,Single Parent,Rent,Agriculture,0.02,1,Yes,Urban,Yes,2447,Daily Income,200000,2848,35000,Hostel,0,60868,100.0
+496000,2,Single Parent,Own,Business,1.43,1,No,Rural,Yes,0,Self Employed,100000,7350,87072,Hostel,0,0,82.06
+82000,1,Both Alive,Rent,Daily Wage,0.04,2,No,Rural,Yes,2257,Daily Income,0,4902,82499,DayScholar,2742,0,100.0
+624000,1,Orphan,Rent,Government Job,2.0,1,No,Urban,Yes,7396,Salaried,150000,1250,99211,Hostel,0,0,88.0
+736000,2,Both Alive,Rent,Private Job,0.13,3,No,Urban,No,4888,Salaried,0,9560,42907,Hostel,0,0,66.56
+773000,2,Both Alive,Own,Daily Wage,0.19,1,Yes,Rural,No,0,Daily Income,150000,4562,47336,DayScholar,2901,0,90.37
+517000,3,Both Alive,Rent,Business,0.65,0,No,Rural,No,3341,Self Employed,150000,12659,115220,Hostel,0,0,83.08
+142000,1,Single Parent,Own,Agriculture,1.34,3,No,Rural,No,0,Daily Income,0,7934,123847,DayScholar,1572,65805,100.0
+204000,2,Both Alive,Own,Private Job,0.15,2,No,Urban,No,0,Salaried,50000,8905,82331,DayScholar,963,0,94.88
+144000,1,Both Alive,Rent,Unemployed,0.58,1,No,Rural,No,2604,None,50000,2117,110672,Hostel,0,0,100.0
+137000,2,Both Alive,Rent,Daily Wage,0.66,0,No,Rural,No,2161,Daily Income,0,14451,139459,DayScholar,3397,0,96.53
+516000,2,Both Alive,Own,Unemployed,0.24,2,No,Urban,No,0,None,150000,3030,107755,DayScholar,1473,0,81.07
+60000,1,Both Alive,Own,Daily Wage,0.12,2,No,Urban,No,0,Daily Income,0,3833,98783,Hostel,0,0,100.0
+110000,2,Single Parent,Own,Daily Wage,1.81,3,No,Rural,No,0,Daily Income,100000,7734,99951,Hostel,0,0,100.0
+744000,2,Single Parent,Own,Business,0.7,2,No,Rural,Yes,0,Self Employed,50000,10289,82509,DayScholar,2496,0,71.52
+776000,3,Both Alive,Own,Business,0.01,2,No,Rural,Yes,0,Self Employed,0,14968,36472,DayScholar,3406,0,64.04
+505000,2,Single Parent,Own,Business,1.62,2,No,Urban,Yes,0,Self Employed,150000,6268,52380,DayScholar,1070,0,82.59
+508000,2,Both Alive,Own,Government Job,3.95,2,No,Urban,Yes,0,Salaried,50000,8207,133152,Hostel,0,0,44.19
+547000,2,Orphan,Rent,Daily Wage,0.93,1,No,Rural,Yes,7325,Daily Income,200000,1011,57280,DayScholar,3908,0,100.0
+93000,3,Both Alive,Rent,Private Job,0.7,1,No,Urban,Yes,1671,Salaried,10000,5582,51859,DayScholar,1282,0,100.0
+407000,1,Both Alive,Rent,Unemployed,2.11,1,No,Rural,Yes,5860,None,50000,7360,129341,DayScholar,620,0,77.55
+154000,3,Both Alive,Own,Business,3.05,1,No,Rural,Yes,0,Self Employed,50000,752,78402,DayScholar,1265,0,77.46
+131000,3,Single Parent,Rent,Business,1.4,0,No,Urban,No,6645,Self Employed,0,4633,38262,DayScholar,3975,0,93.84
+610000,1,Both Alive,Rent,Unemployed,0.59,1,No,Rural,Yes,7088,None,0,9320,41066,DayScholar,1272,0,74.58
+213000,3,Both Alive,Rent,Unemployed,0.9,2,No,Rural,No,3385,None,0,3976,45554,DayScholar,2643,0,95.15
+309000,1,Both Alive,Rent,Daily Wage,1.21,1,No,Rural,No,1975,Daily Income,100000,9678,37008,DayScholar,3685,0,90.67
+733000,3,Both Alive,Rent,Business,0.22,1,No,Urban,Yes,7999,Self Employed,0,2225,117851,Hostel,0,0,65.9
+497000,1,Both Alive,Own,Unemployed,0.59,3,No,Urban,No,0,None,150000,2593,110799,DayScholar,2509,0,81.99
+177000,2,Both Alive,Own,Government Job,1.77,2,No,Rural,Yes,0,Salaried,10000,14265,46238,DayScholar,1039,0,88.02
+365000,3,Single Parent,Rent,Government Job,1.06,1,No,Rural,Yes,3811,Salaried,0,2201,133946,Hostel,0,0,94.46
+327000,3,Both Alive,Rent,Business,0.53,1,No,Urban,Yes,2661,Self Employed,50000,8996,112025,DayScholar,3783,0,94.02
+113000,3,Both Alive,Rent,Unemployed,1.09,1,No,Urban,Yes,2315,None,50000,6334,47153,Hostel,0,0,100.0
+295000,3,Both Alive,Own,Daily Wage,0.13,0,No,Urban,Yes,0,Daily Income,0,12770,89353,DayScholar,2163,0,85.04
+448000,2,Single Parent,Own,Daily Wage,0.51,1,No,Rural,Yes,0,Daily Income,0,10972,82092,DayScholar,2880,0,86.17
+793000,3,Single Parent,Own,Daily Wage,1.58,3,No,Rural,Yes,0,Daily Income,50000,4840,142835,Hostel,0,0,62.82
+460000,2,Both Alive,Rent,Agriculture,0.25,2,No,Rural,Yes,6161,Daily Income,150000,14532,73152,DayScholar,3939,65778,100.0
+683000,2,Both Alive,Rent,Business,0.21,2,No,Urban,Yes,1961,Self Employed,50000,3307,79104,Hostel,0,0,76.29
+362000,2,Both Alive,Own,Daily Wage,3.01,1,No,Rural,No,0,Daily Income,0,11578,54283,DayScholar,1005,0,53.99
+266000,2,Both Alive,Own,Government Job,0.24,1,No,Urban,Yes,0,Salaried,150000,12146,76429,DayScholar,3547,0,100.0
+288000,1,Single Parent,Own,Unemployed,0.3,1,No,Rural,Yes,0,None,100000,6801,107223,Hostel,0,0,100.0
+637000,1,Both Alive,Rent,Private Job,3.49,2,No,Rural,Yes,1580,Salaried,0,8072,118534,Hostel,0,0,48.02
+134000,3,Both Alive,Rent,Private Job,1.33,2,No,Urban,Yes,4304,Salaried,10000,1524,84957,Hostel,0,0,99.1
+494000,1,Both Alive,Rent,Daily Wage,1.2,0,No,Rural,Yes,7533,Daily Income,100000,13004,58887,DayScholar,2071,0,81.4
+162000,1,Single Parent,Own,Private Job,1.92,3,No,Urban,No,0,Salaried,100000,3475,76172,DayScholar,1013,0,95.7
+481000,3,Both Alive,Rent,Private Job,0.12,0,No,Urban,Yes,7026,Salaried,100000,9198,34355,Hostel,0,0,88.6
+763000,3,Both Alive,Own,Agriculture,1.22,3,No,Rural,No,0,Daily Income,50000,5356,63701,Hostel,0,198263,64.27
+797000,3,Both Alive,Rent,Government Job,0.7,0,No,Rural,No,6194,Salaried,100000,11643,71534,Hostel,0,0,59.93
+365000,1,Single Parent,Own,Government Job,1.77,2,No,Rural,Yes,0,Salaried,50000,7224,101442,DayScholar,2724,0,86.61
+157000,1,Both Alive,Own,Agriculture,0.71,0,No,Rural,Yes,0,Daily Income,50000,9745,91274,DayScholar,3835,179846,100.0
+394000,3,Both Alive,Rent,Agriculture,0.97,3,No,Rural,No,3434,Daily Income,150000,11366,108108,Hostel,0,147343,100.0
+494000,2,Both Alive,Rent,Private Job,0.65,1,Yes,Urban,No,6672,Salaried,200000,3067,42279,DayScholar,1026,0,100.0
+506000,3,Both Alive,Own,Business,0.65,3,No,Urban,Yes,0,Self Employed,150000,10596,73491,Hostel,0,0,86.81
+367000,2,Both Alive,Rent,Unemployed,1.46,1,No,Rural,No,4023,None,150000,13062,106147,DayScholar,778,0,88.35
+308000,2,Both Alive,Own,Unemployed,0.99,2,No,Urban,No,0,None,150000,5087,38261,DayScholar,3253,0,87.79
+225000,3,Both Alive,Own,Private Job,1.0,3,No,Rural,Yes,0,Salaried,50000,5422,34474,DayScholar,3769,0,98.34
+540000,3,Both Alive,Own,Unemployed,0.6,0,No,Urban,No,0,None,50000,5546,121414,DayScholar,1872,0,62.11
+394000,3,Both Alive,Own,Agriculture,0.76,3,No,Rural,Yes,0,Daily Income,200000,3394,58390,DayScholar,2446,58664,100.0
+601000,1,Single Parent,Own,Government Job,1.37,1,No,Rural,Yes,0,Salaried,50000,7703,56925,DayScholar,1944,0,71.67
+165000,2,Both Alive,Own,Unemployed,1.75,2,No,Urban,No,0,None,100000,7978,112174,DayScholar,3876,0,86.12
+622000,1,Single Parent,Own,Private Job,1.19,0,No,Urban,No,0,Salaried,50000,5774,89051,Hostel,0,0,58.99
+140000,1,Both Alive,Rent,Business,2.58,3,No,Rural,Yes,2119,Self Employed,100000,9792,119007,Hostel,0,0,100.0
+192000,3,Both Alive,Own,Private Job,1.72,1,No,Rural,Yes,0,Salaried,50000,12353,34787,Hostel,0,0,87.66
+197000,1,Both Alive,Rent,Daily Wage,0.83,0,No,Urban,No,6372,Daily Income,100000,10328,141879,DayScholar,563,0,94.79
+243000,3,Both Alive,Own,Private Job,1.11,2,No,Rural,No,0,Salaried,50000,10147,103398,Hostel,0,0,87.08
+460000,2,Both Alive,Rent,Agriculture,2.61,0,No,Urban,No,3837,Daily Income,200000,4113,88177,Hostel,0,71119,68.08
+389000,3,Both Alive,Own,Government Job,0.97,2,No,Rural,No,0,Salaried,100000,538,73724,DayScholar,1262,0,82.62
+567000,1,Both Alive,Own,Government Job,1.74,0,No,Rural,No,0,Salaried,0,3584,40663,Hostel,0,0,49.45
+128000,1,Single Parent,Own,Unemployed,1.17,3,No,Urban,Yes,0,None,50000,6765,46120,DayScholar,3588,0,100.0
+605000,3,Both Alive,Own,Agriculture,0.8,1,No,Rural,Yes,0,Daily Income,0,12931,52740,DayScholar,2990,58230,74.9
+112000,3,Single Parent,Own,Daily Wage,0.28,3,No,Rural,Yes,0,Daily Income,100000,11423,132046,DayScholar,640,0,100.0
+509000,1,Both Alive,Rent,Agriculture,0.56,3,No,Urban,No,4942,Daily Income,100000,7098,32035,DayScholar,1831,76049,95.52
+264000,2,Both Alive,Rent,Private Job,3.43,2,No,Rural,No,4211,Salaried,200000,2915,130271,DayScholar,943,0,83.33
+185000,2,Both Alive,Rent,Agriculture,1.07,2,No,Urban,Yes,3837,Daily Income,0,1258,87443,DayScholar,3043,143273,100.0
+102000,3,Both Alive,Rent,Agriculture,0.83,2,No,Urban,Yes,2791,Daily Income,100000,4842,97388,Hostel,0,139466,100.0
+170000,2,Both Alive,Own,Daily Wage,2.7,3,No,Urban,Yes,0,Daily Income,0,7566,82335,DayScholar,1998,0,77.79
+722000,1,Both Alive,Own,Private Job,0.88,0,No,Rural,Yes,0,Salaried,150000,3616,73315,Hostel,0,0,65.17
+242000,3,Both Alive,Own,Business,0.75,0,No,Urban,Yes,0,Self Employed,100000,1264,94165,Hostel,0,0,90.55
+154000,1,Both Alive,Own,Business,1.42,3,No,Rural,Yes,0,Self Employed,0,11114,134922,DayScholar,2325,0,95.11
+433000,1,Both Alive,Own,Government Job,1.25,3,No,Rural,Yes,0,Salaried,150000,10006,76627,Hostel,0,0,89.95
+579000,2,Single Parent,Own,Unemployed,0.21,1,No,Rural,Yes,0,None,0,12994,38303,Hostel,0,0,80.29
+419000,3,Single Parent,Own,Agriculture,0.64,2,No,Rural,Yes,0,Daily Income,0,12687,139654,Hostel,0,133812,99.87
+755000,3,Both Alive,Own,Government Job,0.64,2,No,Rural,Yes,0,Salaried,100000,14806,79334,Hostel,0,0,67.31
+340000,2,Both Alive,Rent,Daily Wage,0.48,3,No,Rural,No,5512,Daily Income,200000,4529,85892,Hostel,0,0,100.0
+254000,1,Both Alive,Rent,Business,0.73,3,No,Rural,Yes,2204,Self Employed,0,12385,91196,Hostel,0,0,100.0
+254000,1,Both Alive,Own,Agriculture,0.53,0,No,Urban,No,0,Daily Income,0,11877,95700,DayScholar,3711,140848,87.95
+726000,1,Single Parent,Rent,Daily Wage,0.22,3,No,Rural,No,2504,Daily Income,50000,11558,69726,DayScholar,892,0,82.32
+152000,1,Both Alive,Rent,Unemployed,0.53,0,No,Urban,Yes,4960,None,100000,6945,130441,Hostel,0,0,100.0
+731000,3,Both Alive,Own,Daily Wage,0.08,3,No,Urban,Yes,0,Daily Income,200000,7943,105751,DayScholar,2948,0,81.18
+120000,3,Both Alive,Own,Agriculture,0.86,1,No,Rural,No,0,Daily Income,100000,1817,79606,Hostel,0,65706,100.0
+693000,2,Both Alive,Own,Unemployed,1.92,1,No,Urban,No,0,None,150000,1200,146973,Hostel,0,0,50.16
+110000,2,Both Alive,Rent,Daily Wage,1.29,0,No,Urban,No,4576,Daily Income,0,8027,60694,Hostel,0,0,88.3
+462000,3,Single Parent,Rent,Unemployed,0.45,2,No,Rural,No,1943,None,50000,4883,61253,DayScholar,3996,0,94.76
+64000,3,Both Alive,Own,Agriculture,0.09,1,No,Rural,Yes,0,Daily Income,50000,10893,54230,DayScholar,3453,139586,100.0
+525000,1,Both Alive,Own,Agriculture,0.23,0,No,Rural,Yes,0,Daily Income,50000,2093,83974,DayScholar,1535,80964,86.66
+663000,1,Single Parent,Rent,Unemployed,0.79,3,No,Rural,Yes,6235,None,100000,12679,93545,DayScholar,1858,0,91.03
+741000,2,Both Alive,Own,Private Job,0.23,3,No,Urban,Yes,0,Salaried,200000,13637,46925,DayScholar,1490,0,79.08
+593000,3,Both Alive,Own,Government Job,0.79,0,No,Urban,Yes,0,Salaried,200000,4645,36033,DayScholar,1538,0,74.61
+464000,2,Both Alive,Rent,Daily Wage,0.26,2,No,Rural,No,6896,Daily Income,150000,9922,92461,DayScholar,527,0,96.35
+572000,3,Both Alive,Rent,Daily Wage,1.89,0,No,Urban,Yes,4965,Daily Income,150000,7207,32665,Hostel,0,0,69.53
+704000,1,Single Parent,Rent,Private Job,0.51,0,No,Rural,Yes,4211,Salaried,150000,7497,57025,Hostel,0,0,85.92
+292000,2,Both Alive,Rent,Private Job,0.28,1,No,Urban,No,3907,Salaried,0,7526,53533,DayScholar,1332,0,88.8
+583000,2,Single Parent,Rent,Private Job,1.67,0,No,Rural,No,2122,Salaried,150000,3112,75897,DayScholar,749,0,76.9
+405000,3,Both Alive,Own,Business,0.42,0,No,Rural,Yes,0,Self Employed,50000,11829,107661,Hostel,0,0,82.86
+105000,1,Single Parent,Rent,Business,0.12,3,No,Rural,No,7604,Self Employed,0,7899,50998,Hostel,0,0,100.0
+605000,2,Both Alive,Own,Unemployed,0.84,1,No,Rural,No,0,None,50000,2408,148980,DayScholar,597,0,62.47
+137000,1,Single Parent,Rent,Business,0.87,3,Yes,Rural,Yes,3223,Self Employed,10000,7454,91248,DayScholar,2338,0,100.0
+789000,2,Both Alive,Own,Agriculture,1.25,3,No,Urban,Yes,0,Daily Income,0,14474,134493,Hostel,0,38637,60.3
+132000,1,Single Parent,Rent,Unemployed,0.27,2,No,Urban,Yes,3419,None,100000,14528,53057,DayScholar,1562,0,100.0
+308000,3,Both Alive,Own,Daily Wage,0.59,2,No,Urban,Yes,0,Daily Income,200000,14131,109244,DayScholar,3609,0,100.0
+106000,2,Both Alive,Own,Government Job,0.33,1,No,Rural,Yes,0,Salaried,50000,2290,113608,DayScholar,1823,0,100.0
+180000,2,Single Parent,Own,Agriculture,0.08,1,No,Rural,No,0,Daily Income,10000,8668,100631,DayScholar,2726,76172,100.0
+273000,1,Both Alive,Own,Daily Wage,2.09,2,No,Rural,No,0,Daily Income,100000,3428,127031,DayScholar,1391,0,79.65
+298000,1,Single Parent,Rent,Daily Wage,1.31,2,No,Urban,No,2081,Daily Income,0,14748,142713,Hostel,0,0,89.54
+115000,2,Both Alive,Rent,Unemployed,0.36,2,No,Rural,No,7543,None,10000,9780,135887,Hostel,0,0,100.0
+409000,3,Both Alive,Own,Private Job,0.91,2,No,Rural,No,0,Salaried,100000,8181,97173,DayScholar,3297,0,81.86
+166000,1,Both Alive,Own,Private Job,0.22,2,No,Urban,Yes,0,Salaried,10000,5751,110206,DayScholar,1687,0,99.59
+107000,1,Both Alive,Own,Agriculture,2.21,3,No,Urban,Yes,0,Daily Income,100000,11073,68734,Hostel,0,167351,94.6
+632000,1,Both Alive,Own,Private Job,0.12,1,No,Urban,No,0,Salaried,50000,4627,92072,DayScholar,596,0,63.56
+396000,2,Both Alive,Own,Daily Wage,0.0,3,No,Rural,Yes,0,Daily Income,0,5463,94175,DayScholar,2856,0,92.53
+85000,2,Both Alive,Rent,Private Job,0.7,3,No,Rural,Yes,3499,Salaried,10000,11637,132974,Hostel,0,0,100.0
+316000,2,Both Alive,Own,Business,0.87,0,No,Urban,No,0,Self Employed,0,12261,93783,Hostel,0,0,70.55
+67000,2,Both Alive,Own,Private Job,0.87,3,No,Rural,No,0,Salaried,100000,14054,124194,Hostel,0,0,100.0
+684000,3,Both Alive,Own,Daily Wage,0.06,2,No,Urban,Yes,0,Daily Income,150000,5811,100739,DayScholar,2796,0,77.56
+312000,3,Both Alive,Own,Unemployed,0.38,2,No,Rural,No,0,None,50000,9857,117054,DayScholar,2792,0,89.46
+751000,2,Both Alive,Own,Agriculture,0.69,0,No,Rural,Yes,0,Daily Income,50000,14471,81042,DayScholar,2798,106821,67.15
+778000,3,Both Alive,Rent,Government Job,0.24,0,No,Rural,No,3156,Salaried,0,9292,82357,DayScholar,2670,0,57.7
+362000,1,Single Parent,Own,Private Job,2.06,0,No,Urban,Yes,0,Salaried,50000,2525,38669,DayScholar,824,0,74.04
+698000,1,Single Parent,Own,Daily Wage,0.09,0,No,Rural,No,0,Daily Income,200000,10276,143272,DayScholar,1485,0,80.29
+115000,1,Both Alive,Own,Government Job,0.67,0,No,Rural,Yes,0,Salaried,100000,8315,97902,DayScholar,3048,0,100.0
+785000,2,Both Alive,Own,Government Job,1.18,3,No,Urban,No,0,Salaried,50000,1487,48910,DayScholar,1186,0,49.19
+585000,1,Single Parent,Own,Business,0.3,0,No,Urban,Yes,0,Self Employed,50000,5810,86959,DayScholar,2239,0,75.98
+533000,3,Both Alive,Rent,Government Job,0.98,3,No,Rural,Yes,6219,Salaried,100000,2465,126623,Hostel,0,0,89.9
+87000,2,Both Alive,Rent,Unemployed,1.77,1,No,Rural,Yes,3868,None,10000,7816,30366,DayScholar,3637,0,99.03
+137000,3,Both Alive,Rent,Daily Wage,0.21,0,No,Rural,Yes,5494,Daily Income,50000,10131,78415,Hostel,0,0,100.0
+275000,1,Both Alive,Own,Daily Wage,2.49,0,No,Rural,Yes,0,Daily Income,150000,13307,39907,DayScholar,558,0,79.64
+445000,1,Both Alive,Own,Private Job,0.81,3,No,Rural,Yes,0,Salaried,100000,14546,134910,DayScholar,3278,0,89.41
+424000,1,Both Alive,Own,Private Job,0.36,1,No,Urban,No,0,Salaried,0,1368,125825,Hostel,0,0,71.21
+725000,2,Orphan,Rent,Private Job,0.56,3,No,Urban,No,5895,Salaried,0,2563,62780,Hostel,0,0,83.18
+585000,3,Single Parent,Rent,Unemployed,0.37,3,No,Rural,Yes,5998,None,150000,14619,87879,DayScholar,2813,0,100.0
+758000,2,Both Alive,Own,Government Job,1.29,0,No,Rural,No,0,Salaried,0,1629,115159,DayScholar,2176,0,40.99
+371000,2,Both Alive,Own,Government Job,1.59,2,No,Rural,Yes,0,Salaried,200000,4878,65085,Hostel,0,0,91.79
+66000,1,Single Parent,Own,Business,1.79,2,No,Rural,Yes,0,Self Employed,100000,13148,95499,DayScholar,3445,0,100.0
+62000,2,Both Alive,Rent,Unemployed,4.25,3,No,Rural,Yes,5848,None,10000,12421,50426,Hostel,0,0,82.97
+682000,2,Both Alive,Rent,Private Job,1.57,0,No,Rural,Yes,7353,Salaried,100000,5654,78197,Hostel,0,0,65.29
+422000,1,Both Alive,Own,Agriculture,0.92,1,No,Rural,Yes,0,Daily Income,50000,6756,37485,Hostel,0,166450,89.94
+567000,2,Single Parent,Own,Business,0.41,2,No,Rural,No,0,Self Employed,0,6951,79527,Hostel,0,0,76.18
+333000,1,Both Alive,Rent,Agriculture,0.79,1,No,Urban,Yes,7560,Daily Income,0,2434,94600,DayScholar,3522,47924,97.18
+565000,1,Single Parent,Own,Government Job,0.04,2,No,Rural,Yes,0,Salaried,100000,13746,128560,DayScholar,1088,0,93.76
+798000,1,Single Parent,Own,Business,1.37,0,No,Urban,Yes,0,Self Employed,200000,1576,145137,DayScholar,2171,0,63.35
+74000,1,Both Alive,Own,Business,0.59,3,No,Rural,No,0,Self Employed,0,5700,121005,DayScholar,1416,0,100.0
+251000,2,Both Alive,Rent,Daily Wage,0.02,1,No,Rural,No,4838,Daily Income,150000,2139,111439,Hostel,0,0,100.0
+690000,1,Both Alive,Own,Government Job,0.06,1,No,Rural,No,0,Salaried,100000,10084,98748,DayScholar,1417,0,68.21
+544000,1,Both Alive,Own,Government Job,0.49,3,No,Rural,No,0,Salaried,0,6885,88528,Hostel,0,0,71.95
+87000,2,Both Alive,Rent,Unemployed,0.88,1,No,Urban,No,5014,None,10000,8722,134479,DayScholar,2900,0,97.55
+773000,2,Both Alive,Own,Business,0.62,2,No,Urban,No,0,Self Employed,200000,8496,57799,DayScholar,2336,0,64.2
+98000,3,Both Alive,Own,Government Job,0.97,3,No,Rural,Yes,0,Salaried,0,1203,76339,Hostel,0,0,100.0
+332000,2,Single Parent,Own,Business,0.65,2,No,Rural,No,0,Self Employed,150000,9560,46087,DayScholar,2405,0,100.0
+290000,2,Both Alive,Own,Unemployed,1.08,2,No,Urban,Yes,0,None,0,5980,37446,Hostel,0,0,82.28
+145000,3,Both Alive,Rent,Unemployed,0.25,0,No,Rural,No,4588,None,10000,8924,80460,Hostel,0,0,100.0
+533000,2,Both Alive,Own,Daily Wage,0.12,2,No,Rural,No,0,Daily Income,200000,8277,124817,Hostel,0,0,89.03
+185000,2,Both Alive,Own,Business,0.91,0,No,Rural,No,0,Self Employed,100000,13845,88260,Hostel,0,0,90.83
+596000,2,Both Alive,Rent,Government Job,0.66,1,No,Urban,Yes,3223,Salaried,150000,5862,44877,Hostel,0,0,82.7
+204000,2,Both Alive,Rent,Government Job,0.03,1,No,Rural,No,4466,Salaried,150000,1450,54723,Hostel,0,0,100.0
+584000,3,Both Alive,Rent,Business,0.48,0,No,Rural,No,1929,Self Employed,0,8750,42943,DayScholar,3854,0,68.37
+271000,2,Both Alive,Own,Business,0.11,2,No,Rural,Yes,0,Self Employed,200000,3318,40306,Hostel,0,0,100.0
+84000,2,Both Alive,Own,Business,0.76,3,No,Rural,Yes,0,Self Employed,10000,4100,66784,DayScholar,1721,0,100.0
+639000,3,Both Alive,Rent,Private Job,0.5,3,No,Rural,No,3959,Salaried,50000,11841,148628,DayScholar,3505,0,77.45
+453000,1,Both Alive,Own,Government Job,0.95,0,No,Rural,No,0,Salaried,50000,8993,50455,DayScholar,1555,0,68.58
+126000,3,Single Parent,Rent,Unemployed,1.64,1,No,Urban,Yes,7302,None,50000,8345,120027,Hostel,0,0,100.0
+292000,1,Both Alive,Rent,Government Job,0.36,1,No,Urban,Yes,6773,Salaried,150000,11542,101448,Hostel,0,0,100.0
+168000,3,Both Alive,Rent,Private Job,3.27,3,No,Urban,Yes,3218,Salaried,0,3444,59974,DayScholar,3418,0,80.47
+205000,3,Both Alive,Own,Business,0.77,0,No,Urban,Yes,0,Self Employed,0,14833,57371,DayScholar,3912,0,84.93
+170000,2,Both Alive,Own,Daily Wage,0.96,3,No,Rural,No,0,Daily Income,50000,6755,128746,DayScholar,1857,0,96.4
+287000,1,Both Alive,Rent,Business,1.14,2,No,Rural,No,2808,Self Employed,50000,8080,131248,Hostel,0,0,91.86
+170000,2,Both Alive,Own,Business,1.1,2,No,Rural,No,0,Self Employed,0,10615,33936,DayScholar,2269,0,88.11
+529000,1,Both Alive,Own,Private Job,0.72,0,No,Urban,Yes,0,Salaried,200000,9008,63166,Hostel,0,0,79.56
+93000,3,Both Alive,Rent,Government Job,0.56,0,No,Rural,No,6979,Salaried,10000,10580,55727,DayScholar,1448,0,100.0
+682000,3,Both Alive,Rent,Business,0.06,2,No,Urban,Yes,3749,Self Employed,200000,5764,144000,DayScholar,2591,0,89.65
+428000,1,Both Alive,Own,Government Job,0.02,1,No,Urban,Yes,0,Salaried,200000,11407,93969,Hostel,0,0,96.01
+654000,2,Both Alive,Own,Agriculture,0.44,0,No,Urban,Yes,0,Daily Income,0,13477,58368,DayScholar,2266,71052,68.07
+613000,2,Single Parent,Own,Unemployed,0.41,2,No,Rural,Yes,0,None,200000,10573,98531,Hostel,0,0,94.91
+484000,2,Both Alive,Rent,Government Job,0.49,2,No,Urban,Yes,5541,Salaried,200000,14741,69097,DayScholar,3567,0,98.77
+672000,2,Both Alive,Rent,Daily Wage,0.15,1,No,Rural,Yes,3917,Daily Income,0,12590,64984,DayScholar,2970,0,74.65
+577000,3,Both Alive,Own,Unemployed,1.34,1,No,Urban,Yes,0,None,200000,12805,80859,DayScholar,3038,0,73.41
+751000,3,Both Alive,Own,Daily Wage,1.94,1,No,Rural,Yes,0,Daily Income,0,8018,74291,Hostel,0,0,44.23
+341000,3,Both Alive,Rent,Business,2.79,1,No,Rural,No,6721,Self Employed,100000,8622,95228,Hostel,0,0,73.41
+379000,3,Both Alive,Own,Unemployed,0.68,3,No,Rural,Yes,0,None,150000,1678,122099,DayScholar,1730,0,99.01
+797000,3,Both Alive,Own,Government Job,1.21,1,No,Rural,No,0,Salaried,0,4355,52150,DayScholar,517,0,42.15
+502000,2,Both Alive,Rent,Unemployed,1.93,3,No,Rural,Yes,2969,None,0,14317,52061,DayScholar,1626,0,74.97
+374000,2,Both Alive,Own,Business,0.54,0,No,Rural,No,0,Self Employed,200000,13565,59178,Hostel,0,0,89.64
+436000,2,Both Alive,Rent,Private Job,0.37,2,No,Rural,No,2752,Salaried,0,13147,130872,Hostel,0,0,85.32
+348000,2,Both Alive,Own,Daily Wage,2.76,3,No,Urban,No,0,Daily Income,50000,9023,86790,DayScholar,2971,0,63.27
+496000,3,Both Alive,Own,Business,0.73,0,No,Urban,No,0,Self Employed,50000,6537,95696,DayScholar,1403,0,63.81
+721000,3,Both Alive,Rent,Private Job,0.69,0,No,Urban,Yes,7500,Salaried,100000,1027,45648,DayScholar,1254,0,67.11
+336000,3,Single Parent,Own,Unemployed,0.2,3,No,Rural,Yes,0,None,0,2559,91779,DayScholar,2070,0,100.0
+769000,1,Both Alive,Rent,Unemployed,0.11,0,No,Rural,Yes,3709,None,200000,9790,136371,DayScholar,1336,0,81.35
+641000,2,Both Alive,Rent,Business,1.85,0,No,Rural,Yes,6149,Self Employed,200000,711,66672,Hostel,0,0,73.25
+562000,2,Both Alive,Own,Government Job,0.95,3,No,Rural,Yes,0,Salaried,150000,2214,99109,Hostel,0,0,84.2
+683000,3,Single Parent,Own,Unemployed,0.39,0,No,Rural,No,0,None,100000,3188,90521,DayScholar,3905,0,70.52
+575000,2,Both Alive,Own,Government Job,0.21,1,No,Rural,Yes,0,Salaried,200000,11022,64593,DayScholar,2696,0,88.36
+409000,2,Both Alive,Own,Government Job,0.81,1,No,Rural,No,0,Salaried,150000,3766,43786,DayScholar,3170,0,83.76
+505000,3,Both Alive,Own,Government Job,0.88,2,No,Urban,No,0,Salaried,200000,5649,124036,DayScholar,1931,0,79.63
+409000,1,Both Alive,Own,Agriculture,0.23,0,No,Rural,No,0,Daily Income,150000,9724,39815,Hostel,0,92843,96.32
+666000,1,Both Alive,Own,Private Job,1.91,2,No,Urban,No,0,Salaried,50000,1832,51966,Hostel,0,0,47.15
+723000,1,Both Alive,Rent,Private Job,0.09,1,No,Rural,No,3764,Salaried,50000,14121,43794,DayScholar,2773,0,69.76
+196000,3,Single Parent,Rent,Unemployed,0.44,1,No,Urban,Yes,7436,None,100000,7320,61423,DayScholar,1151,0,100.0
+302000,2,Both Alive,Rent,Unemployed,1.14,1,No,Rural,Yes,6743,None,100000,10532,129480,DayScholar,2179,0,97.81
+602000,3,Both Alive,Own,Government Job,0.32,0,No,Rural,No,0,Salaried,0,6391,51302,DayScholar,759,0,60.7
+99000,3,Orphan,Own,Agriculture,1.76,0,No,Urban,No,0,Daily Income,50000,14515,91064,DayScholar,2252,196950,100.0
+288000,2,Both Alive,Rent,Government Job,1.35,1,No,Urban,No,7844,Salaried,100000,5186,116800,Hostel,0,0,86.73
+607000,1,Both Alive,Own,Agriculture,1.56,2,No,Rural,Yes,0,Daily Income,0,14502,115140,DayScholar,2127,33162,60.5
+282000,1,Both Alive,Own,Government Job,0.13,2,No,Rural,No,0,Salaried,50000,10830,57835,DayScholar,2547,0,93.86
+65000,3,Both Alive,Rent,Daily Wage,0.15,3,No,Rural,Yes,5870,Daily Income,0,13243,103356,DayScholar,2721,0,100.0
+381000,1,Both Alive,Rent,Daily Wage,0.34,1,No,Rural,Yes,5801,Daily Income,0,4591,79282,DayScholar,2366,0,92.28
+527000,3,Single Parent,Own,Business,0.73,2,No,Urban,Yes,0,Self Employed,150000,943,82714,Hostel,0,0,89.64
+791000,3,Both Alive,Own,Government Job,1.38,1,No,Rural,Yes,0,Salaried,100000,12866,97035,Hostel,0,0,54.82
+134000,2,Both Alive,Rent,Unemployed,1.81,2,No,Rural,Yes,2366,None,50000,10190,53814,Hostel,0,0,100.0
+63000,2,Both Alive,Rent,Private Job,1.22,3,No,Rural,Yes,1592,Salaried,50000,1426,54089,Hostel,0,0,100.0
+705000,2,Single Parent,Rent,Business,2.64,3,No,Urban,Yes,6661,Self Employed,200000,6746,103162,DayScholar,1291,0,74.41
+177000,3,Single Parent,Rent,Unemployed,1.34,1,No,Rural,Yes,4678,None,100000,1122,85831,DayScholar,3636,0,100.0
+665000,2,Single Parent,Rent,Daily Wage,0.37,2,No,Rural,No,2851,Daily Income,200000,10171,62746,DayScholar,1640,0,93.82
+563000,1,Both Alive,Own,Government Job,0.31,0,No,Rural,No,0,Salaried,200000,3537,111673,DayScholar,3727,0,79.21
+633000,1,Both Alive,Own,Business,1.19,3,No,Rural,Yes,0,Self Employed,100000,12077,81940,Hostel,0,0,73.2
+500000,3,Both Alive,Rent,Government Job,0.21,1,No,Rural,Yes,6416,Salaried,0,12010,116796,DayScholar,3065,0,85.57
+253000,3,Both Alive,Rent,Daily Wage,0.1,1,No,Rural,No,7103,Daily Income,200000,733,66476,Hostel,0,0,100.0
+774000,2,Both Alive,Rent,Business,0.76,2,No,Urban,Yes,5218,Self Employed,50000,10309,56283,Hostel,0,0,64.94
+451000,3,Both Alive,Own,Daily Wage,1.72,1,No,Rural,Yes,0,Daily Income,0,3191,31769,DayScholar,3809,0,66.39
+85000,3,Both Alive,Own,Agriculture,0.11,3,No,Rural,No,0,Daily Income,30000,10722,72278,DayScholar,2107,167578,100.0
+494000,1,Both Alive,Rent,Daily Wage,1.57,1,No,Urban,No,4595,Daily Income,150000,7902,76994,DayScholar,2339,0,74.81
+232000,1,Both Alive,Rent,Government Job,1.67,1,No,Rural,Yes,6681,Salaried,200000,886,92898,Hostel,0,0,100.0
+359000,2,Both Alive,Rent,Private Job,0.66,0,No,Rural,Yes,4038,Salaried,0,2134,45634,DayScholar,3557,0,87.69
+704000,3,Both Alive,Rent,Daily Wage,0.06,0,No,Urban,Yes,2796,Daily Income,50000,8610,135035,Hostel,0,0,70.32
+385000,3,Both Alive,Rent,Unemployed,0.19,3,No,Rural,Yes,3776,None,200000,4633,40965,Hostel,0,0,100.0
+469000,1,Both Alive,Rent,Private Job,1.23,2,No,Rural,Yes,6639,Salaried,100000,9876,57566,DayScholar,566,0,88.78
+177000,3,Both Alive,Rent,Agriculture,1.24,0,No,Urban,Yes,1502,Daily Income,30000,6081,82196,DayScholar,3747,147521,100.0
+783000,1,Both Alive,Rent,Business,2.29,2,No,Urban,Yes,4992,Self Employed,50000,2467,128679,DayScholar,1183,0,49.7
+284000,2,Both Alive,Rent,Business,0.87,3,No,Rural,No,3253,Self Employed,150000,6068,78285,DayScholar,1778,0,100.0
+591000,1,Both Alive,Own,Private Job,0.13,0,No,Rural,No,0,Salaried,100000,7784,85499,DayScholar,562,0,71.16
+172000,3,Single Parent,Own,Business,0.13,2,No,Urban,No,0,Self Employed,50000,8932,49420,DayScholar,1313,0,100.0
+199000,2,Both Alive,Rent,Daily Wage,1.28,0,No,Rural,No,5731,Daily Income,50000,5645,55236,DayScholar,902,0,90.4
+618000,1,Both Alive,Own,Private Job,0.2,3,No,Rural,Yes,0,Salaried,50000,6267,36218,DayScholar,2739,0,79.73
+60000,1,Both Alive,Own,Government Job,0.4,3,No,Rural,No,0,Salaried,0,9253,79892,DayScholar,2502,0,100.0
+149000,2,Both Alive,Own,Daily Wage,0.67,0,No,Rural,Yes,0,Daily Income,30000,2499,104031,DayScholar,1852,0,96.0
+713000,2,Both Alive,Own,Daily Wage,0.03,2,No,Rural,Yes,0,Daily Income,100000,5401,129389,Hostel,0,0,75.96

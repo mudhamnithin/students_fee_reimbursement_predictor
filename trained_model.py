@@ -1,55 +1,81 @@
-# train_model.py
 import pandas as pd
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
 import joblib
+from catboost import CatBoostRegressor, Pool
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score, mean_absolute_error
 
-# Load dataset
+# Load Data
 df = pd.read_csv("student_reimbursement_data.csv")
 
-# Mapping
-mappings = {
-    "Parent_Type": {"Both Alive": 0, "Single Mother": 1, "Single Father": 2, "Orphan": 3},
-    "House_Type": {"Own": 0, "Rent": 1},
-    "Parent_Occupation": {"Unemployed": 0, "Daily Wage": 1, "Private Job": 2, "Govt Job": 3, "Business": 4, "Agriculture": 5, "Foreign": 6},
-    "Job_Type": {"Temporary": 0, "Contract": 1, "Permanent": 2, "Self-employed": 3},
-    "Any_Disability": {"No": 0, "Yes": 1},
-    "Hostel_or_DayScholar": {"DayScholar": 0, "Hostel": 1},
-    "Urban_Rural": {"Urban": 0, "Rural": 1},
-    "First_Generation_Learner": {"no": 0, "yes": 1}
-}
+target = "Reimbursement_%"
+y = df[target]
+X = df.drop(columns=[target])
 
-for col, mapping in mappings.items():
-    df[col] = df[col].map(mapping)
+# Categorical columns
+cat_cols = ['Parent_Type','House_Type','Parent_Occupation','Any_Disability',
+            'Urban_Rural','First_Generation_Learner','Job_Type','Hostel_or_DayScholar']
 
-# Features & Target
-X = df.drop("Reimbursement_%", axis=1)
-y = df["Reimbursement_%"]
+# Create categorical mappings
+mappings = {}
+for col in cat_cols:
+    unique_vals = df[col].dropna().unique()
+    mappings[col] = {v: i for i, v in enumerate(unique_vals)}
+    df[col] = df[col].map(mappings[col])
 
-# Oversample Single Parent / Orphan
-boost_df = df[df["Parent_Type"].isin([1, 2, 3])].copy()
-df_balanced = pd.concat([df, boost_df, boost_df])
+X = df.drop(columns=[target])
+y = df[target]
 
-X = df_balanced.drop("Reimbursement_%", axis=1)
-y = df_balanced["Reimbursement_%"]
+# ✅ Important fairness-weighted features
+important_features = [
+    "Parent_Type",
+    "Medical_Expenditure",
+    "Agriculture_Income",
+    "Annual_Income",
+    "Any_Disability"
+]
 
-# Train/Test Split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+# ✅ Create feature weights (3x for important features)
+feature_weights = [3 if col in important_features else 1 for col in X.columns]
 
-# Train
-model = RandomForestClassifier(class_weight="balanced", n_estimators=200, random_state=42)
-model.fit(X_train, y_train)
+print("\n🎯 Feature Weights Applied:")
+for col, w in zip(X.columns, feature_weights):
+    print(f"{col}: {w}")
+
+# Train/Test split
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42
+)
+
+train_pool = Pool(X_train, y_train, cat_features=[X.columns.get_loc(c) for c in cat_cols])
+test_pool = Pool(X_test, y_test, cat_features=[X.columns.get_loc(c) for c in cat_cols])
+
+# ✅ Train CatBoost with fairness feature weights
+model = CatBoostRegressor(
+    iterations=1500,
+    learning_rate=0.03,
+    depth=8,
+    l2_leaf_reg=3,
+    loss_function='RMSE',
+    eval_metric='R2',
+    random_seed=42,
+    feature_weights=feature_weights,
+    verbose=False
+)
+
+model.fit(train_pool)
 
 # Evaluate
-print(classification_report(y_test, model.predict(X_test)))
+preds = model.predict(test_pool)
+print("\n📊 MODEL PERFORMANCE")
+print("R2 Score:", r2_score(y_test, preds))
+print("MAE:", mean_absolute_error(y_test, preds))
 
-# Save model + mappings + feature order
-joblib.dump({
+# Save dictionary
+model_dict = {
     "model": model,
     "mappings": mappings,
-    "feature_order": list(X.columns)   # 🔹 save feature names + order
-}, "reimbursement_model.pkl")
+    "feature_order": list(X.columns)
+}
 
-print("✅ Model & feature order saved!")
+joblib.dump(model_dict, "reimbursement_model.pkl")
+print("\n✅ Model saved as reimbursement_model.pkl with fairness weighting")
